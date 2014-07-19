@@ -10,6 +10,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [High Performance](#high-performance)
     - [Parallel Computing](#parallel-computing)
     - [Machine Learning](#machine-learning)
+    - [R Development](#r-development)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
@@ -31,7 +32,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 ## Data Manipulation
 *Packages for cooking data.*
 
-* [dplyr](https://github.com/hadley/dplyr) -  Blazing fast data frames manipulation.
+* [dplyr](https://github.com/hadley/dplyr) -  Blazing fast data frames manipulation and database query.
 * [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
 * [reshape2](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
 * [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
@@ -180,6 +181,13 @@ Angle Regression
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
+## R Development
+*Packages for packages.*
+* [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
+* [testthat](https://github.com/hadley/testthat) - An R package to make testing fun.
+* [R6](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
+* [pryr](https://github.com/hadley/pryr) -  Make it easier to understand what's going on in R.
+* [roxygen](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
 
 # Resources
 
