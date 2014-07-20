@@ -9,6 +9,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Web Technologies and Services](#web-technologies-and-services)
     - [High Performance](#high-performance)
     - [Parallel Computing](#parallel-computing)
+    - [Database Management](#database-management)
     - [Machine Learning](#machine-learning)
     - [R Development](#r-development)
 - [Resources](#resources)
@@ -46,6 +47,8 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [lattice](http://lattice.r-forge.r-project.org/) -  A powerful and elegant high-level data visualization system.
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display  output.
+* [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
+* [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
@@ -63,10 +66,24 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [compliler](http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html) - speeding up your R code using the JIT 
 
 ## Parallel Computing
-*Packages for Parallel Computing.*
+*Packages for parallel computing.*
 * [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) -  R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
 * [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
 * [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel
+
+## Database Management
+*Packages for managing data.*
+* [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
+* [DBI](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
+* [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
+* [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
+* [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.
+* [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) - SQLite interface for R
+* [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - Provides access to databases through the JDBC interface.
+* [rmongodb](https://github.com/gerald-lindsly/rmongodb) - R driver for MongoDB.
+* [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
+* [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
+* [RHive](https://github.com/nexr/RHive) -  R extension facilitating distributed computing via Apache Hive.
 
 ## Machine Learning
 *Packages for making R cleverer.*
@@ -188,6 +205,7 @@ Angle Regression
 * [R6](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
 * [pryr](https://github.com/hadley/pryr) -  Make it easier to understand what's going on in R.
 * [roxygen](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
+* [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
 
 # Resources
 
