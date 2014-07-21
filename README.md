@@ -6,6 +6,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Integrated Development Environment](#integrated-development-environment)
     - [Data Manipulation](#data-manipulation)
     - [Graphic Displays](#graphic-displays)
+    - [Reproducible Research](#reproducible-research)
     - [Web Technologies and Services](#web-technologies-and-services)
     - [High Performance](#high-performance)
     - [Parallel Computing](#parallel-computing)
@@ -49,6 +50,14 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display  output.
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
+
+## Reproducible Research
+*Packages for literate programming.*
+
+* [knitr](http://yihui.name/knitr/) - Easy dynamic report generation in R.
+* [xtable](http://cran.r-project.org/web/packages/xtable/index.html) -  Export tables to LaTeX or HTML.
+* [rapport](http://rapport-package.info/#intro) - An R templating system.
+* [rmarkdown](http://rmarkdown.rstudio.com/) -  Dynamic documents for R.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
@@ -206,6 +215,8 @@ Angle Regression
 * [pryr](https://github.com/hadley/pryr) -  Make it easier to understand what's going on in R.
 * [roxygen](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
+* [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
+* [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R.
 
 # Resources
 
