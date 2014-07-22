@@ -12,6 +12,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Parallel Computing](#parallel-computing)
     - [Database Management](#database-management)
     - [Machine Learning](#machine-learning)
+    - [Finance](#finance)
     - [R Development](#r-development)
 - [Resources](#resources)
     - [Websites](#websites)
@@ -100,112 +101,118 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [h2o](http://cran.r-project.org/web/packages/h2o/index.html) - Deeplearning, Random forests, GBM, KMeans, PCA, GLM
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
-* [nnet](http://cran.r-project.org/web/packages/nnet/index.html) - nnet: Feed-forward Neural Networks and Multinomial Log-Linear Models
-* [rpart](http://cran.r-project.org/web/packages/rpart/index.html) - rpart: Recursive Partitioning and Regression Trees
-* [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and
+* [rpart](http://cran.r-project.org/web/packages/rpart/index.html) - Recursive Partitioning and Regression Trees
+* [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - Breiman and Cutler's random forests for classification and
 regression
-* [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - lasso2: L1 constrained estimation aka ‘lasso’
-* [gbm](http://cran.r-project.org/web/packages/gbm/index.html) - gbm: Generalized Boosted Regression Models
-* [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - e1071: Misc Functions of the Department of Statistics (e1071), TU Wien
-* [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - tgp: Bayesian treed Gaussian process models
-* [rgp](http://cran.r-project.org/web/packages/rgp/index.html) - rgp: R genetic programming framework
-* [arules](http://cran.r-project.org/web/packages/arules/index.html) - arules: Mining Association Rules and Frequent Itemsets
-* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - frbs: Fuzzy Rule-based Systems for Classification and Regression Tasks
-* [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - e1071: Misc Functions of the Department of Statistics (e1071), TU Wien
-* [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - rattle: Graphical user interface for data mining in R
-* [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - ahaz: Regularization for semiparametric additive hazards regression
-* [arules](http://cran.r-project.org/web/packages/arules/index.html) - arules: Mining Association Rules and Frequent Itemsets
-* [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - bigrf: Big Random Forests: Classification and Regression Forests for
+* [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - L1 constrained estimation aka ‘lasso’
+* [gbm](http://cran.r-project.org/web/packages/gbm/index.html) - Generalized Boosted Regression Models
+* [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - Misc Functions of the Department of Statistics (e1071), TU Wien
+* [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - Bayesian treed Gaussian process models
+* [rgp](http://cran.r-project.org/web/packages/rgp/index.html) - R genetic programming framework
+* [arules](http://cran.r-project.org/web/packages/arules/index.html) - Mining Association Rules and Frequent Itemsets
+* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
+* [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R
+* [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression
+* [arules](http://cran.r-project.org/web/packages/arules/index.html) - Mining Association Rules and Frequent Itemsets
+* [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - Big Random Forests: Classification and Regression Forests for
 Large Data Sets
-* [bigRR](http://cran.r-project.org/web/packages/bigRR/index.html) - bigRR: Generalized Ridge Regression (with special advantage for p >> n
+* [bigRR](http://cran.r-project.org/web/packages/bigRR/index.html) - Generalized Ridge Regression (with special advantage for p >> n
 cases)
-* [bmrm](http://cran.r-project.org/web/packages/bmrm/index.html) - bmrm: Bundle Methods for Regularized Risk Minimization Package
-* [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - Boruta: A wrapper algorithm for all-relevant feature selection
-* [bst](http://cran.r-project.org/web/packages/bst/index.html) - bst: Gradient Boosting
-* [C50](http://cran.r-project.org/web/packages/C50/index.html) - C50: C5.0 Decision Trees and Rule-Based Models
-* [caret](http://cran.r-project.org/web/packages/caret/index.html) - caret: Classification and Regression Training
-* [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal
+* [bmrm](http://cran.r-project.org/web/packages/bmrm/index.html) - Bundle Methods for Regularized Risk Minimization Package
+* [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - A wrapper algorithm for all-relevant feature selection
+* [bst](http://cran.r-project.org/web/packages/bst/index.html) - Gradient Boosting
+* [C50](http://cran.r-project.org/web/packages/C50/index.html) - C5.0 Decision Trees and Rule-Based Models
+* [caret](http://cran.r-project.org/web/packages/caret/index.html) - Classification and Regression Training
+* [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - Classification, regression, feature evaluation and ordinal
 evaluation
-* [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival
+* [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - Cox models by likelihood based boosting for a single survival
 endpoint or competing risks
-* [Cubist](http://cran.r-project.org/web/packages/Cubist/index.html) - Cubist: Rule- and Instance-Based Regression Modeling
-* [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - e1071: Misc Functions of the Department of Statistics (e1071), TU Wien
-* [earth](http://cran.r-project.org/web/packages/earth/index.html) - earth: Multivariate Adaptive Regression Spline Models
-* [elasticnet](http://cran.r-project.org/web/packages/elasticnet/index.html) - elasticnet: Elastic-Net for Sparse Estimation and Sparse PCA
-* [ElemStatLearn](http://cran.r-project.org/web/packages/ElemStatLearn/index.html) - ElemStatLearn: Data sets, functions and examples from the book: "The Elements
+* [Cubist](http://cran.r-project.org/web/packages/Cubist/index.html) - Rule- and Instance-Based Regression Modeling
+* [earth](http://cran.r-project.org/web/packages/earth/index.html) - Multivariate Adaptive Regression Spline Models
+* [elasticnet](http://cran.r-project.org/web/packages/elasticnet/index.html) - Elastic-Net for Sparse Estimation and Sparse PCA
+* [ElemStatLearn](http://cran.r-project.org/web/packages/ElemStatLearn/index.html) - Data sets, functions and examples from the book: "The Elements
 of Statistical Learning, Data Mining, Inference, and
 Prediction" by Trevor Hastie, Robert Tibshirani and Jerome
 Friedman
-* [evtree](http://cran.r-project.org/web/packages/evtree/index.html) - evtree: Evolutionary Learning of Globally Optimal Trees
-* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - frbs: Fuzzy Rule-based Systems for Classification and Regression Tasks
-* [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) - GAMBoost: Generalized linear and additive models by likelihood based
+* [evtree](http://cran.r-project.org/web/packages/evtree/index.html) - Evolutionary Learning of Globally Optimal Trees
+* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
+* [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) - Generalized linear and additive models by likelihood based
 boosting
-* [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) - gamboostLSS: Boosting Methods for GAMLSS
-* [gbm](http://cran.r-project.org/web/packages/gbm/index.html) - gbm: Generalized Boosted Regression Models
-* [glmnet](http://cran.r-project.org/web/packages/glmnet/index.html) - glmnet: Lasso and elastic-net regularized generalized linear models
-* [glmpath](http://cran.r-project.org/web/packages/glmpath/index.html) - glmpath: L1 Regularization Path for Generalized Linear Models and Cox
+* [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) - Boosting Methods for GAMLSS
+* [gbm](http://cran.r-project.org/web/packages/gbm/index.html) - Generalized Boosted Regression Models
+* [glmnet](http://cran.r-project.org/web/packages/glmnet/index.html) - Lasso and elastic-net regularized generalized linear models
+* [glmpath](http://cran.r-project.org/web/packages/glmpath/index.html) - L1 Regularization Path for Generalized Linear Models and Cox
 Proportional Hazards Model
-* [GMMBoost](http://cran.r-project.org/web/packages/GMMBoost/index.html) - GMMBoost: Likelihood-based Boosting for Generalized mixed models
-* [grplasso](http://cran.r-project.org/web/packages/grplasso/index.html) - grplasso: Fitting user specified models with Group Lasso penalty
-* [grpreg](http://cran.r-project.org/web/packages/grpreg/index.html) - grpreg: Regularization paths for regression models with grouped
+* [GMMBoost](http://cran.r-project.org/web/packages/GMMBoost/index.html) - Likelihood-based Boosting for Generalized mixed models
+* [grplasso](http://cran.r-project.org/web/packages/grplasso/index.html) - Fitting user specified models with Group Lasso penalty
+* [grpreg](http://cran.r-project.org/web/packages/grpreg/index.html) - Regularization paths for regression models with grouped
 covariates
-* [hda](http://cran.r-project.org/web/packages/hda/index.html) - hda: Heteroscedastic Discriminant Analysis
-* [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - ipred: Improved Predictors
+* [hda](http://cran.r-project.org/web/packages/hda/index.html) - Heteroscedastic Discriminant Analysis
+* [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - Improved Predictors
 * [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: Kernel-based Machine Learning Lab
-* [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - klaR: Classification and visualization
-* [lars](http://cran.r-project.org/web/packages/lars/index.html) - lars: Least Angle Regression, Lasso and Forward Stagewise
-* [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - lasso2: L1 constrained estimation aka ‘lasso’
-* [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - LiblineaR: Linear Predictive Models Based On The Liblinear C/C++ Library
-* [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - LogicReg: Logic Regression
-* [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - maptree: Mapping, pruning, and graphing tree models
-* [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - mboost: Model-Based Boosting
-* [mvpart](http://cran.r-project.org/web/packages/mvpart/index.html) - mvpart: Multivariate partitioning
-* [ncvreg](http://cran.r-project.org/web/packages/ncvreg/index.html) - ncvreg: Regularization paths for SCAD- and MCP-penalized regression
+* [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - Classification and visualization
+* [lars](http://cran.r-project.org/web/packages/lars/index.html) - Least Angle Regression, Lasso and Forward Stagewise
+* [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - L1 constrained estimation aka ‘lasso’
+* [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - Linear Predictive Models Based On The Liblinear C/C++ Library
+* [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - Logic Regression
+* [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - Mapping, pruning, and graphing tree models
+* [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - Model-Based Boosting
+* [mvpart](http://cran.r-project.org/web/packages/mvpart/index.html) - Multivariate partitioning
+* [ncvreg](http://cran.r-project.org/web/packages/ncvreg/index.html) - Regularization paths for SCAD- and MCP-penalized regression
 models
-* [nnet](http://cran.r-project.org/web/packages/nnet/index.html) - nnet: Feed-forward Neural Networks and Multinomial Log-Linear Models
-* [oblique.tree](http://cran.r-project.org/web/packages/oblique.tree/index.html) - oblique.tree: Oblique Trees for Classification Data
-* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) - pamr: Pam: prediction analysis for microarrays
-* [party](http://cran.r-project.org/web/packages/party/index.html) - party: A Laboratory for Recursive Partytioning
-* [partykit](http://cran.r-project.org/web/packages/partykit/index.html) - partykit: A Toolkit for Recursive Partytioning
-* [penalized](http://cran.r-project.org/web/packages/penalized/index.html) - penalized: L1 (lasso and fused lasso) and L2 (ridge) penalized estimation
+* [nnet](http://cran.r-project.org/web/packages/nnet/index.html) - eed-forward Neural Networks and Multinomial Log-Linear Models
+* [oblique.tree](http://cran.r-project.org/web/packages/oblique.tree/index.html) - Oblique Trees for Classification Data
+* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) - Pam: prediction analysis for microarrays
+* [party](http://cran.r-project.org/web/packages/party/index.html) - A Laboratory for Recursive Partytioning
+* [partykit](http://cran.r-project.org/web/packages/partykit/index.html) - A Toolkit for Recursive Partytioning
+* [penalized](http://cran.r-project.org/web/packages/penalized/index.html) - L1 (lasso and fused lasso) and L2 (ridge) penalized estimation
 in GLMs and in the Cox model
-* [penalizedLDA](http://cran.r-project.org/web/packages/penalizedLDA/index.html) - penalizedLDA: Penalized classification using Fisher's linear discriminant
-* [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - penalizedSVM: Feature Selection SVM using penalty functions
+* [penalizedLDA](http://cran.r-project.org/web/packages/penalizedLDA/index.html) - Penalized classification using Fisher's linear discriminant
+* [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - Feature Selection SVM using penalty functions
 * [quantregForest](http://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest: Quantile Regression Forests
 * [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and
 regression
 * [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification
 (RF-SRC)
-* [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - rattle: Graphical user interface for data mining in R
-* [rda](http://cran.r-project.org/web/packages/rda/index.html) - rda: Shrunken Centroids Regularized Discriminant Analysis
-* [rdetools](http://cran.r-project.org/web/packages/rdetools/index.html) - rdetools: Relevant Dimension Estimation (RDE) in Feature Spaces
-* [REEMtree](http://cran.r-project.org/web/packages/REEMtree/index.html) - REEMtree: Regression Trees with Random Effects for Longitudinal (Panel)
+* [rda](http://cran.r-project.org/web/packages/rda/index.html) - Shrunken Centroids Regularized Discriminant Analysis
+* [rdetools](http://cran.r-project.org/web/packages/rdetools/index.html) - Relevant Dimension Estimation (RDE) in Feature Spaces
+* [REEMtree](http://cran.r-project.org/web/packages/REEMtree/index.html) - Regression Trees with Random Effects for Longitudinal (Panel)
 Data
-* [relaxo](http://cran.r-project.org/web/packages/relaxo/index.html) - relaxo: Relaxed Lasso
-* [rgenoud](http://cran.r-project.org/web/packages/rgenoud/index.html) - rgenoud: R version of GENetic Optimization Using Derivatives
-* [rgp](http://cran.r-project.org/web/packages/rgp/index.html) - rgp: R genetic programming framework
-* [Rmalschains](http://cran.r-project.org/web/packages/Rmalschains/index.html) - Rmalschains: Continuous Optimization using Memetic Algorithms with Local
+* [relaxo](http://cran.r-project.org/web/packages/relaxo/index.html) - Relaxed Lasso
+* [rgenoud](http://cran.r-project.org/web/packages/rgenoud/index.html) - R version of GENetic Optimization Using Derivatives
+* [rgp](http://cran.r-project.org/web/packages/rgp/index.html) - R genetic programming framework
+* [Rmalschains](http://cran.r-project.org/web/packages/Rmalschains/index.html) - Continuous Optimization using Memetic Algorithms with Local
 Search Chains (MA-LS-Chains) in R
-* [rminer](http://cran.r-project.org/web/packages/rminer/index.html) - rminer: Simpler use of data mining methods (e.g. NN and SVM) in
+* [rminer](http://cran.r-project.org/web/packages/rminer/index.html) - Simpler use of data mining methods (e.g. NN and SVM) in
 classification and regression
-* [ROCR](http://cran.r-project.org/web/packages/ROCR/index.html) - ROCR: Visualizing the performance of scoring classifiers
-* [RoughSets](http://cran.r-project.org/web/packages/RoughSets/index.html) - RoughSets: Data Analysis Using Rough Set and Fuzzy Rough Set Theories
-* [rpart](http://cran.r-project.org/web/packages/rpart/index.html) - rpart: Recursive Partitioning and Regression Trees
-* [RPMM](http://cran.r-project.org/web/packages/RPMM/index.html) - RPMM: Recursively Partitioned Mixture Model
-* [RSNNS](http://cran.r-project.org/web/packages/RSNNS/index.html) - RSNNS: Neural Networks in R using the Stuttgart Neural Network
+* [ROCR](http://cran.r-project.org/web/packages/ROCR/index.html) - Visualizing the performance of scoring classifiers
+* [RoughSets](http://cran.r-project.org/web/packages/RoughSets/index.html) - Data Analysis Using Rough Set and Fuzzy Rough Set Theories
+* [rpart](http://cran.r-project.org/web/packages/rpart/index.html) - Recursive Partitioning and Regression Trees
+* [RPMM](http://cran.r-project.org/web/packages/RPMM/index.html) - Recursively Partitioned Mixture Model
+* [RSNNS](http://cran.r-project.org/web/packages/RSNNS/index.html) - Neural Networks in R using the Stuttgart Neural Network
 Simulator (SNNS)
-* [RWeka](http://cran.r-project.org/web/packages/RWeka/index.html) - RWeka: R/Weka interface
+* [RWeka](http://cran.r-project.org/web/packages/RWeka/index.html) - R/Weka interface
 * [RXshrink](http://cran.r-project.org/web/packages/RXshrink/index.html) - RXshrink: Maximum Likelihood Shrinkage via Generalized Ridge or Least
 Angle Regression
-* [sda](http://cran.r-project.org/web/packages/sda/index.html) - sda: Shrinkage Discriminant Analysis and CAT Score Variable Selection
-* [SDDA](http://cran.r-project.org/web/packages/SDDA/index.html) - SDDA: Stepwise Diagonal Discriminant Analysis
-* [svmpath](http://cran.r-project.org/web/packages/svmpath/index.html) - svmpath: svmpath: the SVM Path algorithm
-* [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - tgp: Bayesian treed Gaussian process models
-* [tree](http://cran.r-project.org/web/packages/tree/index.html) - tree: Classification and regression trees
-* [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - varSelRF: Variable selection using random forests
+* [sda](http://cran.r-project.org/web/packages/sda/index.html) - Shrinkage Discriminant Analysis and CAT Score Variable Selection
+* [SDDA](http://cran.r-project.org/web/packages/SDDA/index.html) - Stepwise Diagonal Discriminant Analysis
+* [svmpath](http://cran.r-project.org/web/packages/svmpath/index.html) - svmpath: the SVM Path algorithm
+* [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - Bayesian treed Gaussian process models
+* [tree](http://cran.r-project.org/web/packages/tree/index.html) - Classification and regression trees
+* [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - Variable selection using random forests
 * [caret](http://caret.r-forge.r-project.org/) - Unified interface to ~150 ML algorithms in R.
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+
+## Finance
+*Packages for dealing with money.*
+* [quantmod](http://www.quantmod.com/) - Quantitative Financial Modelling & Trading Framework for R.
+* [TTR](http://cran.r-project.org/web/packages/TTR/index.html) - Functions and data to construct technical trading rules with R.
+* [PerformanceAnalytics](http://cran.r-project.org/web/packages/PerformanceAnalytics/index.html) - Econometric tools for performance and risk analysis.
+* [zoo](http://cran.r-project.org/web/packages/zoo/index.html) - S3 Infrastructure for Regular and Irregular Time Series.
+* [xts](http://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series.
+* [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
+* [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
 
 ## R Development
 *Packages for packages.*
@@ -228,6 +235,7 @@ Where to discover new R-esources.
 * [R Bloggers](http://www.r-bloggers.com/) - There are people scattered across the Web who blog about R. This is simply an aggregator of many of those feeds.
 * [DataCamp](https://www.datacamp.com/) - Learn R data analytics online.
 * [Quick-R](http://www.statmethods.net/) - An excellent quick reference.
+* [Advanced R](http://adv-r.had.co.nz/) -  An in-progress book site for Advanced R.
 * [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
 
 ## Books
