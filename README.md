@@ -74,7 +74,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 
 * [Rcpp](http://rcpp.org/) - Rcpp provides a powerful API on top of R, make function in R extremely faster.
 * [Rcpp11](https://github.com/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
-* [compliler](http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html) - speeding up your R code using the JIT 
+* [compiler](http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html) - speeding up your R code using the JIT 
 
 ## Parallel Computing
 *Packages for parallel computing.*
