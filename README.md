@@ -12,6 +12,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Parallel Computing](#parallel-computing)
     - [Database Management](#database-management)
     - [Machine Learning](#machine-learning)
+    - [Bayesian](#bayesian)
     - [Finance](#finance)
     - [R Development](#r-development)
 - [Resources](#resources)
@@ -204,8 +205,18 @@ Angle Regression
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
+## Bayesian
+*Packages for Bayesian Inference.*
+
+* [coda](http://cran.r-project.org/web/packages/coda/index.html) - Output analysis and diagnostics for MCMC.
+* [mcmc](http://cran.r-project.org/web/packages/mcmc/index.html) - Markov Chain Monte Carlo.
+* [MCMCpack](http://mcmcpack.berkeley.edu/) - Markov chain Monte Carlo (MCMC) Package.
+* [R2WinBUGS](http://cran.r-project.org/web/packages/R2WinBUGS/index.html) - Running WinBUGS and OpenBUGS from R / S-PLUS.
+* [BRugs](http://cran.r-project.org/web/packages/BRugs/index.html) - R interface to the OpenBUGS MCMC software.
+
 ## Finance
 *Packages for dealing with money.*
+
 * [quantmod](http://www.quantmod.com/) - Quantitative Financial Modelling & Trading Framework for R.
 * [TTR](http://cran.r-project.org/web/packages/TTR/index.html) - Functions and data to construct technical trading rules with R.
 * [PerformanceAnalytics](http://cran.r-project.org/web/packages/PerformanceAnalytics/index.html) - Econometric tools for performance and risk analysis.
@@ -216,6 +227,7 @@ Angle Regression
 
 ## R Development
 *Packages for packages.*
+
 * [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
 * [testthat](https://github.com/hadley/testthat) - An R package to make testing fun.
 * [R6](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
