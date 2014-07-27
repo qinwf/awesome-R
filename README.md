@@ -14,6 +14,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Machine Learning](#machine-learning)
     - [Bayesian](#bayesian)
     - [Finance](#finance)
+    - [Genetics](#genetics)
     - [R Development](#r-development)
 - [Resources](#resources)
     - [Websites](#websites)
@@ -224,6 +225,14 @@ Angle Regression
 * [xts](http://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series.
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
+
+## Genetics
+*Packages for Statistical Genetics.*
+
+* [Bioconductor](http://www.bioconductor.org/) - Tools for the analysis and comprehension of high-throughput genomic data.
+* [genetics](http://cran.r-project.org/web/packages/genetics/index.html) - Classes and methods for handling genetic data.
+* [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
+* [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
 
 ## R Development
 *Packages for packages.*
