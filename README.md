@@ -12,6 +12,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Parallel Computing](#parallel-computing)
     - [Database Management](#database-management)
     - [Machine Learning](#machine-learning)
+    - [Natural Language Processing](#natural-language-processing)
     - [Bayesian](#bayesian)
     - [Finance](#finance)
     - [Genetics](#genetics)
@@ -205,6 +206,17 @@ Angle Regression
 * [caret](http://caret.r-forge.r-project.org/) - Unified interface to ~150 ML algorithms in R.
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+
+## Natural Language Processing
+*Packages for Natural Language Processing.*
+
+* [tm](http://cran.r-project.org/web/packages/tm/index.html) - A comprehensive text mining framework for R.
+* [openNLP](http://cran.r-project.org/web/packages/openNLP/index.html) - Apache OpenNLP Tools Interface.
+* [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) - An R Package for Text Analysis.
+* [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - Statistical models for word frequency distributions.
+* [tmcn](http://jliblog.com/app/tmcn) - A Text mining toolkit for international characters especially for Chinese.
+* [rmmseg4j](http://cran.r-project.org/web/packages/rmmseg4j/index.html) - R interface to the Java Chinese word segmentation system of mmseg4j.
+* [Rwordseg](http://jliblog.com/app/rwordseg) - Chinese word segmentation.
 
 ## Bayesian
 *Packages for Bayesian Inference.*
