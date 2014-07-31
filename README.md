@@ -11,6 +11,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [High Performance](#high-performance)
     - [Parallel Computing](#parallel-computing)
     - [Database Management](#database-management)
+    - [Language API](#language-api)
     - [Machine Learning](#machine-learning)
     - [Natural Language Processing](#natural-language-processing)
     - [Bayesian](#bayesian)
@@ -97,6 +98,19 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
 * [RHive](https://github.com/nexr/RHive) -  R extension facilitating distributed computing via Apache Hive.
+
+## Language API
+*Packages for other languages.*
+
+* [rJava](http://cran.r-project.org/web/packages/rJava/) - Low-level R to Java interface.
+* [rJython](http://cran.r-project.org/web/packages/rJython/index.html) - R interface to Python via Jython.
+* [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - Package allowing R to call Python.
+* [runr](https://github.com/yihui/runr) - Run Julia and Bash from R.
+* [RJulia](https://github.com/armgong/RJulia) - R package Call Julia.
+* [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users/) -  a Ruby library that integrates the R interpreter in Ruby.
+* [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
+* [RcppOctave](RcppOctave) - Seamless Interface to Octave and Matlab.
+* [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
 
 ## Machine Learning
 *Packages for making R cleverer.*
