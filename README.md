@@ -8,10 +8,10 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Graphic Displays](#graphic-displays)
     - [Reproducible Research](#reproducible-research)
     - [Web Technologies and Services](#web-technologies-and-services)
-    - [High Performance](#high-performance)
     - [Parallel Computing](#parallel-computing)
-    - [Database Management](#database-management)
+    - [High Performance](#high-performance)
     - [Language API](#language-api)
+    - [Database Management](#database-management)
     - [Machine Learning](#machine-learning)
     - [Natural Language Processing](#natural-language-processing)
     - [Bayesian](#bayesian)
@@ -72,32 +72,19 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 * [XML](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
 
+## Parallel Computing
+*Packages for parallel computing.*
+
+* [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) -  R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
+* [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
+* [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel
+
 ## High Performance
 *Packages for making R faster.*
 
 * [Rcpp](http://rcpp.org/) - Rcpp provides a powerful API on top of R, make function in R extremely faster.
 * [Rcpp11](https://github.com/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
 * [compiler](http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html) - speeding up your R code using the JIT 
-
-## Parallel Computing
-*Packages for parallel computing.*
-* [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) -  R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
-* [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
-* [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel
-
-## Database Management
-*Packages for managing data.*
-* [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
-* [DBI](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
-* [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
-* [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
-* [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.
-* [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) - SQLite interface for R
-* [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - Provides access to databases through the JDBC interface.
-* [rmongodb](https://github.com/gerald-lindsly/rmongodb) - R driver for MongoDB.
-* [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
-* [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
-* [RHive](https://github.com/nexr/RHive) -  R extension facilitating distributed computing via Apache Hive.
 
 ## Language API
 *Packages for other languages.*
@@ -111,6 +98,21 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
 * [RcppOctave](RcppOctave) - Seamless Interface to Octave and Matlab.
 * [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
+
+## Database Management
+*Packages for managing data.*
+
+* [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
+* [DBI](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
+* [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
+* [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
+* [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.
+* [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) - SQLite interface for R
+* [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - Provides access to databases through the JDBC interface.
+* [rmongodb](https://github.com/gerald-lindsly/rmongodb) - R driver for MongoDB.
+* [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
+* [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
+* [RHive](https://github.com/nexr/RHive) -  R extension facilitating distributed computing via Apache Hive.
 
 ## Machine Learning
 *Packages for making R cleverer.*
