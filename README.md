@@ -18,6 +18,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Finance](#finance)
     - [Genetics](#genetics)
     - [R Development](#r-development)
+    - [Other Interpreter](#other-interpreter)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
@@ -274,6 +275,17 @@ Angle Regression
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
 * [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R.
+
+## Other Interpreter
+*Alternative R engines.*
+
+* [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
+* [pqR](http://www.pqr-project.org/) - a "pretty quick" implementation of R
+* [fastR](https://bitbucket.org/allr/fastr/wiki/Home) - FastR is an implementation of the R Language in Java atop Truffle and Graal. 
+* [riposte](https://github.com/jtalbot/riposte) - a fast interpreter and JIT for R.
+* [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
+* [RRE](http://www.revolutionanalytics.com/) - Revolution R Enterprise.
+* [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 
 # Resources
 
