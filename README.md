@@ -92,6 +92,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 *Packages for other languages.*
 
 * [rJava](http://cran.r-project.org/web/packages/rJava/) - Low-level R to Java interface.
+* [jvmr](http://dahl.byu.edu/software/jvmr/) - Integration of R, Java, and Scala.
 * [rJython](http://cran.r-project.org/web/packages/rJython/index.html) - R interface to Python via Jython.
 * [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - Package allowing R to call Python.
 * [runr](https://github.com/yihui/runr) - Run Julia and Bash from R.
