@@ -79,7 +79,8 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 
 * [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) -  R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
 * [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
-* [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel
+* [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel.
+* [SparkR](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark.
 
 ## High Performance
 *Packages for making R faster.*
@@ -278,6 +279,7 @@ Angle Regression
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
 * [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R.
+* [Rocker](https://github.com/rocker-org) - R configurations for Docker.
 
 ## Other Interpreter
 *Alternative R engines.*
