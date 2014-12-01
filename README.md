@@ -57,6 +57,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display  output.
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
+* [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
 
 ## Reproducible Research
 *Packages for literate programming.*
@@ -73,6 +74,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 * [XML](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
+* [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.
 
 ## Parallel Computing
 *Packages for parallel computing.*
