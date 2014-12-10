@@ -277,6 +277,8 @@ Angle Regression
 
 * [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
 * [testthat](https://github.com/hadley/testthat) - An R package to make testing fun.
+* [testthatsomemore](https://github.com/robertzk/testthatsomemore) - Additional testing helpers for testthat, like directory structures.
+* [Ramd](https://github.com/robertzk/Ramd) - Functions for modularizing R code in the spirit of require.js.
 * [R6](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
 * [pryr](https://github.com/hadley/pryr) -  Make it easier to understand what's going on in R.
 * [roxygen](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
