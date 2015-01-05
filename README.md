@@ -45,6 +45,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
 * [reshape2](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
 * [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
+* [broom](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
 
 ## Graphic Displays
 *Packages for showing data.*
