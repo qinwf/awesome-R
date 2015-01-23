@@ -118,7 +118,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.
 * [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) - SQLite interface for R
 * [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - Provides access to databases through the JDBC interface.
-* [rmongodb](https://github.com/gerald-lindsly/rmongodb) - R driver for MongoDB.
+* [rmongodb](https://github.com/mongosoup/rmongodb) - R driver for MongoDB.
 * [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
 * [RHive](https://github.com/nexr/RHive) -  R extension facilitating distributed computing via Apache Hive.
