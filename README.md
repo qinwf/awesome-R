@@ -4,6 +4,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 
 - [Awesome R](#awesome-r)
     - [Integrated Development Environment](#integrated-development-environment)
+    - [Syntax](#syntax)
     - [Data Manipulation](#data-manipulation)
     - [Graphic Displays](#graphic-displays)
     - [Reproducible Research](#reproducible-research)
@@ -37,6 +38,13 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [R Commander](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/) - A package that provides a basic graphical user interface.
 * [IPython](http://ipython.org/ipython-doc/rel-0.13/config/extensions/rmagic.html#extensions-rmagic) - An interactive Python interpreter,and it supports execution of R code while capturing both output and figures.
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) -  A Menu driven data analysis GUI with a spreadsheet like data editor.
+
+## Syntax
+*Packages change the way you use R.*
+
+* [magrittr](https://github.com/smbache/magrittr) - Let's pipe it.
+* [pipeR](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
+* [lambda.r](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
 
 ## Data Manipulation
 *Packages for cooking data.*
