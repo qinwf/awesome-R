@@ -76,6 +76,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html) -  Export tables to LaTeX or HTML.
 * [rapport](http://rapport-package.info/#intro) - An R templating system.
 * [rmarkdown](http://rmarkdown.rstudio.com/) -  Dynamic documents for R.
+* [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
