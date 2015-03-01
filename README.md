@@ -2,7 +2,7 @@
 
 A curated list of awesome R frameworks, packages and software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
-- [Awesome R](#awesome-r)
+- [Awesome R](#awesome-)
     - [Integrated Development Environment](#integrated-development-environment)
     - [Syntax](#syntax)
     - [Data Manipulation](#data-manipulation)
@@ -77,6 +77,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rapport](http://rapport-package.info/#intro) - An R templating system.
 * [rmarkdown](http://rmarkdown.rstudio.com/) -  Dynamic documents for R.
 * [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
+* [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R
 
 ## Web Technologies and Services
 *Packages to surf the web.*
@@ -321,6 +322,7 @@ Where to discover new R-esources.
 * [Quick-R](http://www.statmethods.net/) - An excellent quick reference.
 * [Advanced R](http://adv-r.had.co.nz/) -  An in-progress book site for Advanced R.
 * [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
+* [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - A collaborative handbook for R. 
 
 ## Books
 
