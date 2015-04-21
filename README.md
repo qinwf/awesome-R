@@ -53,6 +53,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [dplyr](https://github.com/hadley/dplyr) -  Blazing fast data frames manipulation and database query.
 * [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
 * [reshape2](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
+* [readr](https://github.com/hadley/readr) -  A fast and friendly way to read tabular data into R.
 * [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 * [broom](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
 * [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
