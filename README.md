@@ -57,6 +57,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 * [broom](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
 * [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
+* [ff](http://ff.r-forge.r-project.org/) - Data structures designed to store large datasets.
 
 ## Graphic Displays
 *Packages for showing data.*
