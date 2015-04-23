@@ -246,6 +246,7 @@ Angle Regression
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [BreakoutDetection](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
+* [igraph](http://igraph.org/r/)  - A collection of network analysis tools.
 
 ## Natural Language Processing
 *Packages for Natural Language Processing.*
