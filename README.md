@@ -90,6 +90,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 * [XML](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R. 
+* [OpenCPU](https://www.opencpu.org/) - HTTP API for R. 
 
 ## Parallel Computing
 *Packages for parallel computing.*
