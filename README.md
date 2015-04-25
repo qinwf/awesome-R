@@ -136,6 +136,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
 * [RHive](https://github.com/nexr/RHive) -  R extension facilitating distributed computing via Apache Hive.
+* [RNeo4j](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver. 
 
 ## Machine Learning
 *Packages for making R cleverer.*
