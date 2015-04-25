@@ -71,6 +71,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 * [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
+* [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
 
 ## Reproducible Research
 *Packages for literate programming.*
