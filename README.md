@@ -58,6 +58,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [broom](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
 * [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
 * [ff](http://ff.r-forge.r-project.org/) - Data structures designed to store large datasets.
+* [stringr](https://github.com/hadley/stringr) -  Consistent API for string processing.
 
 ## Graphic Displays
 *Packages for showing data.*
