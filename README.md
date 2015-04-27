@@ -349,6 +349,10 @@ Where to discover new R-esources.
     - [R Programming](https://www.coursera.org/course/rprog) - Quick introduction to R programming.
     - [Reproducible Research](https://www.coursera.org/course/repdata) - Introduction to literate analysis tools.
     - [Developing Data Products](https://www.coursera.org/course/devdataprod) - Introduction to Shiny.
+* [HarvardX Biomedical Data Science](http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/) - Introduction to R for the Life Sciences. 8 courses including:
+    - [Statistics and R for the Life Sciences](https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x) - Basics of statistical inference with examples in R.
+    - [Advanced Statistics for the Life Sciences](https://www.edx.org/course/advanced-statistics-life-sciences-harvardx-ph525-3x) - Analysis of the complex genomics datasets.
+    - [Introduction to Bioconductor](https://www.edx.org/course/introduction-bioconductor-harvardx-ph525-4x) - Description of the basic Bioconductor packages. 
 
 # Other Awesome Lists
 
