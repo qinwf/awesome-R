@@ -122,6 +122,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
 * [V8](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
 * [htmlwidgets](http://www.htmlwidgets.org/) - Bring the best of JavaScript data visualization to R.
+* [rpy2](http://rpy.sourceforge.net/) - Python interface for R.
 
 ## Database Management
 *Packages for managing data.*
