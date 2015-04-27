@@ -344,6 +344,7 @@ Where to discover new R-esources.
 
 ## MOOCs
 *Massive open online courses.*
+* [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) - Hands-on introduction to data analysis with R from MITx.
 
 # Other Awesome Lists
 
