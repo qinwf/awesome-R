@@ -345,6 +345,10 @@ Where to discover new R-esources.
 ## MOOCs
 *Massive open online courses.*
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) - Hands-on introduction to data analysis with R from MITx.
+* [Johns Hopkins University Data Science specialization](https://www.coursera.org/specialization/jhudatascience/1) - 9 courses including:
+    - [R Programming](https://www.coursera.org/course/rprog) - Quick introduction to R programming.
+    - [Reproducible Research](https://www.coursera.org/course/repdata) - Introduction to literate analysis tools.
+    - [Developing Data Products](https://www.coursera.org/course/devdataprod) - Introduction to Shiny.
 
 # Other Awesome Lists
 
