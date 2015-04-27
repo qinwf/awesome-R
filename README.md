@@ -61,6 +61,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
 * [stringi](http://www.rexamine.com/resources/stringi/) - ICU based string processing package.
 * [stringr](https://github.com/hadley/stringr) -  Consistent API for string processing.
+* [hash](http://cran.r-project.org/web/packages/hash/index.html) - Implementation of the associative arrays and required access methods. 
 
 ## Graphic Displays
 *Packages for showing data.*
