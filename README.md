@@ -354,6 +354,7 @@ Where to discover new R-esources.
     - [Advanced Statistics for the Life Sciences](https://www.edx.org/course/advanced-statistics-life-sciences-harvardx-ph525-3x) - Analysis of the complex genomics datasets.
     - [Introduction to Bioconductor](https://www.edx.org/course/introduction-bioconductor-harvardx-ph525-4x) - Description of the basic Bioconductor packages. 
 * [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Exploratory Data Analysis with R from Udacity/Facebook. 
+* [Bioconductor for Genomic Data Science](https://www.coursera.org/course/genbioconductor) - Introduction to the Bioconductor project from Coursera/JHU.
 
 # Other Awesome Lists
 
