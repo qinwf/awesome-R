@@ -59,6 +59,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
 * [ff](http://ff.r-forge.r-project.org/) - Data structures designed to store large datasets.
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
+* [stringi](http://www.rexamine.com/resources/stringi/) - ICU based string processing package.
 
 ## Graphic Displays
 *Packages for showing data.*
