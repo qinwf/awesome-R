@@ -24,6 +24,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Websites](#websites)
     - [Books](#books)
     - [Reference Card](#reference-card)
+    - [MOOCs](#moocs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -340,6 +341,9 @@ Where to discover new R-esources.
 * [Reference Card for ESS](http://ess.r-project.org/refcard.pdf) - Reference Card for ESS.
 * [R Markdown Cheat sheet](http://shiny.rstudio.com/images/rm-cheatsheet.pdf.zip) - Quick reference guide for writing reports with R Markdown.
 * [Shiny Cheat sheet](http://shiny.rstudio.com/images/cheatsheet.pdf.zip) - Quick reference guide for building Shiny apps.
+
+## MOOCs
+*Massive open online courses.*
 
 # Other Awesome Lists
 
