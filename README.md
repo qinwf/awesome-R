@@ -20,6 +20,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Bioinformatics](#bioinformatics)
     - [R Development](#r-development)
     - [Other Interpreter](#other-interpreter)
+    - [Learning R](#learning-r)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
@@ -321,6 +322,9 @@ Angle Regression
 * [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 * [RRE](http://www.revolutionanalytics.com/) - Revolution R Enterprise.
 * [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
+
+## Learning R
+- [swirl](http://swirlstats.com/) - An interactive R tutorial directly in your console.
 
 # Resources
 
