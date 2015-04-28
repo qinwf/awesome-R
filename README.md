@@ -70,11 +70,12 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 * [lattice](http://lattice.r-forge.r-project.org/) -  A powerful and elegant high-level data visualization system.
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
-* [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display  output.
+* [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display output.
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 * [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
 * [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
+* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
 
 ## Reproducible Research
 *Packages for literate programming.*
