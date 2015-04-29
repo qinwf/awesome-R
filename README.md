@@ -1,4 +1,4 @@
-# Awesome R
+    # Awesome R
 
 A curated list of awesome R frameworks, packages and software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
@@ -17,6 +17,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Natural Language Processing](#natural-language-processing)
     - [Bayesian](#bayesian)
     - [Finance](#finance)
+    - [Spatial & Mapping](#spatial)
     - [Bioinformatics](#bioinformatics)
     - [R Development](#r-development)
     - [Other Interpreter](#other-interpreter)
@@ -303,6 +304,20 @@ Angle Regression
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
 * [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
 
+## Spatial & Mapping
+*Packages for working with spatial data and making maps*
+
+### Spatial Data Analysis
+* [sp](http://cran.r-project.org/web/packages/sp/) - Classes and methods for spatial data
+* [raster](http://cran.r-project.org/web/packages/raster/index.html) - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
+
+### Mapping
+* [maps](http://cran.r-project.org/web/packages/maps/) - Draw Geographical Maps
+* [ggmap](http://cran.r-project.org/web/packages/ggmap/) - Spatial Visualization with Google Maps and OpenStreetMap
+* [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R. Also includes a leaflet interface.
+* [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps (also see rCharts)
+* [leafletR](https://github.com/chgrl/leafletR) -  An R package to create interactive web-maps based on the Leaflet JavaScript library  (also see rCharts)
+
 ## R Development
 *Packages for packages.*
 
@@ -351,7 +366,17 @@ Where to discover new R-esources.
 
 * [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) -  It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
 * [R in Action](http://www.manning.com/kabacoff2/) - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
+* [Cookbook for R](http://www.cookbook-r.com/) - formerly "R Cookbook"
+* [Advanced R](http://www.crcpress.com/product/isbn/9781466586963) [(website)](http://adv-r.had.co.nz/), by Hadley Wickham
+* [R Packages](http://shop.oreilly.com/product/0636920034421.do) [(website)](http://r-pkgs.had.co.nz/), by Hadley Wickham
+* [Practical Data Science with R](http://www.manning.com/zumel/)
+* [Introduction to Data Science with R](http://shop.oreilly.com/product/0636920034834.do), Garrett Grolemund
 * [Use R!](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as bayesian networks, ggplot2 and Rcpp.
+    * [An Introduction to Statistical Learning with Applications in R (ISL)](https://www.springer.com/gp/book/9781461471370) [(free PDf)](http://www-bcf.usc.edu/~gareth/ISL/) for a broad audience
+    * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction. (ESL)](https://www.springer.com/gp/book/9780387848570) [(free PDF)](statweb.stanford.edu/~tibs/ElemStatLearn/) - for the mathematically trained
+    * [R for Marketing Research and Analytics](https://www.springer.com/gp/book/9783319144351)
+    * [Applied Spatial Data Analysis with R](https://www.springer.com/gp/book/9781461476177)
+    * [Statistics and Data Analysis for Financial Engineering](https://www.springer.com/gp/book/9781493926138)
 
 ## Reference Card
 
