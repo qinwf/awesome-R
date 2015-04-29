@@ -1,4 +1,4 @@
-    # Awesome R
+# Awesome R
 
 A curated list of awesome R frameworks, packages and software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
@@ -305,7 +305,7 @@ Angle Regression
 * [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
 
 ## Spatial & Mapping
-*Packages for working with spatial data and making maps*
+*Packages for working with spatial data and making maps.*
 
 ### Spatial Data Analysis
 * [sp](http://cran.r-project.org/web/packages/sp/) - Classes and methods for spatial data
@@ -377,6 +377,11 @@ Where to discover new R-esources.
     * [R for Marketing Research and Analytics](https://www.springer.com/gp/book/9783319144351)
     * [Applied Spatial Data Analysis with R](https://www.springer.com/gp/book/9781461476177)
     * [Statistics and Data Analysis for Financial Engineering](https://www.springer.com/gp/book/9781493926138)
+* [Open Intro](https://www.openintro.org/index.php)
+    * [Open Intro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os)
+    * [Intro Stat with Randomization and Simulation](https://www.openintro.org/stat/textbook.php?stat_book=isrs)
+* [StatlectThe Digital Textbook](http://www.statlect.com/) - The digital textbook on probability and statistics
+
 
 ## Reference Card
 
