@@ -25,6 +25,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Websites](#websites)
     - [Books](#books)
     - [Reference Card](#reference-card)
+    - [MOOCs](#moocs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -361,6 +362,20 @@ Where to discover new R-esources.
 * [Reference Card for ESS](http://ess.r-project.org/refcard.pdf) - Reference Card for ESS.
 * [R Markdown Cheat sheet](http://shiny.rstudio.com/images/rm-cheatsheet.pdf.zip) - Quick reference guide for writing reports with R Markdown.
 * [Shiny Cheat sheet](http://shiny.rstudio.com/images/cheatsheet.pdf.zip) - Quick reference guide for building Shiny apps.
+
+## MOOCs
+*Massive open online courses.*
+* [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) - Hands-on introduction to data analysis with R from MITx.
+* [Johns Hopkins University Data Science specialization](https://www.coursera.org/specialization/jhudatascience/1) - 9 courses including:
+    - [R Programming](https://www.coursera.org/course/rprog) - Quick introduction to R programming.
+    - [Reproducible Research](https://www.coursera.org/course/repdata) - Introduction to literate analysis tools.
+    - [Developing Data Products](https://www.coursera.org/course/devdataprod) - Introduction to Shiny.
+* [HarvardX Biomedical Data Science](http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/) - Introduction to R for the Life Sciences. 8 courses including:
+    - [Statistics and R for the Life Sciences](https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x) - Basics of statistical inference with examples in R.
+    - [Advanced Statistics for the Life Sciences](https://www.edx.org/course/advanced-statistics-life-sciences-harvardx-ph525-3x) - Analysis of the complex genomics datasets.
+    - [Introduction to Bioconductor](https://www.edx.org/course/introduction-bioconductor-harvardx-ph525-4x) - Description of the basic Bioconductor packages. 
+* [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Exploratory Data Analysis with R from Udacity/Facebook. 
+* [Bioconductor for Genomic Data Science](https://www.coursera.org/course/genbioconductor) - Introduction to the Bioconductor project from Coursera/JHU.
 
 # Other Awesome Lists
 
