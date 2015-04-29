@@ -328,7 +328,9 @@ Angle Regression
 * [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 
 ## Learning R
-- [swirl](http://swirlstats.com/) - An interactive R tutorial directly in your console.
+*Packages for Learning R.*
+
+- [swirl](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
 
 # Resources
 
