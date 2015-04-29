@@ -41,7 +41,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) -  A Menu driven data analysis GUI with a spreadsheet like data editor.
 * [Radiant](http://vnijs.github.io/radiant/) - A platform-independent browser-based interface for business analytics in R, based on the Shiny package.
 * [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim pluign for R. 
-* [RKWard][https://rkward.kde.org/] - RKWard is an easy to use and easily extensible IDE/GUI for R. It aims to combine the power of the R-language with the ease of use of commercial statistics tools.
+* [RKWard](https://rkward.kde.org/) - RKWard is an easy to use and easily extensible IDE/GUI for R. It aims to combine the power of the R-language with the ease of use of commercial statistics tools.
 
 ## Syntax
 *Packages change the way you use R.*
