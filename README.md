@@ -17,7 +17,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Natural Language Processing](#natural-language-processing)
     - [Bayesian](#bayesian)
     - [Finance](#finance)
-    - [Spatial & Mapping](#spatial)
+    - [Spatial & Mapping](#spatial-&-mapping)
     - [Bioinformatics](#bioinformatics)
     - [R Development](#r-development)
     - [Other Interpreter](#other-interpreter)
