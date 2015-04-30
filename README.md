@@ -91,7 +91,9 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
-* [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) -   Install packages from snapshots on the checkpoint server.
+* [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) - Install packages from snapshots on the checkpoint server.
+* [ratpack](https://rstudio.github.io/packrat/) - A dependency management system for R.
+* [stargazer](http://cran.r-project.org/web/packages/stargazer/index.html) - LaTeX, HTML and ASCII tables in R.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
