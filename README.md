@@ -271,7 +271,6 @@ Angle Regression
 * [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) - An R Package for Text Analysis.
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - Statistical models for word frequency distributions.
 * [tmcn](http://jliblog.com/app/tmcn) - A Text mining toolkit for international characters especially for Chinese.
-* [rmmseg4j](http://cran.r-project.org/web/packages/rmmseg4j/index.html) - R interface to the Java Chinese word segmentation system of mmseg4j.
 * [Rwordseg](http://jliblog.com/app/rwordseg) - Chinese word segmentation.
 
 ## Bayesian
