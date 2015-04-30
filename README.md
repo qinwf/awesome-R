@@ -79,6 +79,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
 * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
 * [plotly](https://github.com/ropensci/plotly) - Integration with [plot.ly](https://plot.ly).
+* [pairsD3](https://github.com/garthtarr/pairsD3) - Interactive pairs plots (scatterplot matrices).
 
 ## Reproducible Research
 *Packages for literate programming.*
