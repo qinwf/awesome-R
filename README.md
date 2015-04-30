@@ -40,7 +40,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [IPython](http://ipython.org/ipython-doc/rel-0.13/config/extensions/rmagic.html#extensions-rmagic) - An interactive Python interpreter,and it supports execution of R code while capturing both output and figures.
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) -  A Menu driven data analysis GUI with a spreadsheet like data editor.
 * [Radiant](http://vnijs.github.io/radiant/) - A platform-independent browser-based interface for business analytics in R, based on the Shiny package.
-* [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim pluign for R. 
+* [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R. 
 
 ## Syntax
 *Packages change the way you use R.*
