@@ -91,7 +91,8 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
 * [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) -   Install packages from snapshots on the checkpoint server.
-
+* [rSynapseClient](https://github.com/Sage-Bionetworks/rSynapseClient/) - programmatic interface to [Synapse](https://www.synapse.org/), a workspace that allows you to aggregate, describe, and share your research
+* 
 ## Web Technologies and Services
 *Packages to surf the web.*
 
