@@ -369,6 +369,15 @@ Where to discover new R-esources.
 * [Johns Hopkins University Data Science specialization](https://www.coursera.org/specialization/jhudatascience/1) - 9 courses including: Introduction to R, literate analysis tools, Shiny and some more.
 * [HarvardX Biomedical Data Science](http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/) - Introduction to R for the Life Sciences.
 
+## R Ecosystems
+
+R communities and package collections (in alphabetical order):
+
+ * [rOpenGov](http://ropengov.github.io/) Open government data, computational social science, digital humanities
+ * [rOpenHealth](https://github.com/rOpenHealth) Public health data
+ * [rOpenSci](https://ropensci.org) Open science
+
+
 # Other Awesome Lists
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
