@@ -20,12 +20,10 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Bioinformatics](#bioinformatics)
     - [R Development](#r-development)
     - [Other Interpreter](#other-interpreter)
-    - [Learning R](#learning-r)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
     - [Reference Card](#reference-card)
-    - [MOOCs](#moocs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -33,6 +31,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 *Integrated Development Environment* 
 
 * [RStudio](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
+* [JGR](http://rforge.net/JGR/) - JGR (speak 'Jaguar') is a Java Gui for R.
 * [Emacs + ESS](http://ess.r-project.org/) - Emacs Speaks Statistics is an add-on package for emacs text editors.
 * [StatET](http://www.walware.de/goto/statet) - An Eclipse based IDE (integrated development environment) for R.
 * [Revolution R Enterprise](http://www.revolutionanalytics.com/get-revolution-r-enterprise) - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
@@ -40,7 +39,6 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [IPython](http://ipython.org/ipython-doc/rel-0.13/config/extensions/rmagic.html#extensions-rmagic) - An interactive Python interpreter,and it supports execution of R code while capturing both output and figures.
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) -  A Menu driven data analysis GUI with a spreadsheet like data editor.
 * [Radiant](http://vnijs.github.io/radiant/) - A platform-independent browser-based interface for business analytics in R, based on the Shiny package.
-* [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R. 
 
 ## Syntax
 *Packages change the way you use R.*
@@ -72,13 +70,11 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 * [lattice](http://lattice.r-forge.r-project.org/) -  A powerful and elegant high-level data visualization system.
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
-* [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display output.
+* [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display  output.
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 * [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
 * [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
-* [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
-* [plotly](https://github.com/ropensci/plotly) - Integration with [plot.ly](https://plot.ly).
 
 ## Reproducible Research
 *Packages for literate programming.*
@@ -89,9 +85,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rapport](http://rapport-package.info/#intro) - An R templating system.
 * [rmarkdown](http://rmarkdown.rstudio.com/) -  Dynamic documents for R.
 * [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
-* [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
-* [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
-* [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) -   Install packages from snapshots on the checkpoint server.
+* [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R
 
 ## Web Technologies and Services
 *Packages to surf the web.*
@@ -170,6 +164,7 @@ regression
 * [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
 * [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R
 * [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression
+* [arules](http://cran.r-project.org/web/packages/arules/index.html) - Mining Association Rules and Frequent Itemsets
 * [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - Big Random Forests: Classification and Regression Forests for
 Large Data Sets
 * [bigRR](http://cran.r-project.org/web/packages/bigRR/index.html) - Generalized Ridge Regression (with special advantage for p >> n
@@ -270,6 +265,7 @@ Angle Regression
 * [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) - An R Package for Text Analysis.
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - Statistical models for word frequency distributions.
 * [tmcn](http://jliblog.com/app/tmcn) - A Text mining toolkit for international characters especially for Chinese.
+* [rmmseg4j](http://cran.r-project.org/web/packages/rmmseg4j/index.html) - R interface to the Java Chinese word segmentation system of mmseg4j.
 * [Rwordseg](http://jliblog.com/app/rwordseg) - Chinese word segmentation.
 
 ## Bayesian
@@ -313,7 +309,7 @@ Angle Regression
 * [roxygen](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
 * [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
-* [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
+* [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R.
 * [Rocker](https://github.com/rocker-org) - R configurations for Docker.
 
 ## Other Interpreter
@@ -326,11 +322,6 @@ Angle Regression
 * [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 * [RRE](http://www.revolutionanalytics.com/) - Revolution R Enterprise.
 * [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
-
-## Learning R
-*Packages for Learning R.*
-
-- [swirl](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
 
 # Resources
 
@@ -345,7 +336,6 @@ Where to discover new R-esources.
 * [Advanced R](http://adv-r.had.co.nz/) -  An in-progress book site for Advanced R.
 * [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
 * [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - A collaborative handbook for R. 
-* [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
 
 ## Books
 
@@ -361,13 +351,6 @@ Where to discover new R-esources.
 * [Reference Card for ESS](http://ess.r-project.org/refcard.pdf) - Reference Card for ESS.
 * [R Markdown Cheat sheet](http://shiny.rstudio.com/images/rm-cheatsheet.pdf.zip) - Quick reference guide for writing reports with R Markdown.
 * [Shiny Cheat sheet](http://shiny.rstudio.com/images/cheatsheet.pdf.zip) - Quick reference guide for building Shiny apps.
-
-## MOOCs
-*Massive open online courses.*
-
-* [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) - Hands-on introduction to data analysis with R from MITx.
-* [Johns Hopkins University Data Science specialization](https://www.coursera.org/specialization/jhudatascience/1) - 9 courses including: Introduction to R, literate analysis tools, Shiny and some more.
-* [HarvardX Biomedical Data Science](http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/) - Introduction to R for the Life Sciences.
 
 # Other Awesome Lists
 
