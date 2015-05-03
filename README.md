@@ -271,6 +271,7 @@ Angle Regression
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - Statistical models for word frequency distributions.
 * [tmcn](http://jliblog.com/app/tmcn) - A Text mining toolkit for international characters especially for Chinese.
 * [Rwordseg](http://jliblog.com/app/rwordseg) - Chinese word segmentation.
+* [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
 
 ## Bayesian
 *Packages for Bayesian Inference.*
