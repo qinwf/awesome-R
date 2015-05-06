@@ -101,6 +101,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [XML](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R. 
 * [OpenCPU](https://www.opencpu.org/) - HTTP API for R. 
+* [httr](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
 
 ## Parallel Computing
 *Packages for parallel computing.*
@@ -169,7 +170,6 @@ regression
 * [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
 * [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R
 * [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression
-* [arules](http://cran.r-project.org/web/packages/arules/index.html) - Mining Association Rules and Frequent Itemsets
 * [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - Big Random Forests: Classification and Regression Forests for
 Large Data Sets
 * [bigRR](http://cran.r-project.org/web/packages/bigRR/index.html) - Generalized Ridge Regression (with special advantage for p >> n
@@ -271,6 +271,7 @@ Angle Regression
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - Statistical models for word frequency distributions.
 * [tmcn](http://jliblog.com/app/tmcn) - A Text mining toolkit for international characters especially for Chinese.
 * [Rwordseg](http://jliblog.com/app/rwordseg) - Chinese word segmentation.
+* [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
 
 ## Bayesian
 *Packages for Bayesian Inference.*
