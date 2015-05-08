@@ -80,6 +80,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
 * [plotly](https://github.com/ropensci/plotly) - Integration with [plot.ly](https://plot.ly).
 * [misc3d](http://cran.r-project.org/web/packages/misc3d/index.html) - Powerful functions to deal with 3d plots, isosurfaces, etc.
+* [xkcd](http://cran.r-project.org/web/packages/xkcd/index.html) Make xkcd style graphs in R (here some [nice examples](http://xkcd.r-forge.r-project.org/)).
 
 ## Reproducible Research
 *Packages for literate programming.*
