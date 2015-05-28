@@ -116,7 +116,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 *Packages for making R faster.*
 
 * [Rcpp](http://rcpp.org/) - Rcpp provides a powerful API on top of R, make function in R extremely faster.
-* [Rcpp11](https://github.com/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
+* [Rcpp11](https://github.com/Rcpp11/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
 * [compiler](http://stat.ethz.ch/R-manual/R-devel/library/compiler/html/compile.html) - speeding up your R code using the JIT 
 
 ## Language API
@@ -130,7 +130,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [RJulia](https://github.com/armgong/RJulia) - R package Call Julia.
 * [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users/) -  a Ruby library that integrates the R interpreter in Ruby.
 * [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
-* [RcppOctave](RcppOctave) - Seamless Interface to Octave and Matlab.
+* [RcppOctave](https://github.com/renozao/RcppOctave) - Seamless Interface to Octave and Matlab.
 * [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
 * [V8](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
 * [htmlwidgets](http://www.htmlwidgets.org/) - Bring the best of JavaScript data visualization to R.
