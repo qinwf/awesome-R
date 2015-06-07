@@ -62,7 +62,8 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [ff](http://ff.r-forge.r-project.org/) - Data structures designed to store large datasets.
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
 * [stringi](http://www.rexamine.com/resources/stringi/) - ICU based string processing package.
-* [stringr](https://github.com/hadley/stringr) -  Consistent API for string processing.
+* [stringr](https://github.com/hadley/stringr) - Consistent API for string processing.
+* [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 
 ## Graphic Displays
 *Packages for showing data.*
