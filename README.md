@@ -273,6 +273,7 @@ Angle Regression
 * [tmcn](http://jliblog.com/app/tmcn) - A Text mining toolkit for international characters especially for Chinese.
 * [Rwordseg](http://jliblog.com/app/rwordseg) - Chinese word segmentation.
 * [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
+* [LDAvis](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
 
 ## Bayesian
 *Packages for Bayesian Inference.*
