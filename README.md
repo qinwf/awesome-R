@@ -214,6 +214,7 @@ covariates
 * [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - Logic Regression
 * [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - Mapping, pruning, and graphing tree models
 * [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - Model-Based Boosting
+* [mlr](http://cran.r-project.org/web/packages/mlr/index.html) - Machine Learning in R
 * [mvpart](http://cran.r-project.org/web/packages/mvpart/index.html) - Multivariate partitioning
 * [ncvreg](http://cran.r-project.org/web/packages/ncvreg/index.html) - Regularization paths for SCAD- and MCP-penalized regression
 models
@@ -226,6 +227,7 @@ models
 in GLMs and in the Cox model
 * [penalizedLDA](http://cran.r-project.org/web/packages/penalizedLDA/index.html) - Penalized classification using Fisher's linear discriminant
 * [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - Feature Selection SVM using penalty functions
+* [polywog](http://cran.r-project.org/web/packages/polywog/) - Bootstrapped basis regression with oracle model selection
 * [quantregForest](http://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest: Quantile Regression Forests
 * [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and
 regression
