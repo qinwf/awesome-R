@@ -63,7 +63,8 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [ff](http://ff.r-forge.r-project.org/) - Data structures designed to store large datasets.
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
 * [stringi](http://www.rexamine.com/resources/stringi/) - ICU based string processing package.
-* [stringr](https://github.com/hadley/stringr) -  Consistent API for string processing.
+* [stringr](https://github.com/hadley/stringr) - Consistent API for string processing.
+* [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 
 ## Graphic Displays
 *Packages for showing data.*
@@ -80,6 +81,8 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
 * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
 * [plotly](https://github.com/ropensci/plotly) - Integration with [plot.ly](https://plot.ly).
+* [misc3d](http://cran.r-project.org/web/packages/misc3d/index.html) - Powerful functions to deal with 3d plots, isosurfaces, etc.
+* [xkcd](http://cran.r-project.org/web/packages/xkcd/index.html) Make xkcd style graphs in R (here some [nice examples](http://xkcd.r-forge.r-project.org/)).
 
 ## Reproducible Research
 *Packages for literate programming.*
@@ -91,7 +94,8 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
-* [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) -   Install packages from snapshots on the checkpoint server.
+* [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) - Install packages from snapshots on the checkpoint server.
+* [brew](http://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. can be combined with knitr. 
 
 ## Web Technologies and Services
 *Packages to surf the web.*
@@ -262,6 +266,7 @@ Angle Regression
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [BreakoutDetection](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
 * [igraph](http://igraph.org/r/)  - A collection of network analysis tools.
+* [FSelector](http://cran.r-project.org/web/packages/FSelector/index.html) - A feature selection framework, based on subset-search or feature ranking approches. 
 
 ## Natural Language Processing
 *Packages for Natural Language Processing.*
