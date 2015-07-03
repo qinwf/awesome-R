@@ -156,35 +156,25 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 *Packages for making R cleverer.*
 
 * [AnomalyDetection](https://github.com/twitter/AnomalyDetection) - AnomalyDetection R package from Twitter.
-* [h2o](http://cran.r-project.org/web/packages/h2o/index.html) - Deeplearning, Random forests, GBM, KMeans, PCA, GLM
-* [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
-* [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
-* [rpart](http://cran.r-project.org/web/packages/rpart/index.html) - Recursive Partitioning and Regression Trees
-* [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - Breiman and Cutler's random forests for classification and
-regression
-* [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - L1 constrained estimation aka ‘lasso’
-* [gbm](http://cran.r-project.org/web/packages/gbm/index.html) - Generalized Boosted Regression Models
-* [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - Misc Functions of the Department of Statistics (e1071), TU Wien
-* [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - Bayesian treed Gaussian process models
-* [rgp](http://cran.r-project.org/web/packages/rgp/index.html) - R genetic programming framework
+* [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression.
 * [arules](http://cran.r-project.org/web/packages/arules/index.html) - Mining Association Rules and Frequent Itemsets
-* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
-* [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R
-* [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression
 * [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - Big Random Forests: Classification and Regression Forests for
 Large Data Sets
 * [bigRR](http://cran.r-project.org/web/packages/bigRR/index.html) - Generalized Ridge Regression (with special advantage for p >> n
 cases)
 * [bmrm](http://cran.r-project.org/web/packages/bmrm/index.html) - Bundle Methods for Regularized Risk Minimization Package
 * [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - A wrapper algorithm for all-relevant feature selection
+* [BreakoutDetection](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
 * [bst](http://cran.r-project.org/web/packages/bst/index.html) - Gradient Boosting
 * [C50](http://cran.r-project.org/web/packages/C50/index.html) - C5.0 Decision Trees and Rule-Based Models
 * [caret](http://cran.r-project.org/web/packages/caret/index.html) - Classification and Regression Training
+* [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - Classification, regression, feature evaluation and ordinal
 evaluation
 * [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - Cox models by likelihood based boosting for a single survival
 endpoint or competing risks
 * [Cubist](http://cran.r-project.org/web/packages/Cubist/index.html) - Rule- and Instance-Based Regression Modeling
+* [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - Misc Functions of the Department of Statistics (e1071), TU Wien
 * [earth](http://cran.r-project.org/web/packages/earth/index.html) - Multivariate Adaptive Regression Spline Models
 * [elasticnet](http://cran.r-project.org/web/packages/elasticnet/index.html) - Elastic-Net for Sparse Estimation and Sparse PCA
 * [ElemStatLearn](http://cran.r-project.org/web/packages/ElemStatLearn/index.html) - Data sets, functions and examples from the book: "The Elements
@@ -204,7 +194,10 @@ Proportional Hazards Model
 * [grplasso](http://cran.r-project.org/web/packages/grplasso/index.html) - Fitting user specified models with Group Lasso penalty
 * [grpreg](http://cran.r-project.org/web/packages/grpreg/index.html) - Regularization paths for regression models with grouped
 covariates
+* [h2o](http://cran.r-project.org/web/packages/h2o/index.html) - Deeplearning, Random forests, GBM, KMeans, PCA, GLM
 * [hda](http://cran.r-project.org/web/packages/hda/index.html) - Heteroscedastic Discriminant Analysis
+* [igraph](http://igraph.org/r/)  - A collection of network analysis tools.
+* [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - Improved Predictors
 * [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: Kernel-based Machine Learning Lab
 * [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - Classification and visualization
@@ -215,6 +208,7 @@ covariates
 * [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - Logic Regression
 * [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - Mapping, pruning, and graphing tree models
 * [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - Model-Based Boosting
+* [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 * [mvpart](http://cran.r-project.org/web/packages/mvpart/index.html) - Multivariate partitioning
 * [ncvreg](http://cran.r-project.org/web/packages/ncvreg/index.html) - Regularization paths for SCAD- and MCP-penalized regression
 models
@@ -228,10 +222,9 @@ in GLMs and in the Cox model
 * [penalizedLDA](http://cran.r-project.org/web/packages/penalizedLDA/index.html) - Penalized classification using Fisher's linear discriminant
 * [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - Feature Selection SVM using penalty functions
 * [quantregForest](http://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest: Quantile Regression Forests
-* [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and
-regression
-* [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification
-(RF-SRC)
+* [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
+* [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
+* [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R.
 * [rda](http://cran.r-project.org/web/packages/rda/index.html) - Shrunken Centroids Regularized Discriminant Analysis
 * [rdetools](http://cran.r-project.org/web/packages/rdetools/index.html) - Relevant Dimension Estimation (RDE) in Feature Spaces
 * [REEMtree](http://cran.r-project.org/web/packages/REEMtree/index.html) - Regression Trees with Random Effects for Longitudinal (Panel)
@@ -254,15 +247,12 @@ Simulator (SNNS)
 Angle Regression
 * [sda](http://cran.r-project.org/web/packages/sda/index.html) - Shrinkage Discriminant Analysis and CAT Score Variable Selection
 * [SDDA](http://cran.r-project.org/web/packages/SDDA/index.html) - Stepwise Diagonal Discriminant Analysis
+* [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 * [svmpath](http://cran.r-project.org/web/packages/svmpath/index.html) - svmpath: the SVM Path algorithm
 * [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - Bayesian treed Gaussian process models
 * [tree](http://cran.r-project.org/web/packages/tree/index.html) - Classification and regression trees
 * [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - Variable selection using random forests
 * [xgboost](https://github.com/tqchen/xgboost/tree/master/R-package) - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
-* [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
-* [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-* [BreakoutDetection](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
-* [igraph](http://igraph.org/r/)  - A collection of network analysis tools.
 
 ## Natural Language Processing
 *Packages for Natural Language Processing.*
