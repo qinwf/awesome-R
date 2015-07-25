@@ -309,6 +309,7 @@ Angle Regression
 * [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 * [Rocker](https://github.com/rocker-org) - R configurations for Docker.
+* [drat](https://github.com/eddelbuettel/drat) - Creation and use of R pepositories on GitHub or other repos.
 
 ## Other Interpreter
 *Alternative R engines.*
