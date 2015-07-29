@@ -311,6 +311,8 @@ Angle Regression
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 * [Rocker](https://github.com/rocker-org) - R configurations for Docker.
 * [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
+* [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to coveralls or codecov.
+* [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforse code style.
 
 ## Other Interpreter
 *Alternative R engines.*
