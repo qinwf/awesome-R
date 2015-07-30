@@ -79,7 +79,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
 * [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
 * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
-* [plotly](https://github.com/ropensci/plotly) - Integration with [plot.ly](https://plot.ly).
+* [plotly](https://github.com/ropensci/plotly) - [Interactive ggplot2](https://plot.ly/ggplot2) and  [Shiny](moderndata.plot.ly/dashboards-in-r-with-shiny-plotly/) plotting with [plotly](https://plot.ly).
 
 ## Reproducible Research
 *Packages for literate programming.*
