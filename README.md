@@ -7,6 +7,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Syntax](#syntax)
     - [Data Manipulation](#data-manipulation)
     - [Graphic Displays](#graphic-displays)
+    - [Html Widgets](#html-widgets)
     - [Reproducible Research](#reproducible-research)
     - [Web Technologies and Services](#web-technologies-and-services)
     - [Parallel Computing](#parallel-computing)
@@ -69,17 +70,28 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 *Packages for showing data.*
 
 * [ggplot2](https://github.com/hadley/ggplot2) -  An implementation of the Grammar of Graphics.
-* [ggvis](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
-* [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 * [lattice](http://lattice.r-forge.r-project.org/) -  A powerful and elegant high-level data visualization system.
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display output.
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
-* [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
-* [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
+
+## Html Widgets
+*Packages for interactive visualizations.*
+
+* [d3heatmap](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3.
+* [DataTables](http://rstudio.github.io/DT/) - Displays R matrices or data frames as interactive HTML tables.
 * [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
-* [plotly](https://github.com/ropensci/plotly) - Integration with [plot.ly](https://plot.ly).
+* [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
+* [formattable](http://renkun.me/formattable/) - Formattable Data Structures.
+* [ggvis](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
+* [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
+* [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - Enables easy creation of D3 scatterplots, line charts, and histograms.
+* [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
+* [plotly](https://github.com/ropensci/plotly) - Interactive ggplot2 and Shiny plotting with [plot.ly](https://plot.ly).
+* [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
+* [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
+* [threejs](https://github.com/bwlewis/rthreejs) -  Interactive 3D scatter plots and globes.
 
 ## Reproducible Research
 *Packages for literate programming.*
