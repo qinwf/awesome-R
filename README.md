@@ -280,6 +280,8 @@ Angle Regression
 * [Rwordseg](http://jliblog.com/app/rwordseg) - Chinese word segmentation.
 * [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
 * [LDAvis](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
+* [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) - Topic modeling interface to the C code developed by by David M. Blei for Topic Modeling (Latent Dirichlet Allocation (LDA), and Correlated Topics Models (CTM)).
+* [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) - Extracts sentiment from text using three different sentiment dictionaries.
 
 ## Bayesian
 *Packages for Bayesian Inference.*
