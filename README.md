@@ -21,6 +21,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Bayesian](#bayesian)
     - [Finance](#finance)
     - [Bioinformatics](#bioinformatics)
+    - [Social Network Analysis](social-network-analysis)
     - [R Development](#r-development)
     - [Other Interpreter](#other-interpreter)
     - [Learning R](#learning-r)
@@ -38,11 +39,12 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [RStudio](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
 * [Emacs + ESS](http://ess.r-project.org/) - Emacs Speaks Statistics is an add-on package for emacs text editors.
 * [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
+* [TextMate + r.tmblundle](https://github.com/textmate/r.tmbundle) - Add-on package for [TextMate](http://macromates.com/) 1/2.
 * [StatET](http://www.walware.de/goto/statet) - An Eclipse based IDE for R.
 * [Revolution R Enterprise](http://www.revolutionanalytics.com/get-revolution-r-enterprise) - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
 * [R Commander](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/) - A package that provides a basic graphical user interface.
 * [IPython](http://ipython.org/ipython-doc/rel-0.13/config/extensions/rmagic.html#extensions-rmagic) - An interactive Python interpreter, and it supports execution of R code while capturing both output and figures.
-* [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) -  A Menu driven data analysis GUI with a spreadsheet like data editor.
+* [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) - A Menu driven data analysis GUI with a spreadsheet like data editor.
 * [Radiant](http://vnijs.github.io/radiant/) - A platform-independent browser-based interface for business analytics in R, based on the Shiny.
 * [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R. 
 
@@ -56,29 +58,32 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 ## Data Manipulation
 *Packages for cooking data.*
 
-* [dplyr](https://github.com/hadley/dplyr) -  Fast data frames manipulation and database query.
+* [dplyr](https://github.com/hadley/dplyr) - Fast data frames manipulation and database query.
 * [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
 * [reshape2](https://github.com/hadley/reshape) - Flexible rearrange, reshape and aggregate data.
-* [readr](https://github.com/hadley/readr) -  A fast and friendly way to read tabular data into R.
+* [readr](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R.
+* [haven](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
 * [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 * [broom](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
 * [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
+* [jsonlite](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
 * [ff](http://ff.r-forge.r-project.org/) - Data structures designed to store large datasets.
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
 * [stringi](http://www.rexamine.com/resources/stringi/) - ICU based string processing package.
-* [stringr](https://github.com/hadley/stringr) -  Consistent API for string processing.
+* [stringr](https://github.com/hadley/stringr) - Consistent API for string processing, built on top of stringi.
 
 ## Graphic Displays
 *Packages for showing data.*
 
-* [ggplot2](https://github.com/hadley/ggplot2) -  An implementation of the Grammar of Graphics.
-* [lattice](http://lattice.r-forge.r-project.org/) -  A powerful and elegant high-level data visualization system.
+* [ggplot2](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics.
+* [lattice](http://lattice.r-forge.r-project.org/) - A powerful and elegant high-level data visualization system.
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display output.
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
+* [animation](http://yihui.name/animation/) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
 
-## Html Widgets
+## HTML Widgets
 *Packages for interactive visualizations.*
 
 * [d3heatmap](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3.
@@ -89,39 +94,39 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [ggvis](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
 * [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
 * [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - Enables easy creation of D3 scatterplots, line charts, and histograms.
-* [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
+* [networkD3](http://christophergandrud.github.io/networkD3/) and [ndtv](https://cran.r-project.org/web/packages/ndtv/) - D3 JavaScript Network Graphs from R.
 * [plotly](https://github.com/ropensci/plotly) - Interactive ggplot2 and Shiny plotting with [plot.ly](https://plot.ly).
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 * [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
-* [threejs](https://github.com/bwlewis/rthreejs) -  Interactive 3D scatter plots and globes.
+* [threejs](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
 
 ## Reproducible Research
 *Packages for literate programming.*
 
 * [knitr](http://yihui.name/knitr/) - Easy dynamic report generation in R.
-* [xtable](http://cran.r-project.org/web/packages/xtable/index.html) -  Export tables to LaTeX or HTML.
+* [xtable](http://cran.r-project.org/web/packages/xtable/index.html) - Export tables to LaTeX or HTML.
 * [rapport](http://rapport-package.info/#intro) - An R templating system.
-* [rmarkdown](http://rmarkdown.rstudio.com/) -  Dynamic documents for R.
+* [rmarkdown](http://rmarkdown.rstudio.com/) - Dynamic documents for R.
 * [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
-* [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) -   Install packages from snapshots on the checkpoint server.
+* [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) - Install packages from snapshots on the checkpoint server.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
 
 * [shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R.
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
+* [httr](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 * [XML](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
-* [rvest](https://github.com/hadley/rvest) - Simple web scraping for R. 
+* [rvest](https://github.com/hadley/rvest) - Simple web scraping for R, using CSSSelect or XPath syntax.
 * [OpenCPU](https://www.opencpu.org/) - HTTP API for R. 
-* [httr](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
 
 ## Parallel Computing
 *Packages for parallel computing.*
 
-* [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) -  R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
+* [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) - R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
 * [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
 * [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel.
 * [SparkR](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark.
@@ -142,9 +147,9 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - Package allowing R to call Python.
 * [runr](https://github.com/yihui/runr) - Run Julia and Bash from R.
 * [RJulia](https://github.com/armgong/RJulia) - R package Call Julia.
-* [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users/) -  a Ruby library that integrates the R interpreter in Ruby.
+* [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users/) - a Ruby library that integrates the R interpreter in Ruby.
 * [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
-* [RcppOctave](https://github.com/renozao/RcppOctave) - Seamless Interface to Octave and Matlab.
+* [RcppOctave](https://github.com/renozao/RcppOctave) - Seamless Interface to Octave and Masptlab.
 * [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
 * [V8](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
 * [htmlwidgets](http://www.htmlwidgets.org/) - Bring the best of JavaScript data visualization to R.
@@ -163,7 +168,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rmongodb](https://github.com/mongosoup/rmongodb) - R driver for MongoDB.
 * [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
-* [RHive](https://github.com/nexr/RHive) -  R extension facilitating distributed computing via Apache Hive.
+* [RHive](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
 * [RNeo4j](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver. 
 
 ## Machine Learning
@@ -180,7 +185,7 @@ cases)
 * [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - A wrapper algorithm for all-relevant feature selection
 * [BreakoutDetection](https://github.com/twitter/BreakoutDetection) - Breakout Detection via Robust E-Statistics from Twitter.
 * [bst](http://cran.r-project.org/web/packages/bst/index.html) - Gradient Boosting
-* [CausalImpact](https://github.com/google/CausalImpact) -  Causal inference using Bayesian structural time-series models.
+* [CausalImpact](https://github.com/google/CausalImpact) - Causal inference using Bayesian structural time-series models.
 * [C50](http://cran.r-project.org/web/packages/C50/index.html) - C5.0 Decision Trees and Rule-Based Models
 * [caret](http://cran.r-project.org/web/packages/caret/index.html) - Classification and Regression Training
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
@@ -211,7 +216,6 @@ Proportional Hazards Model
 covariates
 * [h2o](http://cran.r-project.org/web/packages/h2o/index.html) - Deeplearning, Random forests, GBM, KMeans, PCA, GLM
 * [hda](http://cran.r-project.org/web/packages/hda/index.html) - Heteroscedastic Discriminant Analysis
-* [igraph](http://igraph.org/r/)  - A collection of network analysis tools.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - Improved Predictors
 * [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: Kernel-based Machine Learning Lab
@@ -314,32 +318,44 @@ Angle Regression
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
 * [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
 
+## Social Network Analysis
+*Packages to construct, analyze and visualize network data.*
+
+* [igraph](http://igraph.org/r/) - A collection of network analysis tools.
+* [network](https://cran.r-project.org/web/packages/network/index.html) and [sna](https://cran.r-project.org/web/packages/sna/index.html) - Basic tools to manipulate relational data in R.
+* [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
+* [statnet](http://statnet.org/) - The project behind many R network analysis packages.
+* [ergm](https://cran.r-project.org/web/packages/ergm/index.html), [ergm.count](https://cran.r-project.org/web/packages/ergm.count/), [ergm.userterms](https://cran.r-project.org/web/packages/ergm.userterms/index.html) and [xergm](https://cran.r-project.org/web/packages/xergm/index.html) - Exponential random graph models in R.
+* [latentnet](https://cran.r-project.org/web/packages/latentnet/index.html) - Latent position and cluster models for network objects.
+* [tnet](https://cran.r-project.org/web/packages/tnet/index.html) - Network measures for weighted, two-mode and longitudinal networks ([documentation](http://toreopsahl.com/tnet/)).
+* [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like [Gephi](https://gephi.github.io/) or [Sigma](http://sigmajs.org/).
+
 ## R Development
 *Packages for packages.*
 
 * [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
 * [testthat](https://github.com/hadley/testthat) - An R package to make testing fun.
 * [R6](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
-* [pryr](https://github.com/hadley/pryr) -  Make it easier to understand what's going on in R.
+* [pryr](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R.
 * [roxygen](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
 * [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
-* [Rocker](https://github.com/rocker-org) - R configurations for Docker.
+* [Rocker](https://github.com/rocker-org) - R configurations for [Docker](https://www.docker.com/).
 * [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
-* [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to coveralls or codecov.
-* [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforse code style.
+* [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to [coveralls](https://coveralls.io/) or [codecov](https://codecov.io/).
+* [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforce code style.
 
-## Other Interpreter
+## Other Interpreters
 *Alternative R engines.*
 
 * [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
 * [pqR](http://www.pqr-project.org/) - a "pretty quick" implementation of R
-* [fastR](https://bitbucket.org/allr/fastr/wiki/Home) - FastR is an implementation of the R Language in Java atop Truffle and Graal. 
+* [fastR](https://bitbucket.org/allr/fastr/wiki/Home) - FastR is an implementation of the R Language in Java atop Truffle and Graal.
 * [riposte](https://github.com/jtalbot/riposte) - a fast interpreter and JIT for R.
 * [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 * [RRE](http://www.revolutionanalytics.com/) - Revolution R Enterprise.
-* [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
+* [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorizing R into C++.
 
 ## Learning R
 *Packages for Learning R.*
@@ -356,18 +372,22 @@ Where to discover new R-esources.
 * [R Bloggers](http://www.r-bloggers.com/) - There are people scattered across the Web who blog about R. This is simply an aggregator of many of those feeds.
 * [DataCamp](https://www.datacamp.com/) - Learn R data analytics online.
 * [Quick-R](http://www.statmethods.net/) - An excellent quick reference.
-* [Advanced R](http://adv-r.had.co.nz/) -  An in-progress book site for Advanced R.
+* [Advanced R](http://adv-r.had.co.nz/) - An in-progress book site for Advanced R.
 * [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
 * [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - A collaborative handbook for R. 
 * [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
+* [R Cookbook](http://www.cookbook-r.com/) - A problem-oriented website that supports the _[R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do)_.
 
 ## Books
 
-* [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) -  It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
-* [R in Action](http://www.manning.com/kabacoff2/) - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
-* [Use R!](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as bayesian networks, ggplot2 and Rcpp.
+* _[The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do)_ - It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
+* _[R Cookbook](http://shop.oreilly.com/product/9780596809164.do)_ - A quick and simple introduction to conducting many common statistical tasks with R.
+* _[Exploratory Data Analysis with R](https://leanpub.com/exdata)_, _[R Programming for Data Science](https://leanpub.com/rprogramming)_ and _[Report Writing for Data Science in R](https://leanpub.com/reportwriting)_ - Books written as part of the Johns Hopkins Data Science Specialization.
+* _[R Packages](http://r-pkgs.had.co.nz/)_ - A book (in paper and website formats) on writing R packages.
+* _[R in Action](http://www.manning.com/kabacoff2/)_ - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
+* [Use R!](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as Bayesian networks, ggplot2 and Rcpp.
 
-## Reference Card
+## Reference Cards
 
 * [R Reference Card 2.0](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf) - Material from R for Beginners by permission of Emmanuel Paradis (Version 2 by Matt Baggott).
 * [Data Mining Refcard](http://www.rdatamining.com/docs/R-refcard-data-mining.pdf) - R Reference Card for Data Mining.
@@ -380,7 +400,7 @@ Where to discover new R-esources.
 *Massive open online courses.*
 
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) - Hands-on introduction to data analysis with R from MITx.
-* [Johns Hopkins University Data Science specialization](https://www.coursera.org/specialization/jhudatascience/1) - 9 courses including: Introduction to R, literate analysis tools, Shiny and some more.
+* [Johns Hopkins University Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) - 9 courses including: Introduction to R, literate analysis tools, Shiny and some more.
 * [HarvardX Biomedical Data Science](http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/) - Introduction to R for the Life Sciences.
 
 # Other Awesome Lists
