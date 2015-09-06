@@ -117,6 +117,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R. 
 * [OpenCPU](https://www.opencpu.org/) - HTTP API for R. 
 * [httr](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
+* [logging](http://cran.r-project.org/web/packages/logging/index.html) - Logging library similar to log4j.
 
 ## Parallel Computing
 *Packages for parallel computing.*
