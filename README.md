@@ -364,6 +364,10 @@ Angle Regression
 
 - [swirl](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
 
+*Free online Courses.*
+
+- [R Programming] (https://www.coursera.org/course/rprog) -  Learn how to program in R (Johns Hopkins University).
+
 # Resources
 
 Where to discover new R-esources.
