@@ -5,7 +5,7 @@
 A curated list of awesome R frameworks, packages and software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 - [Awesome R](#awesome-)
-    - [Integrated Development Environment](#integrated-development-environment)
+    - [Integrated Development Environments](#integrated-development-environments)
     - [Syntax](#syntax)
     - [Data Manipulation](#data-manipulation)
     - [Graphic Displays](#graphic-displays)
@@ -23,17 +23,17 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Bioinformatics](#bioinformatics)
     - [Network Analysis](#network-analysis)
     - [R Development](#r-development)
-    - [Other Interpreter](#other-interpreter)
+    - [Other Interpreters](#other-interpreters)
     - [Learning R](#learning-r)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
-    - [Reference Card](#reference-card)
+    - [Reference Cards](#reference-cards)
     - [MOOCs](#moocs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
-## Integrated Development Environment
+## Integrated Development Environments
 *Integrated Development Environment* 
 
 * [RStudio](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
