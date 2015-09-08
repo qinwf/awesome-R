@@ -122,6 +122,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [XML](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R, using CSSSelect or XPath syntax.
 * [OpenCPU](https://www.opencpu.org/) - HTTP API for R. 
+* [Rfacebook](https://github.com/pablobarbera/Rfacebook) - Access to Facebook API via R.
 
 ## Parallel Computing
 *Packages for parallel computing.*
