@@ -55,6 +55,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [magrittr](https://github.com/smbache/magrittr) - Let's pipe it.
 * [pipeR](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
 * [lambda.r](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
+* [purrr](https://github.com/hadley/purrr) - A FP package for R in the spirit of underscore.js.
 
 ## Data Manipulation
 *Packages for cooking data.*
@@ -72,7 +73,6 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
 * [stringi](http://www.rexamine.com/resources/stringi/) - ICU based string processing package.
 * [stringr](https://github.com/hadley/stringr) - Consistent API for string processing, built on top of stringi.
-* [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 
 ## Graphic Displays
 *Packages for showing data.*
@@ -86,6 +86,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [animation](http://yihui.name/animation/) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
 * [misc3d](https://cran.r-project.org/web/packages/misc3d/index.html) - Powerful functions to deal with 3d plots, isosurfaces, etc.
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
+* [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 
 ## HTML Widgets
 *Packages for interactive visualizations.*
@@ -210,6 +211,7 @@ of Statistical Learning, Data Mining, Inference, and
 Prediction" by Trevor Hastie, Robert Tibshirani and Jerome
 Friedman
 * [evtree](http://cran.r-project.org/web/packages/evtree/index.html) - Evolutionary Learning of Globally Optimal Trees
+* [FSelector](https://cran.r-project.org/web/packages/FSelector/index.html) - A feature selection framework, based on subset-search or feature ranking approches. 
 * [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
 * [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) - Generalized linear and additive models by likelihood based
 boosting
@@ -280,7 +282,6 @@ Angle Regression
 * [tree](http://cran.r-project.org/web/packages/tree/index.html) - Classification and regression trees
 * [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - Variable selection using random forests
 * [xgboost](https://github.com/tqchen/xgboost/tree/master/R-package) - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
-* [FSelector](https://cran.r-project.org/web/packages/FSelector/index.html) - A feature selection framework, based on subset-search or feature ranking approches. 
 
 ## Natural Language Processing
 *Packages for Natural Language Processing.*
