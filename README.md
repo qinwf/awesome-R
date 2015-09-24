@@ -72,6 +72,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
 * [stringi](http://www.rexamine.com/resources/stringi/) - ICU based string processing package.
 * [stringr](https://github.com/hadley/stringr) - Consistent API for string processing, built on top of stringi.
+* [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 
 ## Graphic Displays
 *Packages for showing data.*
@@ -83,6 +84,8 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 * [animation](http://yihui.name/animation/) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
+* [misc3d](https://cran.r-project.org/web/packages/misc3d/index.html) - Powerful functions to deal with 3d plots, isosurfaces, etc.
+* [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
 
 ## HTML Widgets
 *Packages for interactive visualizations.*
@@ -112,6 +115,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
 * [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) - Install packages from snapshots on the checkpoint server.
+* [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr. 
 
 ## Web Technologies and Services
 *Packages to surf the web.*
@@ -276,6 +280,7 @@ Angle Regression
 * [tree](http://cran.r-project.org/web/packages/tree/index.html) - Classification and regression trees
 * [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - Variable selection using random forests
 * [xgboost](https://github.com/tqchen/xgboost/tree/master/R-package) - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
+* [FSelector](https://cran.r-project.org/web/packages/FSelector/index.html) - A feature selection framework, based on subset-search or feature ranking approches. 
 
 ## Natural Language Processing
 *Packages for Natural Language Processing.*
