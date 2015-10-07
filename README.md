@@ -404,8 +404,7 @@ Where to discover new R-esources.
 * [R Packages](http://r-pkgs.had.co.nz/) - A book (in paper and website formats) on writing R packages.
 * [R in Action](http://www.manning.com/kabacoff2/) - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
 * [Use R!](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as Bayesian networks, ggplot2 and Rcpp.
-* [The R Guide](https://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf) - This Guide covers introduction to R as well as some basic statistics using R.
-* [R for SAS and SPSS users](https://sites.google.com/site/r4statistics/books/free-version) - An excelllent resource for users already familiar with SAS or SPSS.
+* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - An excelllent resource for users already familiar with SAS or SPSS.
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - A very good introductory text on R, also covers some advanced topics.
 
 ## Reference Cards
@@ -425,7 +424,7 @@ Where to discover new R-esources.
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) - Hands-on introduction to data analysis with R from MITx.
 * [Johns Hopkins University Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) - 9 courses including: Introduction to R, literate analysis tools, Shiny and some more.
 * [HarvardX Biomedical Data Science](http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/) - Introduction to R for the Life Sciences.
-* [Explore Statistics with R](https://courses.edx.org/courses/KIx/KIexploRx/3T2014/6ab26ffc980c42de90326dc98e3ce8c8/) - Covers introduction, data handling and statistical analysis in R.
+* [Explore Statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0) - Covers introduction, data handling and statistical analysis in R.
 
 # Other Awesome Lists
 
