@@ -395,6 +395,7 @@ Where to discover new R-esources.
 ## Books
 
 * [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) - It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
+* [Free Books](https://cran.r-project.org/other-docs.html) - CRAN Contributed Documentation in many languages.
 * [R Cookbook](http://shop.oreilly.com/product/9780596809164.do) - A quick and simple introduction to conducting many common statistical tasks with R.
 * Books written as part of the Johns Hopkins Data Science Specialization:
   * [Exploratory Data Analysis with R](https://leanpub.com/exdata) - Basic analytical skills for all sorts of data in R.
