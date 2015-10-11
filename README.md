@@ -23,6 +23,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Bioinformatics](#bioinformatics)
     - [Network Analysis](#network-analysis)
     - [R Development](#r-development)
+    - [Logging](#logging)
     - [Other Interpreters](#other-interpreters)
     - [Learning R](#learning-r)
 - [Resources](#resources)
@@ -359,6 +360,12 @@ Angle Regression
 * [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
 * [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to [coveralls](https://coveralls.io/) or [codecov](https://codecov.io/).
 * [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforce code style.
+
+## Logging
+*Packages for Logging*
+* [futile.logger](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
+* [log4r](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
+* [logging](https://cran.r-project.org/web/packages/logging/index.html) - A logging package emulating the python logging package.
 
 ## Other Interpreters
 *Alternative R engines.*
