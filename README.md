@@ -140,6 +140,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
 * [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel.
 * [SparkR](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark.
+* [DistributedR](https://github.com/vertica/DistributedR) - A scalable high-performance platform from  HP Vertica Analytics Team.
 
 ## High Performance
 *Packages for making R faster.*
