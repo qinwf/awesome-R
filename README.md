@@ -42,7 +42,6 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
 * [TextMate + r.tmblundle](https://github.com/textmate/r.tmbundle) - Add-on package for TextMate 1/2.
 * [StatET](http://www.walware.de/goto/statet) - An Eclipse based IDE for R.
-* [Revolution R Enterprise](http://www.revolutionanalytics.com/get-revolution-r-enterprise) - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
 * [R Commander](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/) - A package that provides a basic graphical user interface.
 * [IPython](http://ipython.org/ipython-doc/rel-0.13/config/extensions/rmagic.html#extensions-rmagic) - An interactive Python interpreter, and it supports execution of R code while capturing both output and figures.
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) - A Menu driven data analysis GUI with a spreadsheet like data editor.
