@@ -377,7 +377,7 @@ Angle Regression
 * [fastR](https://bitbucket.org/allr/fastr/wiki/Home) - FastR is an implementation of the R Language in Java atop Truffle and Graal.
 * [riposte](https://github.com/jtalbot/riposte) - a fast interpreter and JIT for R.
 * [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
-* [RRE](http://www.revolutionanalytics.com/) - Revolution R Enterprise.
+* [RRO](https://mran.revolutionanalytics.com/open/) - Revolution R Open.
 * [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 
 ## Learning R
