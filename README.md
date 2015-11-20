@@ -49,6 +49,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [Radiant](http://vnijs.github.io/radiant/) - A platform-independent browser-based interface for business analytics in R, based on the Shiny.
 * [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R. 
 * [JASP](https://jasp-stats.org/) - A complete package for both Bayesian and Frequentist methods, that is familiar to users of SPSS.
+* [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
 
 ## Syntax
 *Packages change the way you use R.*
@@ -142,6 +143,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel.
 * [SparkR](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark.
 * [DistributedR](https://github.com/vertica/DistributedR) - A scalable high-performance platform from  HP Vertica Analytics Team.
+* [ddR](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
 
 ## High Performance
 *Packages for making R faster.*
