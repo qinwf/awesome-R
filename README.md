@@ -138,6 +138,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 ## Parallel Computing
 *Packages for parallel computing.*
 
+* [multidplyr](https://github.com/hadley/multidplyr) - A backend for dplyr that partitions a data frame across multiple cores.
 * [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) - R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
 * [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
 * [foreach](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel.
