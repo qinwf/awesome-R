@@ -407,7 +407,7 @@ Where to discover new R-esources.
 
 ## Books
 
-* [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/)
+* [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/) - This is a brilliant book introducing the basic statistical learning methods with detailed descriptions with R code. Actually it can be regarded as a simplified and more "operational" version of another well-known book *The Elements of Statistical Learning*. Free PDF version of this book is provided by its authors on its website.
 * [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) - It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
 * [Free Books](https://cran.r-project.org/other-docs.html) - CRAN Contributed Documentation in many languages.
 * [R Cookbook](http://shop.oreilly.com/product/9780596809164.do) - A quick and simple introduction to conducting many common statistical tasks with R.
