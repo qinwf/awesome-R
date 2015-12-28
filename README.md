@@ -421,6 +421,8 @@ Where to discover new R-esources.
 * [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - An excelllent resource for users already familiar with SAS or SPSS.
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - A very good introductory text on R, also covers some advanced topics.
 * [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/) - A simplified and "operational" version of *The Elements of Statistical Learning*. Free softcopy provided by its authors.
+* [Hands-On Programming with R](http://file.allitebooks.com/20151128/Hands-On%20Programming%20with%20R.pdf) - Garrett Grolemund and Hadley Wickham go into the R language and then dive into applications to data science.
+* [Statistical Computing in C++ and R](http://file.allitebooks.com/20150721/Statistical%20Computing%20in%20C++%20and%20R.pdf) - Ana Kupresanin and Randall L. Eubank go over integrating C++ and R.
 
 ## Reference Cards
 
