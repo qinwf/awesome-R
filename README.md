@@ -405,6 +405,7 @@ Where to discover new R-esources.
 * [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
 * [R Cookbook](http://www.cookbook-r.com/) - A problem-oriented website that supports the [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
 * [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
+* [R language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers/) - John D. Cook gives his perspective on the R language in this blog post.
 
 ## Books
 
@@ -421,6 +422,7 @@ Where to discover new R-esources.
 * [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - An excelllent resource for users already familiar with SAS or SPSS.
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - A very good introductory text on R, also covers some advanced topics.
 * [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/) - A simplified and "operational" version of *The Elements of Statistical Learning*. Free softcopy provided by its authors.
+* [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns goes over the ins and outs of R (including its quirks!)
 
 ## Reference Cards
 
