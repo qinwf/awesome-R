@@ -82,6 +82,8 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 
 * [ggplot2](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics.
 * [ggfortify](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code. 
+* [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
+* [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
 * [lattice](http://lattice.r-forge.r-project.org/) - A powerful and elegant high-level data visualization system.
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display output.
