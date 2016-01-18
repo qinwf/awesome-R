@@ -26,6 +26,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Logging](#logging)
     - [Other Interpreters](#other-interpreters)
     - [Learning R](#learning-r)
+    - [Optimization](#optimization)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
@@ -391,6 +392,11 @@ Angle Regression
 *Packages for Learning R.*
 
 - [swirl](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
+
+## Optimization
+*Packages to solve optimization problems.*
+
+- [Rmosek](http://rmosek.r-forge.r-project.org/) - An R interface to the commercial MOSEK solver.
 
 # Resources
 
