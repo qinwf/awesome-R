@@ -24,6 +24,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Network Analysis](#network-analysis)
     - [R Development](#r-development)
     - [Logging](#logging)
+    - [Other Tools](#other-tools)
     - [Other Interpreters](#other-interpreters)
     - [Learning R](#learning-r)
 - [Resources](#resources)
@@ -351,6 +352,7 @@ Angle Regression
 * [latentnet](https://cran.r-project.org/web/packages/latentnet/index.html) - Latent position and cluster models for network objects.
 * [tnet](https://cran.r-project.org/web/packages/tnet/index.html) - Network measures for weighted, two-mode and longitudinal networks.
 * [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like [Gephi](https://gephi.github.io/) or [Sigma](http://sigmajs.org/).
+* [visNetwork](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
 ## R Development
 *Packages for packages.*
@@ -371,9 +373,15 @@ Angle Regression
 
 ## Logging
 *Packages for Logging*
+
 * [futile.logger](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
 * [log4r](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
 * [logging](https://cran.r-project.org/web/packages/logging/index.html) - A logging package emulating the python logging package.
+
+## Other Tools
+*Handy Tools for R*
+
+* [git2r](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
 ## Other Interpreters
 *Alternative R engines.*
