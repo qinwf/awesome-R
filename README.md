@@ -307,6 +307,7 @@ Angle Regression
 * [LDAvis](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
 * [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) - Topic modeling interface to the C code developed by by David M. Blei for Topic Modeling (Latent Dirichlet Allocation (LDA), and Correlated Topics Models (CTM)).
 * [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) - Extracts sentiment from text using three different sentiment dictionaries.
+* [SnowballC](https://cran.rstudio.com/web/packages/SnowballC/index.html) - Snowball stemmers based on the C libstemmer UTF-8 library.
 
 ## Bayesian
 *Packages for Bayesian Inference.*
