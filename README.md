@@ -19,6 +19,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Machine Learning](#machine-learning)
     - [Natural Language Processing](#natural-language-processing)
     - [Bayesian](#bayesian)
+    - [Optimization](#optimization)
     - [Finance](#finance)
     - [Bioinformatics](#bioinformatics)
     - [Network Analysis](#network-analysis)
@@ -319,6 +320,13 @@ Angle Regression
 * [BRugs](http://cran.r-project.org/web/packages/BRugs/index.html) - R interface to the OpenBUGS MCMC software.
 * [rjags](http://cran.r-project.org/web/packages/rjags/index.html) - R interface to the JAGS MCMC library.
 * [rstan](http://mc-stan.org/rstan.html) - R interface to the Stan MCMC software.
+
+## Optimization
+*Packages for Optimization.*
+
+* [minqa](https://cran.rstudio.com/web/packages/minqa/index.html) - Derivative-free optimization algorithms by quadratic approximation.
+* [nloptr](https://cran.rstudio.com/web/packages/nloptr/index.html) - NLopt is a free/open-source library for nonlinear optimization.
+* [lpSolve](https://cran.rstudio.com/web/packages/lpSolve/index.html) - Interface to `Lp_solve` to Solve Linear/Integer Programs.
 
 ## Finance
 *Packages for dealing with money.*
