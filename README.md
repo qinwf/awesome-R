@@ -33,7 +33,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
     - [Books](#books)
     - [Reference Cards](#reference-cards)
     - [MOOCs](#moocs)
-    - [Learning Lists](#learning-lists)
+    - [Lists](#lists)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -463,10 +463,11 @@ Where to discover new R-esources.
 * [HarvardX Biomedical Data Science](http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/) - Introduction to R for the Life Sciences.
 * [Explore Statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0) - Covers introduction, data handling and statistical analysis in R.
 
-## Learning Lists
+## Lists
 *Great resources for learning domain knowledge.*
 
-* [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models Learning and R Resources.
+* [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+* [ggplot2 extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions. 
 
 # Other Awesome Lists
 
