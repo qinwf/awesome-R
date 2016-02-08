@@ -93,6 +93,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 * [animation](http://yihui.name/animation/) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
+* [gganimate](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
 * [misc3d](https://cran.r-project.org/web/packages/misc3d/index.html) - Powerful functions to deal with 3d plots, isosurfaces, etc.
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
 * [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
