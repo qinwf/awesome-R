@@ -1,7 +1,7 @@
 library(httr)
 library(lubridate)
 
-all_time = content(GET('https://api.github.com/search/repositories?q=language:r&sort=stars&order=desc&created:>=2016-01-01'))
+all_time = content(GET('https://api.github.com/search/repositories?q=language:r&sort=stars&order=desc'))
 
 gen_markdown = function(x){
     sprintf("1. [%s](%s) **%d**<br/>%s",
@@ -48,8 +48,7 @@ gen_list = function(x){
          stars = x$stargazers_count)
 }
 
-all_time_data = cbind(from = get_last_month(),
-                      to   = as.character(Sys.Date()),
+all_time_data = cbind(from = as.character(Sys.Date()),
                       do.call(rbind, lapply(all_time$items, gen_list)))
 
 trending_data = cbind(from = get_last_month(),
