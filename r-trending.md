@@ -1,10 +1,10 @@
 # Top-Starred R GitHub Repos to Follow
 
-** Generated biweekly from `trending_repo.R` **
+**Generated biweekly from [trending_repo.R](./trending_repo.R)**
 
 ## Top-Starred R GitHub Repos: Trending
 
-** Trending from 2016-01-01 to 2016-02-18 **
+**Trending from 2016-01-01 to 2016-02-18**
 
 1. [dgrtwo/gganimate](https://github.com/dgrtwo/gganimate) **202**<br/>Create easy animations with ggplot2
 1. [slowkow/ggrepel](https://github.com/slowkow/ggrepel) **191**<br/>:round_pushpin: Repel overlapping text labels away from each other.

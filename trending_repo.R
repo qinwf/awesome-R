@@ -29,9 +29,9 @@ this_month_markdown = sapply(trending_this_month$items, gen_markdown)
 write_markdown = function(path,all,this){
     f = file(path,open = 'w')
     writeLines("# Top-Starred R GitHub Repos to Follow\n", f)
-    writeLines("** Generated biweekly from `trending_repo.R` **\n", f)
+    writeLines("**Generated biweekly from [trending_repo.R](./trending_repo.R)**\n", f)
     writeLines("## Top-Starred R GitHub Repos: Trending\n", f)
-    writeLines(sprintf("** Trending from %s to %s **\n",get_last_month(), Sys.Date()), f)
+    writeLines(sprintf("**Trending from %s to %s**\n",get_last_month(), Sys.Date()), f)
     writeLines(this, f)
     writeLines("\n", f)
     writeLines("## Top-Starred R GitHub Repos: All-Time\n", f)
@@ -52,8 +52,8 @@ all_time_data = cbind(from = get_last_month(),
                       to   = as.character(Sys.Date()),
                       do.call(rbind, lapply(all_time$items, gen_list)))
 
-trending_data = cbind(from = as.character(Sys.Date()),
-                      to   = get_last_month(),
+trending_data = cbind(from = get_last_month(),
+                      to   = as.character(Sys.Date()),
                       do.call(rbind, lapply(trending_this_month$items, gen_list)))
 
 write.table(trending_data, "./trending.csv", sep = ',',append = T, quote = T,row.names = FALSE, col.names = TRUE)
