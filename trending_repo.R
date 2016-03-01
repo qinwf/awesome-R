@@ -3,12 +3,14 @@ library(lubridate)
 
 all_time = content(GET('https://api.github.com/search/repositories?q=language:r&sort=stars&order=desc'))
 
+null_remove = function(x) ifelse(is.null(x),"",x)
+
 gen_markdown = function(x){
     sprintf("1. [%s](%s) **%d**<br/>%s",
-            x$full_name,
-            x$html_url,
-            x$stargazers_count,
-            x$description)
+            null_remove(x$full_name),
+            null_remove(x$html_url),
+            null_remove(x$stargazers_count),
+            null_remove(x$description))
 }
 
 all_time_markdown = sapply(all_time$items, gen_markdown)
