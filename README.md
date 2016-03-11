@@ -55,6 +55,7 @@ And trending R GitHub repos are [HERE](./r-trending.md).
 * [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R. 
 * [JASP](https://jasp-stats.org/) - A complete package for both Bayesian and Frequentist methods, that is familiar to users of SPSS.
 * [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
+* [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
 
 ## Syntax
 *Packages change the way you use R.*
