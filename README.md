@@ -471,6 +471,7 @@ Where to discover new R-esources.
 
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 * [ggplot2 extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions. 
+* [Posts](./posts.md) - Great R blog posts or Rticles.
 
 # Other Awesome Lists
 
