@@ -16,10 +16,7 @@ gen_markdown = function(x){
 all_time_markdown = sapply(all_time$items, gen_markdown)
 
 get_last_month = function(){
-    month_ = ifelse(month(now()) == 1, 12, month(now())-1)
-    month_ = ifelse(month_ < 10, paste0("0",month_), as.character(month_))
-    year_  = ifelse(month_ == 12, year(now())-1, year(now()))
-    sprintf("%s-%s-01", year_, month_)
+    as.character(as.Date(now())-30)
 }
 
 trending_url = sprintf("https://api.github.com/search/repositories?q=language:r+created:>=%s&sort=stars&order=desc&",get_last_month())
@@ -57,6 +54,6 @@ trending_data = cbind(from = get_last_month(),
                       to   = as.character(Sys.Date()),
                       do.call(rbind, lapply(trending_this_month$items, gen_list)))
 
-write.table(trending_data, "./trending.csv", sep = ',',append = T, quote = T,row.names = FALSE, col.names = TRUE)
+write.table(trending_data, "./trending.csv", sep = ',',append = T, quote = T,row.names = FALSE, col.names = FALSE)
 
-write.table(all_time_data, "./all_time.csv", sep = ',',append = T, quote = T,row.names = FALSE, col.names = TRUE)
+write.table(all_time_data, "./all_time.csv", sep = ',',append = T, quote = T,row.names = FALSE, col.names = FALSE)
