@@ -2,6 +2,7 @@
 
 ## 3/2016
 
+1. [Rbitrary Standards](https://ironholds.org/projects/rbitrary/)<br/>@ Oliver Keyes **#R #FAQ** <br/> This is an alternate FAQ for R. <br/> &nbsp;
 1. [Submitting packages to CRAN](http://f.briatte.org/r/submitting-packages-to-cran) <br/>@ François Briatte **#CRAN #package** <br/> This note lists a few of the mistakes that one can make before submitting a package to CRAN. <br/> &nbsp;
 1. [EigenCoder: Programming Stereotypes](http://trestletech.com/2016/03/09/eigencoder/) <br/>@ Jeff Allen **#fun #visual**  <br/> There are a lot of stereotypes in the programming community. Well it turns out that some of these might be true. <br/> &nbsp;
 1. [BallR: Interactive NBA Shot Charts with R and Shiny](http://toddwschneider.com/posts/ballr-interactive-nba-shot-charts-with-r-and-shiny/)  <br/>@ Todd W. Schneider **#shiny #NBA** <br/> Make your own shot charts for any NBA player dating back to 1996. <br/> &nbsp;
