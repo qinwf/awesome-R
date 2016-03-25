@@ -8,6 +8,14 @@
 1. [It’s not the p-values’ fault – reflections on the recent ASA statement (+relevant R resources)](http://www.r-statistics.com/2016/03/its-not-the-p-values-fault-reflections-on-the-recent-asa-statement/)  <br/>@ Tal Galili & Yoav Benjamini **#p-value #theory**   <br/> This post highlights points raised by Yoav Benjamini in his official response to the ASA statement, as well as offers a list of relevant R resources. <br/> &nbsp;
 1. [An Introduction to XGBoost R package](http://dmlc.ml/rstats/2016/03/10/xgboost.html)  <br/>@ DMLC **#machine learning**
 
+## 2/2016
+
+1. [Sustainable code for social scientists](http://f.local/r/sustainable-code-for-social-scientists) <br/>@ François Briatte **#reproducible #code** <br/>
+
+## 1/2016
+
+1. [String manipulations on full names](http://f.local/r/string-manipulation-on-full-names)  <br/>@ François Briatte **#string #preprocess** <br/> This note shows how to use the stringr package to clean a list of full names.
+
 ## 1/2015
 
 1. [Understanding \[.data.frame](https://kevinushey.github.io/blog/2015/01/24/understanding-data-frame-subsetting/) <br/>@ Kevin Ushey **#data.frame**
