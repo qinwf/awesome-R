@@ -21,3 +21,6 @@
 
 1. [Understanding \[.data.frame](https://kevinushey.github.io/blog/2015/01/24/understanding-data-frame-subsetting/) <br/>@ Kevin Ushey **#data.frame**
 
+## 9/2007
+
+1. [R Surprises](http://www1.cuni.cz/~obo/r_surprises.html)  <br/>@ Ondřej Bojar **#FFI #gotcha** <br/> The number of 'gotchas' has exceeded my threshold. Instead of smashing things, I'll to write about it.
