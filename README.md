@@ -132,6 +132,7 @@ And trending R GitHub repos are [HERE](./r-trending.md).
 * [checkpoint](http://projects.revolutionanalytics.com/documents/rrt/rrtpkgs/) - Install packages from snapshots on the checkpoint server.
 * [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr. 
 * [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
+* [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
