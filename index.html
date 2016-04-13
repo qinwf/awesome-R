@@ -24,29 +24,35 @@
   <link  href='stylesheets/main.css' rel='stylesheet'>
 
   <script>
-    Flatdoc.run({
+       (function(){
+           repozz = get_vars('repo');
+           filezz = get_vars('file');
+        if( repozz !== undefined && filezz !== undefined ){
+          getpages(repozz,filezz);
+      } else{
+              Flatdoc.run({
       fetcher: Flatdoc.github('qinwf/awesome-r')
+    });
+      }
+                  })();
+       $(function(){
+      $("#includedContent").load("nav.html"); 
     });
   </script>
 </head>
+
 <body role='flatdoc' class='no-literate large-brief'>
-  <div class='header'>
+
+
+     <div class='header'>
     <div class='left'>
-      <img src="./images/Rlogo.svg" width="40" height="40" 
-      style="border-radius: 15px; filter: hue-rotate(100deg);  -webkit-filter: hue-rotate(100deg);" >
-      <ul>
-        <li><a href='./index.html'>Awesome R</a></li>
-        <li><a href='./trending.html'>Trending</a></li>
-        <li><a href='./posts.html'>Posts</a></li>
-        <li><a href='https://github.com/qinwf/awesome-r/edit/master/README.md'>Edit</a></li>
-      </ul>
+      <div id="includedContent"></div>
     </div>
     <div class='right'>
       <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
       <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
     </div>
   </div>
-
   <div class='content-root'>
     <div class='menubar'>
       <div class='menu section' role='flatdoc-menu'></div>
@@ -60,8 +66,7 @@
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-76348685-1', 'auto');
-  ga('send', 'pageview');
-
+  ga('send', 'pageview');    
 </script>
 </body>
 </html>
