@@ -2,7 +2,7 @@
 
 Generated biweekly from [R code](https://github.com/qinwf/awesome-R/blob/master/trending_repo.R).
 
-## Top-Starred R GitHub Repos: Trending
+## Trending
 
 **Trending from 2016-03-08 to 2016-04-07**
 
@@ -38,7 +38,7 @@ Generated biweekly from [R code](https://github.com/qinwf/awesome-R/blob/master/
 1. [stephlocke/HIBPwned](https://github.com/stephlocke/HIBPwned) **4**<br/>An R package for using the HaveIBeenPwned.com API
 
 
-## Top-Starred R GitHub Repos: All-Time
+## All-Time
 
 1. [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) **2258**<br/>Code accompanying the book "Machine Learning for Hackers"
 1. [hadley/ggplot2](https://github.com/hadley/ggplot2) **1753**<br/>An implementation of the Grammar of Graphics in R
