@@ -1,6 +1,6 @@
 # Top-Starred R GitHub Repos to Follow
 
-**Generated biweekly from [trending_repo.R](./trending_repo.R)**
+Generated biweekly from [R code](https://github.com/qinwf/awesome-R/blob/master/trending_repo.R).
 
 ## Top-Starred R GitHub Repos: Trending
 

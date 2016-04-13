@@ -4,7 +4,7 @@
 
 A curated list of awesome R frameworks, packages,and software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
-And trending R GitHub repos are [HERE](./r-trending.md).
+And trending R GitHub repos are [HERE](https://github.com/qinwf/awesome-R/blob/master/r-trending.md).
 
 - [Awesome R](#awesome-)
     - [Integrated Development Environments](#integrated-development-environments)
