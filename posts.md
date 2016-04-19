@@ -1,5 +1,9 @@
 # Awesome R Posts
 
+## 4/2016
+
+1. [How I Learned to Stop Worrying and Love R CMD Check](http://juliasilge.com/blog/How-I-Stopped/)<br/>@Julia Silge **#CRAN #package**<br/> A real process of getting a package CRAN-ready. <br/> &nbsp;
+
 ## 3/2016
 
 1. [Rbitrary Standards](https://ironholds.org/projects/rbitrary/)<br/>@ Oliver Keyes **#R #FAQ** <br/> This is an alternate FAQ for R. <br/> &nbsp;
