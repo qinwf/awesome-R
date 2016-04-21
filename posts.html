@@ -2,92 +2,168 @@
 <html>
 
 <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width">
-    <meta content="Awesome R" property="og:title">
-    <meta content="A collection of awesome R libraries, tools, frameworks and software" name="description">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="http://aws-r.com">
-    <meta name="twitter:title" content="Awesome R">
-    <meta name="twitter:description" content="A collection of awesome R packages, frameworks and software.">
-    <meta name="twitter:image" content="https://cran.r-project.org/Rlogo.svg">
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
+  <meta content="Awesome R" property="og:title">
+  <meta content="A collection of awesome R libraries, tools, frameworks and software" name="description">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="http://aws-r.com">
+  <meta name="twitter:title" content="Awesome R">
+  <meta name="twitter:description" content="A collection of awesome R packages, frameworks and software.">
+  <meta name="twitter:image" content="https://cran.r-project.org/Rlogo.svg">
 
-    <title>Awesome R - Find Great R Blog Posts</title>
-    <meta name="description" content="Find great R blog posts quickly and easily.">
-    <meta name="keywords" content="R, package, blog, tutorial" />
+  <title>Awesome R - Find Great R Blog Posts</title>
+  <meta name="description" content="Find great R blog posts quickly and easily.">
+  <meta name="keywords" content="R, package, blog, tutorial" />
 
-    <link rel="shortcut icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
-    <link href='stylesheets/main.css' rel='stylesheet'>
-    <script src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
-    <script src='javascripts/legacy.js'></script>
-    <script src='javascripts/flatdoc.js'></script>
-    <script src='javascripts/app.js'></script>
+  <link rel="shortcut icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
+  <link href='stylesheets/main.css' rel='stylesheet'>
+  <script src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
+  <script src='javascripts/legacy.js'></script>
+  <script src='javascripts/flatdoc.js'></script>
+  <script src='javascripts/app.js'></script>
 
-    <script>
-        (function () {
-            function get_vars(variable) {
-                var query = window.location.search.substring(1);
-                var vars = query.split('&');
-                for (var i = 0; i < vars.length; i++) {
-                    var pair = vars[i].split('=');
-                    if (decodeURIComponent(pair[0]) == variable) {
-                        return decodeURIComponent(pair[1]);
-                    }
-                }
-                console.log('Query variable %s not found', variable);
-            }
+  <script>
+    (function () {
+      function get_vars(variable) {
+        var query = window.location.search.substring(1);
+        var vars = query.split('&');
+        for (var i = 0; i < vars.length; i++) {
+          var pair = vars[i].split('=');
+          if (decodeURIComponent(pair[0]) == variable) {
+            return decodeURIComponent(pair[1]);
+          }
+        }
+        console.log('Query variable %s not found', variable);
+      }
 
-            repozz = get_vars('repo');
-            filezz = get_vars('file');
-            if (repozz !== undefined && filezz !== undefined) {
-                getpages(repozz, filezz);
-            } else {
-                Flatdoc.run({
-                    fetcher: Flatdoc.github('qinwf/awesome-r', 'posts.md')
-                });
-            }
-        })();
-        $(function () {
-            $("#includedContent").load("nav.html");
+      repozz = get_vars('repo');
+      filezz = get_vars('file');
+      if (repozz !== undefined && filezz !== undefined) {
+        getpages(repozz, filezz);
+      } else {
+        Flatdoc.run({
+          fetcher: Flatdoc.github('qinwf/awesome-r', 'posts.md')
         });
-    </script>
+      }
+    })();
+    $(function () {
+      $("#includedContent").load("nav.html");
+    });
+  </script>
 </head>
 
 <body role='flatdoc' class='no-literate large-brief'>
-    <div class='header'>
-        <div class='left'>
-            <div id="includedContent"></div>
-        </div>
-        <div class='right'>
-            <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
-            <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
-        </div>
+  <div class='header'>
+    <div class='left'>
+      <div id="includedContent"></div>
     </div>
-
-    <div class='content-root'>
-        <div class='menubar'>
-            <div class='menu section' role='flatdoc-menu'></div>
-        </div>
-        <div role='flatdoc-content' class='content'></div>
+    <div class='right'>
+      <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+      <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
     </div>
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+  </div>
 
-        ga('create', 'UA-76348685-1', 'auto');
-        ga('send', 'pageview');
-    </script>
+  <div class='content-root'>
+    <div class='menubar'>
+      <div class='menu section' role='flatdoc-menu'>
+        <ul>
+          <li class="level-0" id="root-item">
+            <ul id="root-list" class="level-1">
+              <li class="level-1" id="awesome-r-posts-item"><a class="level-1" href="#awesome-r-posts" id="awesome-r-posts-link">Awesome R Posts</a>
+                <ul id="awesome-r-posts-list" class="level-2">
+                  <li class="level-2" id="awesome-r-posts-4-2016-item"><a class="level-2" href="#awesome-r-posts-4-2016" id="awesome-r-posts-4-2016-link">4/2016</a></li>
+                  <li class="level-2" id="awesome-r-posts-3-2016-item"><a class="level-2" href="#awesome-r-posts-3-2016" id="awesome-r-posts-3-2016-link">3/2016</a></li>
+                  <li class="level-2" id="awesome-r-posts-2-2016-item"><a class="level-2" href="#awesome-r-posts-2-2016" id="awesome-r-posts-2-2016-link">2/2016</a></li>
+                  <li class="level-2" id="awesome-r-posts-1-2016-item"><a class="level-2" href="#awesome-r-posts-1-2016" id="awesome-r-posts-1-2016-link">1/2016</a></li>
+                  <li class="level-2" id="awesome-r-posts-1-2015-item"><a class="level-2" href="#awesome-r-posts-1-2015" id="awesome-r-posts-1-2015-link">1/2015</a></li>
+                  <li class="level-2" id="awesome-r-posts-9-2007-item"><a class="level-2" href="#awesome-r-posts-9-2007" id="awesome-r-posts-9-2007-link">9/2007</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div role='flatdoc-content' class='content'>
+      <h1 id="awesome-r-posts">Awesome R Posts</h1>
+      <h2 id="awesome-r-posts-4-2016">4/2016</h2>
+      <ol>
+        <li><a href="http://juliasilge.com/blog/How-I-Stopped/">How I Learned to Stop Worrying and Love R CMD Check</a>
+          <br>@Julia Silge <strong>#CRAN #package</strong>
+          <br> A real process of getting a package CRAN-ready.
+          <br> &nbsp;</li>
+      </ol>
+      <h2 id="awesome-r-posts-3-2016">3/2016</h2>
+      <ol>
+        <li><a href="https://ironholds.org/projects/rbitrary/">Rbitrary Standards</a>
+          <br>@ Oliver Keyes <strong>#R #FAQ</strong>
+          <br> This is an alternate FAQ for R.
+          <br> &nbsp;</li>
+        <li><a href="http://f.briatte.org/r/submitting-packages-to-cran">Submitting packages to CRAN</a>
+          <br>@ François Briatte <strong>#CRAN #package</strong>
+          <br> This note lists a few of the mistakes that one can make before submitting a package to CRAN.
+          <br> &nbsp;</li>
+        <li><a href="http://trestletech.com/2016/03/09/eigencoder/">EigenCoder: Programming Stereotypes</a>
+          <br>@ Jeff Allen <strong>#fun #visual</strong>
+          <br> There are a lot of stereotypes in the programming community. Well it turns out that some of these might be true.
+          <br> &nbsp;</li>
+        <li><a href="http://toddwschneider.com/posts/ballr-interactive-nba-shot-charts-with-r-and-shiny/">BallR: Interactive NBA Shot Charts with R and Shiny</a>
+          <br>@ Todd W. Schneider <strong>#shiny #NBA</strong>
+          <br> Make your own shot charts for any NBA player dating back to 1996.
+          <br> &nbsp;</li>
+        <li><a href="http://www.r-statistics.com/2016/03/its-not-the-p-values-fault-reflections-on-the-recent-asa-statement/">It’s not the p-values’ fault – reflections on the recent ASA statement (+relevant R resources)</a>
+          <br>@ Tal Galili &amp; Yoav Benjamini <strong>#p-value #theory</strong>
+          <br> This post highlights points raised by Yoav Benjamini in his official response to the ASA statement, as well as offers a list of relevant R resources.
+          <br> &nbsp;</li>
+        <li><a href="http://dmlc.ml/rstats/2016/03/10/xgboost.html">An Introduction to XGBoost R package</a>
+          <br>@ DMLC <strong>#machine learning</strong></li>
+      </ol>
+      <h2 id="awesome-r-posts-2-2016">2/2016</h2>
+      <ol>
+        <li><a href="http://f.local/r/sustainable-code-for-social-scientists">Sustainable code for social scientists</a>
+          <br>@ François Briatte <strong>#reproducible #code</strong>
+          <br>
+        </li>
+      </ol>
+      <h2 id="awesome-r-posts-1-2016">1/2016</h2>
+      <ol>
+        <li><a href="http://f.local/r/string-manipulation-on-full-names">String manipulations on full names</a>
+          <br>@ François Briatte <strong>#string #preprocess</strong>
+          <br> This note shows how to use the stringr package to clean a list of full names.</li>
+      </ol>
+      <h2 id="awesome-r-posts-1-2015">1/2015</h2>
+      <ol>
+        <li><a href="https://kevinushey.github.io/blog/2015/01/24/understanding-data-frame-subsetting/">Understanding [.data.frame</a>
+          <br>@ Kevin Ushey <strong>#data.frame</strong></li>
+      </ol>
+      <h2 id="awesome-r-posts-9-2007">9/2007</h2>
+      <ol>
+        <li><a href="http://www1.cuni.cz/~obo/r_surprises.html">R Surprises</a>
+          <br>@ Ondřej Bojar <strong>#FFI #gotcha</strong>
+          <br> The number of ‘gotchas’ has exceeded my threshold. Instead of smashing things, I’ll to write about it.</li>
+      </ol>
+
+    </div>
+  </div>
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-76348685-1', 'auto');
+    ga('send', 'pageview');
+  </script>
 </body>
 
 </html>

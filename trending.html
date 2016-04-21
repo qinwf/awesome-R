@@ -2,92 +2,240 @@
 <html>
 
 <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width">
-    <meta content="Awesome R" property="og:title">
-    <meta content="A collection of awesome R packages, frameworks and software" name="description">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="http://aws-r.com">
-    <meta name="twitter:title" content="Awesome R">
-    <meta name="twitter:description" content="A collection of awesome R packages, frameworks and software.">
-    <meta name="twitter:image" content="https://cran.r-project.org/Rlogo.svg">
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
+  <meta content="Awesome R" property="og:title">
+  <meta content="A collection of awesome R packages, frameworks and software" name="description">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="http://aws-r.com">
+  <meta name="twitter:title" content="Awesome R">
+  <meta name="twitter:description" content="A collection of awesome R packages, frameworks and software.">
+  <meta name="twitter:image" content="https://cran.r-project.org/Rlogo.svg">
 
-    <title>Awesome R - Find Trending R packages</title>
-    <meta name="description" content="Find great R packages quickly and easily. A curated list of awesome R packages, and tools.">
-    <meta name="keywords" content="R, package, tutorial, Open Source, list, find R package" />
+  <title>Awesome R - Find Trending R packages</title>
+  <meta name="description" content="Find great R packages quickly and easily. A curated list of awesome R packages, and tools.">
+  <meta name="keywords" content="R, package, tutorial, Open Source, list, find R package" />
 
-    <link rel="shortcut icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
-    <link href='stylesheets/main.css' rel='stylesheet'>
-    <script src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
-    <script src='javascripts/legacy.js'></script>
-    <script src='javascripts/flatdoc.js'></script>
-    <script src='javascripts/app.js'></script>
+  <link rel="shortcut icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
+  <link href='stylesheets/main.css' rel='stylesheet'>
+  <script src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
+  <script src='javascripts/legacy.js'></script>
+  <script src='javascripts/flatdoc.js'></script>
+  <script src='javascripts/app.js'></script>
 
-    <script>
-        (function () {
-            function get_vars(variable) {
-                var query = window.location.search.substring(1);
-                var vars = query.split('&');
-                for (var i = 0; i < vars.length; i++) {
-                    var pair = vars[i].split('=');
-                    if (decodeURIComponent(pair[0]) == variable) {
-                        return decodeURIComponent(pair[1]);
-                    }
-                }
-                console.log('Query variable %s not found', variable);
-            }
+  <script>
+    (function () {
+      function get_vars(variable) {
+        var query = window.location.search.substring(1);
+        var vars = query.split('&');
+        for (var i = 0; i < vars.length; i++) {
+          var pair = vars[i].split('=');
+          if (decodeURIComponent(pair[0]) == variable) {
+            return decodeURIComponent(pair[1]);
+          }
+        }
+        console.log('Query variable %s not found', variable);
+      }
 
-            repozz = get_vars('repo');
-            filezz = get_vars('file');
-            if (repozz !== undefined && filezz !== undefined) {
-                getpages(repozz, filezz);
-            } else {
-                Flatdoc.run({
-                    fetcher: Flatdoc.github('qinwf/awesome-r', 'r-trending.md')
-                });
-            }
-        })();
-        $(function () {
-            $("#includedContent").load("nav.html");
+      repozz = get_vars('repo');
+      filezz = get_vars('file');
+      if (repozz !== undefined && filezz !== undefined) {
+        getpages(repozz, filezz);
+      } else {
+        Flatdoc.run({
+          fetcher: Flatdoc.github('qinwf/awesome-r', 'r-trending.md')
         });
-    </script>
+      }
+    })();
+    $(function () {
+      $("#includedContent").load("nav.html");
+    });
+  </script>
 </head>
 
 <body role='flatdoc' class='no-literate large-brief'>
-    <div class='header'>
-        <div class='left'>
-            <div id="includedContent"></div>
-        </div>
-        <div class='right'>
-            <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
-            <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
-        </div>
+  <div class='header'>
+    <div class='left'>
+      <div id="includedContent"></div>
     </div>
-
-    <div class='content-root'>
-        <div class='menubar'>
-            <div class='menu section' role='flatdoc-menu'></div>
-        </div>
-        <div role='flatdoc-content' class='content'></div>
+    <div class='right'>
+      <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+      <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
     </div>
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+  </div>
 
-        ga('create', 'UA-76348685-1', 'auto');
-        ga('send', 'pageview');
-    </script>
+  <div class='content-root'>
+    <div class='menubar'>
+      <div class='menu section' role='flatdoc-menu'>
+        <ul>
+          <li class="level-0" id="root-item">
+            <ul id="root-list" class="level-1">
+              <li class="level-1" id="top-starred-r-github-repos-to-follow-item"><a class="level-1" href="#top-starred-r-github-repos-to-follow" id="top-starred-r-github-repos-to-follow-link">Top-Starred R GitHub Repos to Follow</a>
+                <ul id="top-starred-r-github-repos-to-follow-list" class="level-2">
+                  <li class="level-2" id="top-starred-r-github-repos-to-follow-trending-item"><a class="level-2" href="#top-starred-r-github-repos-to-follow-trending" id="top-starred-r-github-repos-to-follow-trending-link">Trending</a></li>
+                  <li class="level-2" id="top-starred-r-github-repos-to-follow-all-time-item"><a class="level-2" href="#top-starred-r-github-repos-to-follow-all-time" id="top-starred-r-github-repos-to-follow-all-time-link">All-Time</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div role='flatdoc-content' class='content'>
+      <h1 id="top-starred-r-github-repos-to-follow">Top-Starred R GitHub Repos to Follow</h1>
+      <p>Generated biweekly from <a href="https://github.com/qinwf/awesome-R/blob/master/trending_repo.R">R code</a>.</p>
+      <h2 id="top-starred-r-github-repos-to-follow-trending">Trending</h2>
+      <p><strong>Trending from 2016-03-22 to 2016-04-21</strong></p>
+      <ol>
+        <li><a href="https://github.com/daattali/rstudio-addins">daattali/rstudio-addins</a> <strong>128</strong>
+          <br>List of useful RStudio addins made by useRs</li>
+        <li><a href="https://github.com/juliasilge/tidytext">juliasilge/tidytext</a> <strong>73</strong>
+          <br>Text mining using dplyr, ggplot2, and other tidy tools</li>
+        <li><a href="https://github.com/lmullen/tokenizers">lmullen/tokenizers</a> <strong>29</strong>
+          <br>Collection of tokenizers for R</li>
+        <li><a href="https://github.com/abresler/forbesListR">abresler/forbesListR</a> <strong>20</strong>
+          <br>
+        </li>
+        <li><a href="https://github.com/BSDStudios/ethr">BSDStudios/ethr</a> <strong>20</strong>
+          <br>An Ethereum package for R</li>
+        <li><a href="https://github.com/rinze/spotify-moods">rinze/spotify-moods</a> <strong>19</strong>
+          <br>A data analysis project involving the saddest and happiest songs available at Spotify</li>
+        <li><a href="https://github.com/ropenscilabs/gdoc">ropenscilabs/gdoc</a> <strong>18</strong>
+          <br>Mixed Google/R workflows</li>
+        <li><a href="https://github.com/kateto/R-Network-Visualization-Basics-to-Advanced">kateto/R-Network-Visualization-Basics-to-Advanced</a> <strong>17</strong>
+          <br>Basic and advanced network visualization with R - code and tutorial from my Sunbelt 2016 workshop. </li>
+        <li><a href="https://github.com/James-Thorson/2016_Spatio-temporal_models">James-Thorson/2016_Spatio-temporal_models</a> <strong>12</strong>
+          <br>FSH 507 “Spatio-temporal models for ecologists” in Spring quarter 2016 at University of Washington</li>
+        <li><a href="https://github.com/csgillespie/addinmanager">csgillespie/addinmanager</a> <strong>11</strong>
+          <br>RStudio addin management made easy</li>
+        <li><a href="https://github.com/rstats-db/hms">rstats-db/hms</a> <strong>10</strong>
+          <br>A simple class for storing time-of-day values</li>
+        <li><a href="https://github.com/52vis/2016-13">52vis/2016-13</a> <strong>10</strong>
+          <br>Week 13 of 2016</li>
+        <li><a href="https://github.com/ropenscilabs/dirdf">ropenscilabs/dirdf</a> <strong>10</strong>
+          <br>Return a directory listing as a data frames</li>
+        <li><a href="https://github.com/benmarwick/wordcountaddin">benmarwick/wordcountaddin</a> <strong>10</strong>
+          <br>Word counts and readability statistics in R markdown documents</li>
+        <li><a href="https://github.com/thomasp85/hierarchicalSets">thomasp85/hierarchicalSets</a> <strong>9</strong>
+          <br>Scalable Set Visualization using Hierarchies</li>
+        <li><a href="https://github.com/dgrtwo/monetizr">dgrtwo/monetizr</a> <strong>8</strong>
+          <br>Make money from your open source packages</li>
+        <li><a href="https://github.com/ropenscilabs/colorpile">ropenscilabs/colorpile</a> <strong>7</strong>
+          <br>
+        </li>
+        <li><a href="https://github.com/rustr/rustinr">rustr/rustinr</a> <strong>7</strong>
+          <br>Rust and R Integration</li>
+        <li><a href="https://github.com/hrbrmstr/albersusa">hrbrmstr/albersusa</a> <strong>7</strong>
+          <br>Tools, shapefiles &amp; data to work with an “AlbersUSA” composite projection in R </li>
+        <li><a href="https://github.com/ellisp/nzelect">ellisp/nzelect</a> <strong>7</strong>
+          <br>New Zealand election results data in convenient form of an R package</li>
+        <li><a href="https://github.com/csgillespie/addinmanger">csgillespie/addinmanger</a> <strong>7</strong>
+          <br>
+        </li>
+        <li><a href="https://github.com/ropenscilabs/colorpiler">ropenscilabs/colorpiler</a> <strong>7</strong>
+          <br>
+        </li>
+        <li><a href="https://github.com/masalmon/opencage">masalmon/opencage</a> <strong>7</strong>
+          <br>:globe_with_meridians: R package for the OpenCage API — both forward and reverse geocoding :globe_with_meridians:</li>
+        <li><a href="https://github.com/amatlin/NBAvis">amatlin/NBAvis</a> <strong>6</strong>
+          <br>Scrape and visualize NBA shot data.</li>
+        <li><a href="https://github.com/jalapic/rmeetup_examples">jalapic/rmeetup_examples</a> <strong>6</strong>
+          <br>Examples for RMeetup Network Viz Presentation</li>
+        <li><a href="https://github.com/MangoTheCat/rematch">MangoTheCat/rematch</a> <strong>6</strong>
+          <br>Match regular expressions with a nicer API</li>
+        <li><a href="https://github.com/geotheory/r-plot">geotheory/r-plot</a> <strong>6</strong>
+          <br>Quick data visualisation in terminal console (csv/tsv/etc). A small R library for use outside R. Scatter, bar, and histogram plots are supported.</li>
+        <li><a href="https://github.com/OriginDataLab/cndatalab">OriginDataLab/cndatalab</a> <strong>6</strong>
+          <br>Replication files for social science research prepared by OriginDataLab</li>
+        <li><a href="https://github.com/remi-daigle/flickRgeotag">remi-daigle/flickRgeotag</a> <strong>5</strong>
+          <br>Queries flickr for geotagged data. Works as an R wrapper for the flickerapi Python module. Requires a Python installation.</li>
+        <li><a href="https://github.com/cplouffe/r-arcgis-webinar">cplouffe/r-arcgis-webinar</a> <strong>5</strong>
+          <br>Materials from the Integrating R with ArcGIS Webinar series.</li>
+      </ol>
+      <h2 id="top-starred-r-github-repos-to-follow-all-time">All-Time</h2>
+      <ol>
+        <li><a href="https://github.com/johnmyleswhite/ML_for_Hackers">johnmyleswhite/ML_for_Hackers</a> <strong>2284</strong>
+          <br>Code accompanying the book “Machine Learning for Hackers”</li>
+        <li><a href="https://github.com/hadley/ggplot2">hadley/ggplot2</a> <strong>1768</strong>
+          <br>An implementation of the Grammar of Graphics in R</li>
+        <li><a href="https://github.com/rstudio/shiny">rstudio/shiny</a> <strong>1707</strong>
+          <br>Easy interactive web applications with R</li>
+        <li><a href="https://github.com/swirldev/swirl_courses">swirldev/swirl_courses</a> <strong>1693</strong>
+          <br>:mortar_board: A collection of interactive courses for the swirl R package.</li>
+        <li><a href="https://github.com/twitter/AnomalyDetection">twitter/AnomalyDetection</a> <strong>1433</strong>
+          <br>Anomaly Detection with R</li>
+        <li><a href="https://github.com/qinwf/awesome-R">qinwf/awesome-R</a> <strong>1300</strong>
+          <br>A curated list of awesome R packages, frameworks and software.</li>
+        <li><a href="https://github.com/hadley/devtools">hadley/devtools</a> <strong>1239</strong>
+          <br>Tools to make an R developer’s life easier</li>
+        <li><a href="https://github.com/hadley/dplyr">hadley/dplyr</a> <strong>1167</strong>
+          <br>Dplyr: A grammar of data manipulation</li>
+        <li><a href="https://github.com/yihui/knitr">yihui/knitr</a> <strong>1141</strong>
+          <br>A general-purpose tool for dynamic report generation in R</li>
+        <li><a href="https://github.com/szilard/benchm-ml">szilard/benchm-ml</a> <strong>874</strong>
+          <br>A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).</li>
+        <li><a href="https://github.com/ramnathv/slidify">ramnathv/slidify</a> <strong>682</strong>
+          <br>Generate reproducible html5 slides from R markdown</li>
+        <li><a href="https://github.com/toddwschneider/nyc-taxi-data">toddwschneider/nyc-taxi-data</a> <strong>639</strong>
+          <br>Import public NYC taxi and Uber trip data into PostgreSQL / PostGIS database, analyze with R</li>
+        <li><a href="https://github.com/amplab-extras/SparkR-pkg">amplab-extras/SparkR-pkg</a> <strong>584</strong>
+          <br>R frontend for Spark</li>
+        <li><a href="https://github.com/jrnold/ggthemes">jrnold/ggthemes</a> <strong>578</strong>
+          <br>ggplot themes and scales</li>
+        <li><a href="https://github.com/hadley/rvest">hadley/rvest</a> <strong>540</strong>
+          <br>Simple web scraping for R</li>
+        <li><a href="https://github.com/rstudio/ggvis">rstudio/ggvis</a> <strong>529</strong>
+          <br>Interactive grammar of graphics for R</li>
+        <li><a href="https://github.com/hadley/httr">hadley/httr</a> <strong>502</strong>
+          <br>httr: a friendly http package for R</li>
+        <li><a href="https://github.com/rich-iannone/DiagrammeR">rich-iannone/DiagrammeR</a> <strong>491</strong>
+          <br>Create graph diagrams and flowcharts using R.</li>
+        <li><a href="https://github.com/rstudio/rmarkdown">rstudio/rmarkdown</a> <strong>490</strong>
+          <br>Dynamic Documents for R</li>
+        <li><a href="https://github.com/genomicsclass/labs">genomicsclass/labs</a> <strong>482</strong>
+          <br>Rmd source files for the HarvardX series PH525x</li>
+        <li><a href="https://github.com/swirldev/swirl">swirldev/swirl</a> <strong>475</strong>
+          <br>:cyclone: Learn R, in R.</li>
+        <li><a href="https://github.com/google/CausalImpact">google/CausalImpact</a> <strong>468</strong>
+          <br>An R package for causal inference in time series</li>
+        <li><a href="https://github.com/ropensci/plotly">ropensci/plotly</a> <strong>464</strong>
+          <br>Create interactive web graphics from R via plotly’s JavaScript graphing library</li>
+        <li><a href="https://github.com/hadley/plyr">hadley/plyr</a> <strong>434</strong>
+          <br>A R package for splitting, applying and combining large problems into simpler problems</li>
+        <li><a href="https://github.com/johnmyleswhite/ProjectTemplate">johnmyleswhite/ProjectTemplate</a> <strong>396</strong>
+          <br>A template utility for R projects that provides a skeletal project.</li>
+        <li><a href="https://github.com/rdpeng/ProgrammingAssignment2">rdpeng/ProgrammingAssignment2</a> <strong>374</strong>
+          <br>Repository for Programming Assignment 2 for R Programming on Coursera</li>
+        <li><a href="https://github.com/dgrtwo/broom">dgrtwo/broom</a> <strong>373</strong>
+          <br>Convert statistical analysis objects from R into tidy format</li>
+        <li><a href="https://github.com/karthik/wesanderson">karthik/wesanderson</a> <strong>368</strong>
+          <br>A Wes Anderson color palette for R</li>
+        <li><a href="https://github.com/ramnathv/htmlwidgets">ramnathv/htmlwidgets</a> <strong>366</strong>
+          <br>HTML Widgets for R</li>
+        <li><a href="https://github.com/smbache/magrittr">smbache/magrittr</a> <strong>364</strong>
+          <br>R package to bring forward-piping features ala F#’s |&gt; operator. Ceci n’est pas un pipe.</li>
+      </ol>
+
+    </div>
+  </div>
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-76348685-1', 'auto');
+    ga('send', 'pageview');
+  </script>
 </body>
 
 </html>
