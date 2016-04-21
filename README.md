@@ -2,9 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome R packages, frameworks and software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
+A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
-And trending R GitHub repos are [HERE](https://github.com/qinwf/awesome-R/blob/master/r-trending.md).
+For better navigation, see https://aws-r.com
 
 - [Awesome R](#awesome-)
     - [Integrated Development Environments](#integrated-development-environments)
