@@ -217,7 +217,7 @@ a:hover {
 .content h3 {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-family: montserrat;
+  font-family: montserrat,"Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   padding-bottom: 0;
 }
 .content h1 + p,
@@ -553,7 +553,7 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   font-weight: bold;
-  font-family: montserrat, sans-serif;
+  font-family: montserrat, sans-serif, "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 13px;
 }
 .header h1,
@@ -631,7 +631,7 @@ a.big.button {
   border: solid 3px #d5000d;
   -webkit-border-radius: 30px;
   border-radius: 30px;
-  font-family: montserrat, sans-serif;
+  font-family: montserrat, sans-serif,"Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 a.big.button,
 a.big.button:visited {
@@ -715,7 +715,7 @@ a.big.button:hover:visited {
   color: #AA000A;
 }
 .menu a.level-1 {
-  font-family: montserrat, sans-serif;
+  font-family: montserrat, "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",sans-serif;
   text-transform: uppercase;
   font-size: 0.9em;
   font-weight: bold;
