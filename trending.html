@@ -58,7 +58,20 @@
 <body role='flatdoc' class='no-literate large-brief'>
   <div class='header'>
     <div class='left'>
-      <div id="includedContent"></div>
+      <img src="./images/Rlogo.svg" width="40" height="40" style="border-radius: 15px; filter: hue-rotate(100deg);  -webkit-filter: hue-rotate(100deg);">
+      <ul>
+        <li><a href='./index.html'>Awesome R</a></li>
+        <li><a href='./trending.html'>Trending</a></li>
+        <li><a href='./posts.html'>Posts</a></li>
+        <li>
+          <div class="dropdown">
+            <a href="#" class="dropbtn">More</a>
+            <div id="includedContent" class="dropdown-content">
+            </div>
+          </div>
+        </li>
+        <li><a href='https://github.com/qinwf/awesome-r/edit/master/README.md'>Edit</a></li>
+      </ul>
     </div>
     <div class='right'>
       <iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
@@ -220,16 +233,22 @@
 
     </div>
   </div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-76721549-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+    ga('create', 'UA-76721549-1', 'auto');
+    ga('send', 'pageview');
+  </script>
 </body>
 
 </html>
