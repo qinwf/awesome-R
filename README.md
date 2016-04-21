@@ -478,7 +478,7 @@ Where to discover new R-esources.
 * [Books](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
-* [Posts](./posts.md) - Great R blog posts or Rticles.
+* [Posts](https://github.com/qinwf/awesome-R/blob/master/posts.md) - Great R blog posts or Rticles.
 * [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins. 
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
