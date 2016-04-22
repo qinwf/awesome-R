@@ -57,12 +57,28 @@
 
 <body role='flatdoc' class='no-literate large-brief'>
   <div class='header'>
-    <div class='left'>
+    <div class='left' itemscope="" itemtype="http://schema.org/BreadcrumbList" role="navigation">
       <img src="./images/Rlogo.svg" width="40" height="40" style="border-radius: 15px; filter: hue-rotate(100deg);  -webkit-filter: hue-rotate(100deg);">
       <ul>
-        <li><a href='./index.html'>Awesome R</a></li>
-        <li><a href='./trending.html'>Trending</a></li>
-        <li><a href='./posts.html'>Posts</a></li>
+        <li itemscope="" itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+          <a href='./index.html' itemprop="url">
+            <span>Awesome R</span>
+            <meta itemprop="name" content="Home"></meta>
+            <meta itemprop="position" content="1"></meta>
+          </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+          <a href='./trending.html' itemprop="url">
+            <span itemprop="name">Trending</span>
+            <meta itemprop="position" content="2"></meta>
+          </a>
+        </li>
+        <li itemscope="" itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+          <a href='./posts.html' itemprop="url">
+            <span itemprop="name">Posts</span>
+            <meta itemprop="position" content="3"></meta>
+          </a>
+        </li>
         <li>
           <div class="dropdown">
             <a href="#" class="dropbtn">More</a>
@@ -70,7 +86,12 @@
             </div>
           </div>
         </li>
-        <li><a href='https://github.com/qinwf/awesome-r/edit/master/README.md'>Edit</a></li>
+        <li itemscope="" itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+          <a href='https://github.com/qinwf/awesome-r/edit/master/README.md' itemprop="url">
+            <span itemprop="name">Edit</span>
+            <meta itemprop="position" content="4"></meta>
+          </a>
+        </li>
       </ul>
     </div>
     <div class='right'>
