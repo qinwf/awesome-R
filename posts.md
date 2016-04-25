@@ -35,4 +35,4 @@
 
 ## Series
 
-* [R User Groups Updates](http://blog.revolutionanalytics.com/user-groups/) - R user groups updates by Revolutions.
+1. [R User Groups Updates](http://blog.revolutionanalytics.com/user-groups/) <br/>@ Revolutions **#community** <br/> &nbsp;
