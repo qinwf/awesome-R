@@ -92,6 +92,7 @@ For better navigation, see https://aws-r.com
 * [ggfortify](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code. 
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 * [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
+* [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [lattice](http://lattice.r-forge.r-project.org/) - A powerful and elegant high-level data visualization system.
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display output.
@@ -319,6 +320,8 @@ Angle Regression
 * [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) - Extracts sentiment from text using three different sentiment dictionaries.
 * [SnowballC](https://cran.rstudio.com/web/packages/SnowballC/index.html) - Snowball stemmers based on the C libstemmer UTF-8 library.
 * [quanteda](https://github.com/kbenoit/quanteda) - R functions for Quantitative Analysis of Textual Data.
+* [Topic Models Resources](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+* [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. **@Chinese**
 
 ## Bayesian
 *Packages for Bayesian Inference.*
@@ -387,6 +390,7 @@ Angle Regression
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 * [import](https://github.com/smbache/import/) - An import mechanism for R.
 * [Rocker](https://github.com/rocker-org) - R configurations for [Docker](https://www.docker.com/).
+* [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins. 
 * [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
 * [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to [coveralls](https://coveralls.io/) or [codecov](https://codecov.io/).
 * [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforce code style.
@@ -441,6 +445,7 @@ Where to discover new R-esources.
 
 ## Books
 
+* [R Books List](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
 * [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) - It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
 * [Free Books](https://cran.r-project.org/other-docs.html) - CRAN Contributed Documentation in many languages.
 * [R Cookbook](http://shop.oreilly.com/product/9780596809164.do) - A quick and simple introduction to conducting many common statistical tasks with R.
