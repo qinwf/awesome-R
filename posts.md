@@ -32,3 +32,7 @@
 ## 9/2007
 
 1. [R Surprises](http://www1.cuni.cz/~obo/r_surprises.html)  <br/>@ Ondřej Bojar **#FFI #gotcha** <br/> The number of 'gotchas' has exceeded my threshold. Instead of smashing things, I'll to write about it. <br/> &nbsp;
+
+## Series
+
+* [R User Groups Updates](http://blog.revolutionanalytics.com/user-groups/) - R user groups updates by Revolutions.
