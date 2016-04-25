@@ -361,6 +361,7 @@ Angle Regression
 ## Network Analysis
 *Packages to construct, analyze and visualize network data.*
 
+* [Network Analysis List](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 * [igraph](http://igraph.org/r/) - A collection of network analysis tools.
 * [network](https://cran.r-project.org/web/packages/network/index.html) - Basic tools to manipulate relational data in R.
 * [sna](https://cran.r-project.org/web/packages/sna/index.html) - Basic network measures and visualization tools.
