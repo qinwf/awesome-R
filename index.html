@@ -640,7 +640,13 @@
       <p>This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC BY-NC-SA 4.0</a></p>
     </div>
   </div>
-
+  <script>
+    if (repozz !== undefined && filezz !== undefined) {
+      $('.menubar .menu')[0].innerHTML = ''
+      $('.content')[0].innerHTML = ''
+      getpages(repozz, filezz);
+    }
+  </script>
 </body>
 
 </html>

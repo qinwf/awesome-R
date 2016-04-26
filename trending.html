@@ -294,6 +294,13 @@
 
     </div>
   </div>
+  <script>
+    if (repozz !== undefined && filezz !== undefined) {
+      $('.menubar .menu')[0].innerHTML = ''
+      $('.content')[0].innerHTML = ''
+      getpages(repozz, filezz);
+    }
+  </script>
 </body>
 
 </html>
