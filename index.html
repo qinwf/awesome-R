@@ -36,7 +36,13 @@
   <link href="./share-button.min.css" rel="stylesheet">
 
   <script>
+  if (repozz !== undefined && filezz !== undefined) {
 
+  } else {
+    Flatdoc.run({
+      fetcher: Flatdoc.github('qinwf/awesome-r')
+    });
+  }
     $(function () {
       $("#includedContent").load("nav.html");
     });

@@ -165,12 +165,4 @@ function getpages(user, repo, file) {
     userzz = decodeURIComponent(vars[0]);
     reposs = decodeURIComponent(vars[1]);
   }
-
-  if (repozz !== undefined && filezz !== undefined) {
-
-  } else {
-    Flatdoc.run({
-      fetcher: Flatdoc.github('qinwf/awesome-r')
-    });
-  }
 })();
