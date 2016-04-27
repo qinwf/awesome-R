@@ -1,8 +1,8 @@
-$(document).ready(function(){
+$(document).ready(function () {
   var $window = $(window);
   var $document = $(document);
 
-  $document.on('flatdoc:ready', function() {
+  $document.on('flatdoc:ready', function () {
     $(".content h1 img").remove();
     $(".content ul:first").remove();
 
@@ -13,17 +13,17 @@ $(document).ready(function(){
     }
   });
 
-  $(function() {
+  $(function () {
     var $sidebar = $('.menubar');
     var elTop;
 
     $window
-      .on('resize.sidestick', function() {
+      .on('resize.sidestick', function () {
         $sidebar.removeClass('fixed');
         elTop = $sidebar.offset().top;
         $window.trigger('scroll.sidestick');
       })
-      .on('scroll.sidestick', function() {
+      .on('scroll.sidestick', function () {
         var scrollY = $window.scrollTop();
         $sidebar.toggleClass('fixed', (scrollY >= elTop));
       })
@@ -33,7 +33,7 @@ $(document).ready(function(){
 
 // Anchorjump (c) 2012, Rico Sta. Cruz. MIT License.
 // http://github.com/rstacruz/jquery-stuff/tree/master/anchorjump
-(function($) {
+(function ($) {
   var defaults = {
     'speed': 500,
     'offset': 0,
@@ -41,7 +41,7 @@ $(document).ready(function(){
     'parent': null
   };
 
-  $.fn.anchorjump = function(options) {
+  $.fn.anchorjump = function (options) {
     options = $.extend({}, defaults, options);
 
     if (options['for']) {
@@ -62,7 +62,7 @@ $(document).ready(function(){
   };
 
   // Jump to a given area.
-  $.anchorjump = function(href, options) {
+  $.anchorjump = function (href, options) {
     options = $.extend({}, defaults, options);
 
     var top = 0;
@@ -72,9 +72,13 @@ $(document).ready(function(){
       // Find the parent
       if (options.parent) {
         var $parent = $area.closest(options.parent);
-        if ($parent.length) { $area = $parent; }
+        if ($parent.length) {
+          $area = $parent;
+        }
       }
-      if (!$area.length) { return; }
+      if (!$area.length) {
+        return;
+      }
 
       // Determine the pixel offset; use the default if not available
       var offset =
@@ -85,33 +89,88 @@ $(document).ready(function(){
       top = Math.max(0, $area.offset().top + offset);
     }
 
-    $('html, body').animate({ scrollTop: top }, options.speed);
+    $('html, body').animate({
+      scrollTop: top
+    }, options.speed);
     $('body').trigger('anchor', href);
 
     // Add the location hash via pushState.
     if (window.history.pushState) {
-      window.history.pushState({ href: href }, "", href);
+      window.history.pushState({
+        href: href
+      }, "", href);
     }
   };
 })(jQuery);
 
 function get_vars(variable) {
+  var query = window.location.search.substring(1);
+  var vars = query.split('&');
+  for (var i = 0; i < vars.length; i++) {
+    var pair = vars[i].split('=');
+    if (decodeURIComponent(pair[0]) == variable) {
+      return decodeURIComponent(pair[1]);
+    }
+  }
+  console.log('Query variable %s not found', variable);
+}
+
+function getpages(user, repo, file) {
+  if (file === null || file === undefined) {
+    window.history.pushState(window.history.state, null, window.location.origin + window.location.pathname + '?' + encodeURIComponent(user) + '&' + encodeURIComponent(repo))
+  } else {
+    window.history.pushState(window.history.state, null, window.location.origin + window.location.pathname + '?' + encodeURIComponent(user) + '&' + encodeURIComponent(repo) + '&' + encodeURIComponent(file))
+  }
+  if (file === null || file === undefined) {
+    file = "README.md"
+  }
+  Flatdoc.run({
+    fetcher: Flatdoc.github(user + '/' + repo, file)
+  });
+}
+
+(function () {
+  function get_vars(variable) {
     var query = window.location.search.substring(1);
     var vars = query.split('&');
     for (var i = 0; i < vars.length; i++) {
-        var pair = vars[i].split('=');
-        if (decodeURIComponent(pair[0]) == variable) {
-            return decodeURIComponent(pair[1]);
-        }
+      var pair = vars[i].split('=');
+      if (decodeURIComponent(pair[0]) == variable) {
+        return decodeURIComponent(pair[1]);
+      }
     }
     console.log('Query variable %s not found', variable);
-}
+  }
 
-function getpages(user,files){
-    window.history.pushState(window.history.state,null, window.location.origin + window.location.pathname + '?repo=' +encodeURIComponent(user)+ '&file='+encodeURIComponent(files))
+  repozz = get_vars('repo');
+  filezz = get_vars('file');
+
+  if (repozz == undefined && filezz == undefined) {
+    var query = window.location.search.substring(1);
+    var vars = query.split('&');
+    if (vars.length === 2) {
+      repozz = decodeURIComponent(vars[0]) + '/' + decodeURIComponent(vars[1]);
+      userzz = decodeURIComponent(vars[0]);
+      reposs = decodeURIComponent(vars[1]);
+      filezz = null
+    }
+    if (vars.length === 3) {
+      repozz = decodeURIComponent(vars[0]) + '/' + decodeURIComponent(vars[1]);
+      userzz = decodeURIComponent(vars[0]);
+      reposs = decodeURIComponent(vars[1]);
+      filezz = decodeURIComponent(vars[2]);
+    }
+  } else {
+    splitzz = repozz.split('=');
+    userzz = decodeURIComponent(vars[0]);
+    reposs = decodeURIComponent(vars[1]);
+  }
+
+  if (repozz !== undefined && filezz !== undefined) {
+
+  } else {
     Flatdoc.run({
-      fetcher: Flatdoc.github(user,files)
+      fetcher: Flatdoc.github('qinwf/awesome-r')
     });
-}
-
-
+  }
+})();
