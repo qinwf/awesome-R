@@ -5,6 +5,7 @@
 
 <!-- 1. [title](http://www.example.com)<br/>@ somebody **#tag #tag**<br/> description <br/> &nbsp; -->
 
+1. [Fast csv writing for R](http://blog.h2o.ai/2016/04/fast-csv-writing-for-r/)<br/>@ Matt Dowle **#csv**<br/>Introduction to fwrite() in data.table package.<br/> &nbsp;
 1. [I'll Keep Using R](http://md.ekstrandom.net/blog/2016/04/using-r/)<br/>@ Michael Ekstrand **#PythonVsR**<br/> Comparison between PyData stack and R.<br/> &nbsp;
 1. [How I Learned to Stop Worrying and Love R CMD Check](http://juliasilge.com/blog/How-I-Stopped/)<br/>@ Julia Silge **#CRAN #package**<br/> A real process of getting a package CRAN-ready. <br/> &nbsp;
 
