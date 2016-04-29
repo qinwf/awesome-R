@@ -140,6 +140,7 @@ For better navigation, see https://aws-r.com
 ## Web Technologies and Services
 *Packages to surf the web.*
 
+* [Web Technologies List](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 * [shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R.
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
 * [httr](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
@@ -490,12 +491,12 @@ Where to discover new R-esources.
 * [Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 * [Posts](https://github.com/qinwf/awesome-R/blob/master/posts.md) - Great R blog posts or Rticles.
 * [Open Data](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
-* [Package Development List](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
+* [Package Development](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 * [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
 * [RStartHere](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
-
+* [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
 # Other Awesome Lists
 
