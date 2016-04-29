@@ -380,6 +380,7 @@ Angle Regression
 ## R Development
 *Packages for packages.*
 
+* [Package Development List](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 * [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
 * [testthat](https://github.com/hadley/testthat) - An R package to make testing fun.
 * [R6](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
@@ -489,6 +490,7 @@ Where to discover new R-esources.
 * [Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 * [Posts](https://github.com/qinwf/awesome-R/blob/master/posts.md) - Great R blog posts or Rticles.
 * [Open Data](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
+* [Package Development List](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 * [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
 * [RStartHere](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
