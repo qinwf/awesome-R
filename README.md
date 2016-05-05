@@ -494,7 +494,7 @@ Where to discover new R-esources.
 * [Package Development](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 * [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
 * [RStartHere](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
-* [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
+* [RStudio Addins](https://github.com/daattali/addinslist) - List of RStudio addins.
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 * [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
