@@ -1,0 +1,2 @@
+ [![Travis-CI Build Status](https://travis-ci.org/qinwf/awesome-R.svg?branch=master)](https://travis-ci.org/qinwf/awesome-R) [![Build status](https://ci.appveyor.com/api/projects/status/fqd4xe25ybsnsv0y/branch/master?svg=true)](https://ci.appveyor.com/project/qinwf/awesome-r/branch/master) [![CRAN
+version](http://www.r-pkg.org/badges/version/awesome-r)](https://cran.r-project.org/package=awesome-r)

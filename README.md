@@ -438,7 +438,8 @@ Where to discover new R-esources.
 * [R Bloggers](http://www.r-bloggers.com/) - There are people scattered across the Web who blog about R. This is simply an aggregator of many of those feeds.
 * [DataCamp](https://www.datacamp.com/) - Learn R data analytics online.
 * [Quick-R](http://www.statmethods.net/) - An excellent quick reference.
-* [Advanced R](http://adv-r.had.co.nz/) - An in-progress book site for Advanced R.
+* [Advanced R](http://adv-r.had.co.nz/) - An book site for Advanced R.
+* [Efficient R Programming](https://csgillespie.github.io/efficientR/) - An online home of the O’Reilly book: Efficient R Programming.
 * [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
 * [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - A collaborative handbook for R. 
 * [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
