@@ -467,9 +467,14 @@ Where to discover new R-esources.
 
 ## Podcasts
 
-* [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) - The Data Science Podcast. [@Roger Peng](https://twitter.com/rdpeng) and [@Hilary Parker](https://twitter.com/hspter).
-* [R World News](http://www.rworld.news/blog/) - R World News helps you keep up with happenings within the R community. [@Bob Rudis](https://twitter.com/hrbrmstr) and [@Jay Jacobs](https://twitter.com/jayjacobs).
-* [The R-Podcast](https://r-podcast.org/) - Giving practical advice on how to use R. [@Eric Nantz](https://r-podcast.org/stories/contact.html)
+* [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) - The Data Science Podcast. 
+  * [@Roger Peng](https://twitter.com/rdpeng) and [@Hilary Parker](https://twitter.com/hspter).
+* [R World News](http://www.rworld.news/blog/) - R World News helps you keep up with happenings within the R community.   
+  * [@Bob Rudis](https://twitter.com/hrbrmstr) and [@Jay Jacobs](https://twitter.com/jayjacobs).
+* [The R-Podcast](https://r-podcast.org/) - Giving practical advice on how to use R.
+  * [@Eric Nantz](https://r-podcast.org/stories/contact.html).
+* [R Talk](http://rtalk.org) - News and discussions of statistical software and language R. 
+  * [@Oliver Keyes](https://twitter.com/quominus), [@Jasmine Dumas](https://twitter.com/jasdumas), [@Ted Hart](https://twitter.com/emhrt_) and [@Mikhail Popov](https://twitter.com/bearloga).
 
 ## Reference Cards
 
