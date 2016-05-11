@@ -150,6 +150,7 @@ For better navigation, see https://aws-r.com
 * [rvest](https://github.com/hadley/rvest) - Simple web scraping for R, using CSSSelect or XPath syntax.
 * [OpenCPU](https://www.opencpu.org/) - HTTP API for R. 
 * [Rfacebook](https://github.com/pablobarbera/Rfacebook) - Access to Facebook API via R.
+* [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - R client library for the Adobe Analytics.
 
 ## Parallel Computing
 *Packages for parallel computing.*
