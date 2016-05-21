@@ -431,7 +431,8 @@ Angle Regression
 ## Learning R
 *Packages for Learning R.*
 
-- [swirl](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
+* [swirl](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
+* [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning.
 
 # Resources
 
@@ -502,6 +503,7 @@ Where to discover new R-esources.
 *Great resources for learning domain knowledge.*
 
 * [Books](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
+* [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning.
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 * [Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
