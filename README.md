@@ -97,6 +97,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [ggfortify](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code. 
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 * [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
+* [ggtree](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [lattice](http://lattice.r-forge.r-project.org/) - A powerful and elegant high-level data visualization system.
 * [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
