@@ -31,6 +31,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
     - [Network Analysis](#network-analysis)
     - [R Development](#r-development)
     - [Logging](#logging)
+    - [Data Packages](#data-packages)
     - [Other Tools](#other-tools)
     - [Other Interpreters](#other-interpreters)
     - [Learning R](#learning-r)
@@ -410,6 +411,11 @@ Angle Regression
 * [futile.logger](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
 * [log4r](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
 * [logging](https://cran.r-project.org/web/packages/logging/index.html) - A logging package emulating the python logging package.
+
+## Data Packages
+*Handy Data Packages*
+
+* [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
 
 ## Other Tools
 *Handy Tools for R*
