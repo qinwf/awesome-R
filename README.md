@@ -369,6 +369,7 @@ Angle Regression
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
 * [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
+* [webchem](https://github.com/ropensci/webchem/) - Retrieve chemical compounds information from multiple sources including ChemSpider and PubChem.
 
 ## Network Analysis
 *Packages to construct, analyze and visualize network data.*
