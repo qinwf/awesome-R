@@ -129,6 +129,8 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [rCharts <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 * [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
 * [threejs](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
+* [timevis](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
+* [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 
 ## Reproducible Research
 *Packages for literate programming.*
@@ -144,6 +146,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr. 
 * [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
 * [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
+* [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 
 ## Web Technologies and Services
 *Packages to surf the web.*
@@ -369,6 +372,7 @@ Angle Regression
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
 * [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
+* [ddpcr](https://github.com/daattali/ddpcr) - Analysis and visualization of Droplet Digital PCR data.
 
 ## Network Analysis
 *Packages to construct, analyze and visualize network data.*
@@ -385,7 +389,7 @@ Angle Regression
 * [latentnet](https://cran.r-project.org/web/packages/latentnet/index.html) - Latent position and cluster models for network objects.
 * [tnet](https://cran.r-project.org/web/packages/tnet/index.html) - Network measures for weighted, two-mode and longitudinal networks.
 * [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like [Gephi](https://gephi.org/) or [Sigma](http://sigmajs.org/).
-* [visNetwork](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+* [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 
 ## R Development
 *Packages for packages.*
@@ -419,6 +423,7 @@ Angle Regression
 *Handy Data Packages*
 
 * [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
+* [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries throught the paste 50 years).
 
 ## Other Tools
 *Handy Tools for R*
