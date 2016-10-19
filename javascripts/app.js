@@ -115,6 +115,18 @@ function get_vars(variable) {
   console.log('Query variable %s not found', variable);
 }
 
+function external_links_func() {
+	var links = document.links;
+	for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+		if (links[i].hostname != window.location.hostname) {
+		links[i].target = '_blank';
+		links[i].className += ' externalLink';
+		}
+	}
+}
+
+setInterval(external_links_func, 1000)
+
 function getpages(user, repo, file) {
   if (file === null || file === undefined) {
     window.history.pushState(window.history.state, null, window.location.origin + window.location.pathname + '?' + encodeURIComponent(user) + '&' + encodeURIComponent(repo))
@@ -127,6 +139,7 @@ function getpages(user, repo, file) {
   Flatdoc.run({
     fetcher: Flatdoc.github(user + '/' + repo, file)
   });
+  external_links_func();
 }
 
 (function () {
