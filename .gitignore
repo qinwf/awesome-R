@@ -1,2 +1,5 @@
 .RData
 .Rhistory
+_site
+.sass-cache
+.jekyll-metadata

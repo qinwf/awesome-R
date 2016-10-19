@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 <!DOCTYPE html>
 <html>
 
@@ -25,12 +29,9 @@
 	<meta name="keywords" content="R, package, Open Source, tutorial, list, find R package" />
 	<link rel="shortcut icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="https://cran.r-project.org/favicon.ico" type="image/x-icon">
-	<link href='stylesheets/main.css' rel='stylesheet'>
-	<script src='//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
-	<script src='javascripts/legacy.js'></script>
-	<script src='javascripts/flatdoc.js'></script>
-	<script src='javascripts/app.js'></script>
-	<link href="./share-button.min.css" rel="stylesheet">
+
+	{% include inline.html %}
+
 	<script>
     if (repozz !== undefined && filezz !== undefined) {
 
@@ -39,9 +40,6 @@
             fetcher: Flatdoc.github('qinwf/awesome-r')
         });
     }
-    $(function() {
-        $("#includedContent").load("nav.html");
-    });
     </script>
 
 	<script>
@@ -87,6 +85,7 @@
 					<div class="dropdown">
 						<a href="#" class="dropbtn">More</a>
 						<div id="includedContent" class="dropdown-content">
+							{% include nav.html %}
 						</div>
 					</div>
 				</li>
@@ -104,7 +103,6 @@
 			<iframe src="//ghbtns.com/github-btn.html?user=qinwf&repo=awesome-r&type=fork&count=true" allowtransparency="true" frameborder="0"
 				scrolling="0" width="100" height="20"></iframe>
 			<share-button>Share</share-button>
-			<script src="./share-button.min.js"></script>
 			<script>
             var shareButton = new ShareButton({
                 ui: {
