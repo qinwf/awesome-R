@@ -311,6 +311,7 @@ classification and regression
 * [RPMM](http://cran.r-project.org/web/packages/RPMM/index.html) - Recursively Partitioned Mixture Model
 * [RSNNS](http://cran.r-project.org/web/packages/RSNNS/index.html) - Neural Networks in R using the Stuttgart Neural Network
 Simulator (SNNS)
+* [Rsomoclu](https://cran.r-project.org/web/packages/Rsomoclu/index.html) - Parallel implementation of self-organizing maps.
 * [RWeka](http://cran.r-project.org/web/packages/RWeka/index.html) - R/Weka interface
 * [RXshrink](http://cran.r-project.org/web/packages/RXshrink/index.html) - RXshrink: Maximum Likelihood Shrinkage via Generalized Ridge or Least
 Angle Regression
