@@ -118,7 +118,7 @@ function get_vars(variable) {
 function external_links_func() {
 	var links = document.links;
 	for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-		if (links[i].hostname != window.location.hostname) {
+		if (links[i].hostname != window.location.hostname && !links[i].classList.contains("externalLink") ) {
 		links[i].target = '_blank';
 		links[i].className += ' externalLink';
 		}

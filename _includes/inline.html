@@ -10,3 +10,35 @@
 {% include app.js %}
 {% include share-button.min.js %}
 </script>
+
+<link rel="dns-prefetch" href="//www.rstudio.com">  
+<link rel="dns-prefetch" href="//github.com">
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.awesome-r.com"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking', true]);
+_paq.push(['enableHeartBeatTimer']);
+_paq.push(['trackAllContentImpressions']);
+(function() {
+var u="//web.qin.wf/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '2']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+
+
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').then(function(registration) {
+    // Registration was successful
+    console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    }).catch(function(err) {
+    // registration failed :(
+    console.log('ServiceWorker registration failed: ', err);
+    });
+}
+</script>
+<noscript><p><img src="//web.qin.wf/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+

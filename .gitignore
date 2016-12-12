@@ -3,3 +3,5 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+.Rapp.history
