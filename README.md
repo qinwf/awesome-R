@@ -493,6 +493,7 @@ Where to discover new R-esources.
 * [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/) - A simplified and "operational" version of *The Elements of Statistical Learning*. Free softcopy provided by its authors.
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns gives insight into R's ins and outs along with its quirks!
 * [R for Data Science](http://r4ds.had.co.nz/) - Free book from RStudio developers with emphasis on data science workflow.
+* [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) - Learning R as a programming language from basics to advanced topics.
 
 ## Podcasts
 
