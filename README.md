@@ -29,6 +29,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
     - [Finance](#finance)
     - [Bioinformatics](#bioinformatics)
     - [Network Analysis](#network-analysis)
+    - [Spatial](#spatial)
     - [R Development](#r-development)
     - [Logging](#logging)
     - [Data Packages](#data-packages)
@@ -132,6 +133,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [threejs](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
 * [timevis](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
+* [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud2.js.
 
 ## Reproducible Research
 *Packages for literate programming.*
@@ -396,6 +398,15 @@ Angle Regression
 * [tnet](https://cran.r-project.org/web/packages/tnet/index.html) - Network measures for weighted, two-mode and longitudinal networks.
 * [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like [Gephi](https://gephi.org/) or [Sigma](http://sigmajs.org/).
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
+
+## Spatial
+*Packages to explore the earth.*
+
+* [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)- Spatial Analysis related resources.
+* [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
+* [ggmap](https://github.com/dkahle/ggmap) -  Plotting maps in R with ggplot2.
+* [REmap](https://github.com/Lchiffon/REmap) - R interface to the JavaScript library ECharts for interactive map data visualization.
+* [sp](https://edzer.github.io/sp/) - Classes and Methods for Spatial Data.
 
 ## R Development
 *Packages for packages.*
