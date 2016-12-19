@@ -408,6 +408,14 @@ Angle Regression
 * [ggmap](https://github.com/dkahle/ggmap) -  Plotting maps in R with ggplot2.
 * [REmap](https://github.com/Lchiffon/REmap) - R interface to the JavaScript library ECharts for interactive map data visualization.
 * [sp](https://edzer.github.io/sp/) - Classes and Methods for Spatial Data.
+* [rgeos](https://github.com/cran/rgeos) - Interface to Geometry Engine - Open Source
+* [rgdal](https://github.com/rforge/rgdal) - Bindings for the Geospatial Data Abstraction Library
+* [maptools](https://github.com/cran/maptools) - Tools for Reading and Handling Spatial Objects
+* [gstat](https://github.com/edzer/gstat) - Spatial and spatio-temporal geostatistical modelling, prediction and simulation.
+* [spacetime](https://github.com/edzer/spacetime) - R classes and methods for spatio-temporal data.
+* [RColorBrewer](https://github.com/cran/RColorBrewer) - Provides color schemes for maps
+* [spatstat](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
+* [spdep](https://github.com/cran/spdep) - Spatial Dependence: Weighting Schemes, Statistics and Models
 
 ## R Development
 *Packages for packages.*
