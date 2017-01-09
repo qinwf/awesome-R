@@ -27,14 +27,14 @@ df <- data.frame(names= as.character(justText),
                  stars = stars,stringsAsFactors = F)
 
 ## Over 400? Add a star to the list of links that contains them... but first get rid of all stars
-star <- '<img class="emoji" alt="star" src="https://awesome-r.com/star.png" height="20" align="absmiddle" width="20">'
+star <- '<img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">'
 df$names2 <- df$names
 df$names2[df$stars>400] <- gsub("<.+?>","",df$names2[df$stars>400])
 df$names2[df$stars>400] <- paste(df$names[df$stars>400],star,sep="")
 
 ## Now go get the readme.md
 # readMe <- readLines("README.md") ## What is the path on Travis-CI?
-readMe <- readLines("https://raw.githubusercontent.com/qinwf/awesome-R/master/README.md")
+readMe <- readLines("./README.md")
 
 for (i in seq_along(df$names)){
   readMe <- gsub(paste("\\[",df$names[i]," *(?![a-zA-Z])",sep=""),
@@ -42,4 +42,4 @@ for (i in seq_along(df$names)){
          readMe,perl = T)
 }
 
-writeLines(readMe,"README.md")
+writeLines(readMe,"README.md.new")
