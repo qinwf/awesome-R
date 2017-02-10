@@ -176,6 +176,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [DistributedR](https://github.com/vertica/DistributedR) - A scalable high-performance platform from  HP Vertica Analytics Team.
 * [ddR](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
 * [sparklyr](http://spark.rstudio.com/) - R interface for Apache Spark from RStudio.
+* [batchtools](https://cran.r-project.org/package=batchtools) - High performance computing with LSF, TORQUE, Slurm, OpenLava, SGE and Docker Swarm.
 
 ## High Performance
 *Packages for making R faster.*
