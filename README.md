@@ -466,12 +466,10 @@ Angle Regression
 
 * [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 * [fastR](https://bitbucket.org/allr/fastr/wiki/Home) - FastR is an implementation of the R Language in Java atop Truffle and Graal.
-* [incanter <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM with Lisp spirit.
 * [pqR](http://www.pqr-project.org/) - a "pretty quick" implementation of R
 * [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
 * [rho](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
 * [riposte](https://github.com/jtalbot/riposte) - a fast interpreter and JIT for R.
-* [RRO](https://mran.revolutionanalytics.com/open/) - Revolution R Open.
 * [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 
 
