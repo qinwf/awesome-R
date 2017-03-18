@@ -113,6 +113,7 @@ for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_201
 * [misc3d](https://cran.r-project.org/web/packages/misc3d/index.html) - Powerful functions to deal with 3d plots, isosurfaces, etc.
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
 * [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
 
 ## HTML Widgets
 *Packages for interactive visualizations.*
@@ -486,6 +487,7 @@ Where to discover new R-esources.
 ## Websites
 
 * [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
+* [R Weekly](https://rweekly.org) - Weekly updates about R and Data Science. R Weekly is openly developed on GitHub.
 * [R Bloggers](http://www.r-bloggers.com/) - There are people scattered across the Web who blog about R. This is simply an aggregator of many of those feeds.
 * [DataCamp](https://www.datacamp.com/) - Learn R data analytics online.
 * [Quick-R](http://www.statmethods.net/) - An excellent quick reference.
@@ -528,6 +530,7 @@ Where to discover new R-esources.
   * [@Eric Nantz](https://r-podcast.org/stories/contact.html).
 * [R Talk](http://rtalk.org) - News and discussions of statistical software and language R. 
   * [@Oliver Keyes](https://twitter.com/quominus), [@Jasmine Dumas](https://twitter.com/jasdumas), [@Ted Hart](https://twitter.com/emhrt_) and [@Mikhail Popov](https://twitter.com/bearloga).
+* [R Weekly](https://rweekly.org) - Weekly news updates about the R community.
 
 ## Reference Cards
 
