@@ -6,9 +6,9 @@ A curated list of awesome R packages and tools. Inspired by [awesome-machine-lea
 
 For better navigation, see https://awesome-r.com
 
-<img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20"> 
-for [Top 50](https://github.com/rstudio/RStartHere/blob/master/top_downloads_2016/top_packages) CRAN downloaded packages or repos with 400+ 
-<img class="emoji" alt="star" src="https://awesome-r.com/star.png" height="20" align="absmiddle" width="20">
+<p><img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20"> 
+for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/top_downloads_2016/top_packages">Top 50</a> CRAN downloaded packages or repos with 400+ 
+<img class="emoji" alt="star" src="https://awesome-r.com/star.png" height="20" align="absmiddle" width="20"></p>
 
 - [Awesome R](#awesome-)
     - [Integrated Development Environments](#integrated-development-environments)
