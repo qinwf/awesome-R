@@ -148,6 +148,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
 * [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
 * [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr. 
+* [R.rsp](https://cran.r-project.org/package=R.rsp) - Dynamic generation of "any format" documents based on templates with support for iterations over mixed R code and text blocks.
 * [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
 * [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 * [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
@@ -173,11 +174,16 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) - R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
 * [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
 * [foreach <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel.
+* [doFuture](https://cran.r-project.org/package=doFuture) - Use foreach with any type of future backends running locally, remotely, or on large-scale compute clusters; implements the foreach `%dopar%` adapter on top of the Future API.
 * [SparkR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark.
 * [DistributedR](https://github.com/vertica/DistributedR) - A scalable high-performance platform from  HP Vertica Analytics Team.
 * [ddR](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
 * [sparklyr](http://spark.rstudio.com/) - R interface for Apache Spark from RStudio.
 * [batchtools](https://cran.r-project.org/package=batchtools) - High performance computing with LSF, TORQUE, Slurm, OpenLava, SGE and Docker Swarm.
+* [future](https://cran.r-project.org/package=future) - A minimal, efficient, cross-platform unified Future API for parallel and distributed processing in R; designed for beginners as well as advanced developers.
+* [future.BatchJobs](https://cran.r-project.org/package=future.BatchJobs) - Plugin to use futures on high performance computing with LSF, TORQUE, Slurm, OpenLava, and SGE; implements the Future API on top of BatchJobs.
+
+
 
 ## High Performance
 *Packages for making R faster.*
@@ -196,7 +202,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [runr](https://github.com/yihui/runr) - Run Julia and Bash from R.
 * [RJulia](https://github.com/armgong/RJulia) - R package Call Julia.
 * [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users/) - a Ruby library that integrates the R interpreter in Ruby.
-* [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
+* [R.matlab](http://cran.r-project.org/web/package=R.matlab) - Read and write of MAT files together with R-to-MATLAB connectivity.
 * [RcppOctave](https://github.com/renozao/RcppOctave) - Seamless Interface to Octave and Matlab.
 * [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
 * [V8](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
@@ -433,6 +439,7 @@ Angle Regression
 * [pryr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R.
 * [roxygen <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
+* [profmem](https://cran.r-project.org/package=profmem) - Simple memory profiling for R.
 * [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 * [import](https://github.com/smbache/import/) - An import mechanism for R.
@@ -461,6 +468,7 @@ Angle Regression
 *Handy Tools for R*
 
 * [git2r](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+* [startup](https://cran.r-project.org/package=startup) - Friendly R startup configuration; adds support for .Rprofile.d/\* and .Renviron.d/\* startup files.
 
 ## Other Interpreters
 *Alternative R engines.*
