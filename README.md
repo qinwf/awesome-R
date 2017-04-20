@@ -370,6 +370,8 @@ Angle Regression
 * [minqa](https://cran.rstudio.com/web/packages/minqa/index.html) - Derivative-free optimization algorithms by quadratic approximation.
 * [nloptr](https://cran.rstudio.com/web/packages/nloptr/index.html) - NLopt is a free/open-source library for nonlinear optimization.
 * [lpSolve](https://cran.rstudio.com/web/packages/lpSolve/index.html) - Interface to `Lp_solve` to Solve Linear/Integer Programs.
+* [ompr](https://github.com/dirkschumacher/ompr) - R package to model and solve Mixed Integer Linear Programs.
+* [ROI](https://cran.rstudio.com/web/packages/ROI/index.html) - The R Optimization Infrastructure (ROI) is a sophisticated framework for handling optimization problems in R.
 
 ## Finance
 *Packages for dealing with money.*
