@@ -49,6 +49,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 ## 2017
 
+* [prophet](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 * [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
 * [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components 
