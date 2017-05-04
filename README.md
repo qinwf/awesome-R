@@ -11,6 +11,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 <img class="emoji" alt="star" src="https://awesome-r.com/star.png" height="20" align="absmiddle" width="20"></p>
 
 - [Awesome R](#awesome-)
+    - [2017](#2017)
     - [Integrated Development Environments](#integrated-development-environments)
     - [Syntax](#syntax)
     - [Data Manipulation](#data-manipulation)
@@ -45,6 +46,21 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
     - [Lists](#lists)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## 2017
+
+* [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
+* [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components 
+* [xaringan](https://github.com/yihui/xaringan) - Create HTML5 slides with R Markdown and the JavaScript library
+* [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
+* [glue](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals. 
+* [covr](https://github.com/jimhester/covr) - Test coverage reports for R
+* [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
+* [reprex](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
+* [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python 
+* [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R 
+
 
 ## Integrated Development Environments
 *Integrated Development Environment* 
