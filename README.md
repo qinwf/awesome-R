@@ -523,6 +523,7 @@ Where to discover new R-esources.
 * [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
 * [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives with RDocumentation.
 * [rdrr.io](https://rdrr.io/) - Find R package documentation. Try R packages in your browser.
+* [rnotebook.io](https://rnotebook.io/) - Create online R Jupyter Notebooks for free.
 
 ## Books
 
