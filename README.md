@@ -542,6 +542,7 @@ Where to discover new R-esources.
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns gives insight into R's ins and outs along with its quirks!
 * [R for Data Science](http://r4ds.had.co.nz/) - Free book from RStudio developers with emphasis on data science workflow.
 * [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) - Learning R as a programming language from basics to advanced topics.
+* [Data Munging with R](https://www.manning.com/books/data-munging-with-r) - A gentle introduction to data processing and programming in R, for beginners moving beyond spreadsheets.
 
 ## Podcasts
 
