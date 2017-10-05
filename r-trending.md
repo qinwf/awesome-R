@@ -4,71 +4,71 @@ Generated biweekly from [R code](https://github.com/qinwf/awesome-R/blob/master/
 
 ## Trending
 
-**Trending from 2017-07-01 to 2017-07-31**
+**Trending from 2017-09-05 to 2017-10-05**
 
-1. [catboost/catboost](https://github.com/catboost/catboost) **1672**<br/>CatBoost is an open-source gradient boosting on decision trees library with categorical features support out of the box for Python, R
-1. [jonocarroll/ggshape](https://github.com/jonocarroll/ggshape) **57**<br/>Arrange 'ggplot' facets in arbitrary shapes
-1. [dirkschumacher/llr](https://github.com/dirkschumacher/llr) **56**<br/>Lisp-like-R
-1. [WinVector/seplyr](https://github.com/WinVector/seplyr) **29**<br/>Standard Evaluation Interfaces for Common Dplyr Verbs
-1. [PaulTaykalo/xcode-time-tracker](https://github.com/PaulTaykalo/xcode-time-tracker) **22**<br/>
-1. [xuzhougeng/Learn-Bioinformatics](https://github.com/xuzhougeng/Learn-Bioinformatics) **22**<br/>
-1. [benmarwick/rrtools](https://github.com/benmarwick/rrtools) **21**<br/>rrtools: Tools for Writing Reproducible Reseach in R
-1. [jhoupt/DBDA2Estan](https://github.com/jhoupt/DBDA2Estan) **21**<br/>Stan implementations of models in Doing Bayesian Data Analysis, 2nd Edition
-1. [egnha/nofrills](https://github.com/egnha/nofrills) **20**<br/>Low-cost anonymous functions
-1. [dirkschumacher/awesome-r-organizations](https://github.com/dirkschumacher/awesome-r-organizations) **20**<br/>A community curated list of awesome companies/organizations that contribute open source R software/packages
-1. [hrbrmstr/tidyweb](https://github.com/hrbrmstr/tidyweb) **18**<br/>Easily Install and Load Modern Web-Scraping Packages
-1. [ThinkRstat/tweetstorm](https://github.com/ThinkRstat/tweetstorm) **15**<br/>tweetstorm
-1. [jumpingrivers/podcasts](https://github.com/jumpingrivers/podcasts) **15**<br/>A collection of Data Science and Statistics podcasts
-1. [thomasp85/reqres](https://github.com/thomasp85/reqres) **11**<br/>Powerful classes for http requests and responses
-1. [seandavi/Bioc2017BigDataWorkshopSession](https://github.com/seandavi/Bioc2017BigDataWorkshopSession) **10**<br/>Tutorial for working with cloud infrastructure and AWS from R
-1. [dreamRs/billboarder](https://github.com/dreamRs/billboarder) **9**<br/>:construction: Htmlwidget for billboard.js
-1. [gilliganondata/ga-view-audit](https://github.com/gilliganondata/ga-view-audit) **9**<br/>Script that cycles through a list of views (view IDs) and makes a snapshot of custom dimension, custom metrics, and goals that it then pushes to an Excel file.
-1. [LucyMcGowan/gifr](https://github.com/LucyMcGowan/gifr) **8**<br/>Making gifs in R. Totally open to a name change
-1. [gsimchoni/kandinsky](https://github.com/gsimchoni/kandinsky) **8**<br/>Turn any dataset into a Kandinsky painting
-1. [dreamRs/addinit](https://github.com/dreamRs/addinit) **8**<br/>Initialize an 'RStudio' Project
-1. [bhaskarvk/docker](https://github.com/bhaskarvk/docker) **8**<br/>R Package For Accessing Docker via Docker APIs 
-1. [seandavi/MachineLearningIntro](https://github.com/seandavi/MachineLearningIntro) **8**<br/>Machine learning use cases for teaching
-1. [rstats-db/RMariaDB](https://github.com/rstats-db/RMariaDB) **7**<br/>An R interface to MariaDB
-1. [zonination/gisstemp](https://github.com/zonination/gisstemp) **7**<br/>NASA GISSTEMP
-1. [jr-packages/efficientTutorial](https://github.com/jr-packages/efficientTutorial) **6**<br/>Slides and tutorials for useR!2017 Efficient R tutorial
-1. [stephaniehicks/methylCC](https://github.com/stephaniehicks/methylCC) **6**<br/>R/BioC package to estimate the cell composition of whole blood in DNA methylation samples in microarray or sequencing platforms
-1. [mdsumner/sfraster](https://github.com/mdsumner/sfraster) **5**<br/>
-1. [stillmatic/quiltr](https://github.com/stillmatic/quiltr) **5**<br/>R interface for Quilt Data Package Manager
-1. [jeknov/EMNLP_17_submission](https://github.com/jeknov/EMNLP_17_submission) **5**<br/>The dataset and statistical analysis code released with the submission of EMNLP 2017 paper "Why We Need New Evaluation Metrics for NLG"
-1. [openanalytics/poissontris](https://github.com/openanalytics/poissontris) **5**<br/>
+1. [tmthyjames/Achoo](https://github.com/tmthyjames/Achoo) **119**<br/>Achoo uses a Raspberry Pi to predict if my son will need his inhaler on any given day using weather, pollen, and air quality data. If the prediction for a given day is above a specified threshold, the Pi will email his school nurse, and myself, notifying her that he may need preemptive treatment. Community-sourced health monitoring!
+1. [ThinkR-open/remedy](https://github.com/ThinkR-open/remedy) **52**<br/>RStudio Addins to Simplify Markdown Writing
+1. [USGS-VIZLAB/hurricane-irma](https://github.com/USGS-VIZLAB/hurricane-irma) **49**<br/>
+1. [AppliedDataSciencePartners/xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer) **22**<br/>An R package that makes xgboost models fully interpretable
+1. [USEPA/rspatial_workshop](https://github.com/USEPA/rspatial_workshop) **14**<br/>
+1. [KarthikJRao/MICA_AMMA_PGP-2](https://github.com/KarthikJRao/MICA_AMMA_PGP-2) **14**<br/>AMMA Hands on Exercises, Assignments, Class Exercises [Karthik J Rao 20160123041 PGP-2 MICA, Ahmedabad]
+1. [abresler/markovifyR](https://github.com/abresler/markovifyR) **14**<br/>Markovify wrapper for R
+1. [romainfrancois/css](https://github.com/romainfrancois/css) **13**<br/>tidy css manipulation
+1. [cszys888/Data-Analysis-on-Expedia-Click-Data](https://github.com/cszys888/Data-Analysis-on-Expedia-Click-Data) **12**<br/>DataFest Competition April 2017 - Data Analysis on Expedia Click Data
+1. [nezwulf/Logistic-titanic](https://github.com/nezwulf/Logistic-titanic) **12**<br/>Logistic regression using CARET package for a class assignment
+1. [hrbrmstr/foliage](https://github.com/hrbrmstr/foliage) **11**<br/>:fallen_leaf: Small script to show how to work a bit with `sf`
+1. [hrbrmstr/webhose](https://github.com/hrbrmstr/webhose) **11**<br/>:hammer: Tools to Work with the 'webhose.io' 'API' in R
+1. [shreesh12/MICA_AMMA](https://github.com/shreesh12/MICA_AMMA) **11**<br/>Code snippets as part of "Advanced Methods for Marketing Analytics course" in PGDM(C) in MICA, Ahmedabad
+1. [AmareshMohapatra/R-Hands-On-Exercises](https://github.com/AmareshMohapatra/R-Hands-On-Exercises) **11**<br/>Hands On Exercises done in class to learn R Programming
+1. [sanelysocial/K-Fold](https://github.com/sanelysocial/K-Fold) **10**<br/>K-Fold Cross Validation
+1. [ColinFay/tweetthat](https://github.com/ColinFay/tweetthat) **9**<br/>A simple wrapper to tweet straight from your R session.
+1. [ellisp/rmarkdown-corporate-eg](https://github.com/ellisp/rmarkdown-corporate-eg) **9**<br/>Example folder system for a corporately-styled RMarkdown document
+1. [AmareshMohapatra/R-Exploration](https://github.com/AmareshMohapatra/R-Exploration) **8**<br/>Exploring R Studio functionality & R Programming
+1. [SAUVIK/AMMA-HandsOnExercise](https://github.com/SAUVIK/AMMA-HandsOnExercise) **7**<br/>
+1. [REditorSupport/languageserver](https://github.com/REditorSupport/languageserver) **7**<br/>[WIP] An implementation of the Language Server Protocol for R
+1. [sillasgonzaga/lexiconPT](https://github.com/sillasgonzaga/lexiconPT) **7**<br/>R package: Lexicons for Portuguese Text Analysis
+1. [ksmzn/ThankYouStars](https://github.com/ksmzn/ThankYouStars) **7**<br/>Star for installed packages
+1. [ColinFay/tidytrycatch](https://github.com/ColinFay/tidytrycatch) **7**<br/>Making trycatch the tidy way
+1. [AmareshMohapatra/R-Programming-Assignments](https://github.com/AmareshMohapatra/R-Programming-Assignments) **7**<br/>Submissions as part of R programming classes
+1. [htt91/Basic-R-Codes](https://github.com/htt91/Basic-R-Codes) **6**<br/>Some Basic Hands On Exercises we did in AMMA at MICA
+1. [michaeldorman/mapsapi](https://github.com/michaeldorman/mapsapi) **6**<br/>'sf'-Compatible Interface to Google Maps APIs
+1. [SAUVIK/GLM-model-Logistic-Regression-](https://github.com/SAUVIK/GLM-model-Logistic-Regression-) **6**<br/>
+1. [pachterlab/aggregationDE](https://github.com/pachterlab/aggregationDE) **6**<br/>Scripts and software supplement for "Gene-level differential analysis at transcript-level resolution" by Yi, Pimentel, Bray and Pachter
+1. [pommedeterresautee/projector](https://github.com/pommedeterresautee/projector) **6**<br/>Project Dense Vectors Text Representation on 2D Plan
+1. [SAUVIK/TitanicSurvivalSet](https://github.com/SAUVIK/TitanicSurvivalSet) **6**<br/>
 
 
 ## All-Time
 
-1. [kanaka/mal](https://github.com/kanaka/mal) **3856**<br/>mal - Make a Lisp
-1. [facebookincubator/prophet](https://github.com/facebookincubator/prophet) **3599**<br/>Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-1. [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) **3059**<br/>Code accompanying the book "Machine Learning for Hackers"
-1. [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) **2549**<br/>An implementation of the Grammar of Graphics in R
-1. [rstudio/shiny](https://github.com/rstudio/shiny) **2399**<br/>Easy interactive web applications with R
-1. [qinwf/awesome-R](https://github.com/qinwf/awesome-R) **2276**<br/>A curated list of awesome R packages, frameworks and software.
-1. [swirldev/swirl_courses](https://github.com/swirldev/swirl_courses) **2275**<br/>:mortar_board: A collection of interactive courses for the swirl R package.
-1. [h2oai/h2o-3](https://github.com/h2oai/h2o-3) **2251**<br/>Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles...)
-1. [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) **2137**<br/>Anomaly Detection with R
-1. [tidyverse/dplyr](https://github.com/tidyverse/dplyr) **1894**<br/>Dplyr: A grammar of data manipulation
-1. [catboost/catboost](https://github.com/catboost/catboost) **1672**<br/>CatBoost is an open-source gradient boosting on decision trees library with categorical features support out of the box for Python, R
-1. [zonination/investing](https://github.com/zonination/investing) **1591**<br/>Investing Returns on the Market as a Whole
-1. [hadley/devtools](https://github.com/hadley/devtools) **1491**<br/>Tools to make an R developer's life easier
-1. [yihui/knitr](https://github.com/yihui/knitr) **1395**<br/>A general-purpose tool for dynamic report generation in R
-1. [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) **1271**<br/>Data Science at the Command Line
-1. [szilard/benchm-ml](https://github.com/szilard/benchm-ml) **1269**<br/>A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).
-1. [toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) **1002**<br/>Import public NYC taxi and Uber trip data into PostgreSQL / PostGIS database, analyze with R
-1. [hadley/adv-r](https://github.com/hadley/adv-r) **981**<br/>Advanced R programming: a book
-1. [ropensci/plotly](https://github.com/ropensci/plotly) **980**<br/>An interactive graphing library for R
-1. [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) **871**<br/>Dynamic Documents for R
-1. [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) **829**<br/>Graph and network visualization using tabular data in R
-1. [hadley/rvest](https://github.com/hadley/rvest) **813**<br/>Simple web scraping for R
-1. [rstudio/tensorflow](https://github.com/rstudio/tensorflow) **793**<br/>TensorFlow for R
-1. [hadley/r4ds](https://github.com/hadley/r4ds) **792**<br/>R for data science
-1. [jrnold/ggthemes](https://github.com/jrnold/ggthemes) **791**<br/>ggplot themes and scales
-1. [ramnathv/slidify](https://github.com/ramnathv/slidify) **772**<br/>Generate reproducible html5 slides from R markdown
-1. [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) **748**<br/>a curated list of R tutorials for Data Science, NLP and Machine Learning 
-1. [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) **727**<br/>R kernel for Jupyter
-1. [mlr-org/mlr](https://github.com/mlr-org/mlr) **719**<br/>mlr: Machine Learning in R 
-1. [genomicsclass/labs](https://github.com/genomicsclass/labs) **703**<br/>Rmd source files for the HarvardX series PH525x
+1. [kanaka/mal](https://github.com/kanaka/mal) **4308**<br/>mal - Make a Lisp
+1. [facebook/prophet](https://github.com/facebook/prophet) **3907**<br/>Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+1. [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) **3156**<br/>Code accompanying the book "Machine Learning for Hackers"
+1. [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) **2636**<br/>An implementation of the Grammar of Graphics in R
+1. [rstudio/shiny](https://github.com/rstudio/shiny) **2500**<br/>Easy interactive web applications with R
+1. [h2oai/h2o-3](https://github.com/h2oai/h2o-3) **2482**<br/>Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles...)
+1. [qinwf/awesome-R](https://github.com/qinwf/awesome-R) **2395**<br/>A curated list of awesome R packages, frameworks and software.
+1. [swirldev/swirl_courses](https://github.com/swirldev/swirl_courses) **2359**<br/>:mortar_board: A collection of interactive courses for the swirl R package.
+1. [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) **2223**<br/>Anomaly Detection with R
+1. [tidyverse/dplyr](https://github.com/tidyverse/dplyr) **1965**<br/>Dplyr: A grammar of data manipulation
+1. [catboost/catboost](https://github.com/catboost/catboost) **1949**<br/>CatBoost is an open-source gradient boosting on decision trees library with categorical features support out of the box for Python, R
+1. [zonination/investing](https://github.com/zonination/investing) **1597**<br/>Investing Returns on the Market as a Whole
+1. [hadley/devtools](https://github.com/hadley/devtools) **1538**<br/>Tools to make an R developer's life easier
+1. [yihui/knitr](https://github.com/yihui/knitr) **1419**<br/>A general-purpose tool for dynamic report generation in R
+1. [szilard/benchm-ml](https://github.com/szilard/benchm-ml) **1309**<br/>A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).
+1. [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) **1306**<br/>Data Science at the Command Line
+1. [toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) **1073**<br/>Import public NYC taxi and Uber trip data into PostgreSQL / PostGIS database, analyze with R
+1. [ropensci/plotly](https://github.com/ropensci/plotly) **1027**<br/>An interactive graphing library for R
+1. [hadley/adv-r](https://github.com/hadley/adv-r) **1020**<br/>Advanced R programming: a book
+1. [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) **904**<br/>Dynamic Documents for R
+1. [hadley/r4ds](https://github.com/hadley/r4ds) **891**<br/>R for data science
+1. [rstudio/tensorflow](https://github.com/rstudio/tensorflow) **858**<br/>TensorFlow for R
+1. [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) **858**<br/>Graph and network visualization using tabular data in R
+1. [hadley/rvest](https://github.com/hadley/rvest) **842**<br/>Simple web scraping for R
+1. [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) **823**<br/>a curated list of R tutorials for Data Science, NLP and Machine Learning 
+1. [jrnold/ggthemes](https://github.com/jrnold/ggthemes) **817**<br/>ggplot themes and scales
+1. [ramnathv/slidify](https://github.com/ramnathv/slidify) **780**<br/>Generate reproducible html5 slides from R markdown
+1. [mlr-org/mlr](https://github.com/mlr-org/mlr) **762**<br/>mlr: Machine Learning in R 
+1. [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) **755**<br/>R kernel for Jupyter
+1. [genomicsclass/labs](https://github.com/genomicsclass/labs) **732**<br/>Rmd source files for the HarvardX series PH525x
 
 
