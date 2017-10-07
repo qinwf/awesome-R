@@ -232,6 +232,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [DBI](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
 * [elastic](https://github.com/ropensci/elastic) - Wrapper for the Elasticsearch HTTP API
 * [mongolite](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R
+* [RMariaDB](https://github.com/rstats-db/RMariaDB) - An R interface to MariaDB (a replacement for the old RMySQL package)
 * [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
 * [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
 * [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.
