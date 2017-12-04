@@ -406,6 +406,7 @@ Angle Regression
 * [xts](http://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series.
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
+* [EliteQuant](https://github.com/EliteQuant/EliteQuant_R) - Unified quantitative backtesting and trading platform.
 
 ## Bioinformatics
 *Packages for processing biological datasets.*
