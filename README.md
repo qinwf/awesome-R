@@ -489,6 +489,7 @@ Angle Regression
 *Handy Tools for R*
 
 * [git2r](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+* [Conda](https://anaconda.org/r/repo) - Most R packages are available through the Conda polyglot cross-platform dependency manager.
 
 ## Other Interpreters
 *Alternative R engines.*
