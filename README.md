@@ -218,6 +218,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - Package allowing R to call Python.
 * [runr](https://github.com/yihui/runr) - Run Julia and Bash from R.
 * [RJulia](https://github.com/armgong/RJulia) - R package Call Julia.
+* [JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Seamless Integration Between R and Julia.
 * [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users/) - a Ruby library that integrates the R interpreter in Ruby.
 * [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
 * [RcppOctave](https://github.com/renozao/RcppOctave) - Seamless Interface to Octave and Matlab.
