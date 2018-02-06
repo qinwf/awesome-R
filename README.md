@@ -156,6 +156,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [timevis](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud2.js.
+* [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
 
 ## Reproducible Research
 *Packages for literate programming.*
@@ -451,6 +452,7 @@ Angle Regression
 * [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html) - Provides color schemes for maps
 * [spatstat](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 * [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models
+* [tigris](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
 
 ## R Development
 *Packages for packages.*
