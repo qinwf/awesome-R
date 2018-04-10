@@ -17,6 +17,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
     - [Data Manipulation](#data-manipulation)
     - [Graphic Displays](#graphic-displays)
     - [Html Widgets](#html-widgets)
+    - [Data Analysis](#data-analysis)
     - [Reproducible Research](#reproducible-research)
     - [Web Technologies and Services](#web-technologies-and-services)
     - [Parallel Computing](#parallel-computing)
@@ -157,6 +158,11 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud2.js.
 * [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
+
+## Data Analysis
+*Packages for analyzing data.*
+
+* [DataExplorer](https://cran.r-project.org/package=DataExplorer) - Fast exploratory data analysis with minimum code.
 
 ## Reproducible Research
 *Packages for literate programming and reproducible workflows.*
