@@ -28,7 +28,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
     - [Bayesian](#bayesian)
     - [Optimization](#optimization)
     - [Finance](#finance)
-    - [Bioinformatics](#bioinformatics)
+    - [Bioinformatics and Biostatistics](#bioinformatics-and-biostatistics)
     - [Network Analysis](#network-analysis)
     - [Spatial](#spatial)
     - [R Development](#r-development)
@@ -409,7 +409,7 @@ Angle Regression
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
 
-## Bioinformatics
+## Bioinformatics and Biostatistics
 *Packages for processing biological datasets.*
 
 * [Bioconductor <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.bioconductor.org/) - Tools for the analysis and comprehension of high-throughput genomic data.
