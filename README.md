@@ -159,7 +159,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
 
 ## Reproducible Research
-*Packages for literate programming.*
+*Packages for literate programming and reproducible workflows.*
 
 * [knitr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://yihui.name/knitr/) - Easy dynamic report generation in R.
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html) - Export tables to LaTeX or HTML.
@@ -173,6 +173,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
 * [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 * [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
+* [drake](https://github.com/ropensci/drake) - An [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
 
 ## Web Technologies and Services
 *Packages to surf the web.*
