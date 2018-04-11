@@ -531,6 +531,7 @@ Where to discover new R-esources.
 * [R Cookbook](http://www.cookbook-r.com/) - A problem-oriented website that supports the [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
 * [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
 * [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives with RDocumentation.
+* [R-Programming Curated Resources](https://hackr.io/tutorials/learn-r) - Top Recommended Resources for learning R.
 
 ## Books
 
