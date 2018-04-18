@@ -521,7 +521,7 @@ Where to discover new R-esources.
 * [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
 * [R Weekly](https://rweekly.org) - Weekly updates about R and Data Science. R Weekly is openly developed on GitHub.
 * [R Bloggers](http://www.r-bloggers.com/) - There are people scattered across the Web who blog about R. This is simply an aggregator of many of those feeds.
-* [DataCamp](https://www.datacamp.com/) - Learn R data analytics online.
+* [DataCamp](https://www.datacamp.com/courses/tech:r) - Learn R data analytics online.
 * [Quick-R](http://www.statmethods.net/) - An excellent quick reference.
 * [Advanced R <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://adv-r.had.co.nz/) - An online version of the Advanced R book.
 * [Efficient R Programming](https://csgillespie.github.io/efficientR/) - An online home of the O’Reilly book: Efficient R Programming.
