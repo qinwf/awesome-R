@@ -146,7 +146,8 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## HTML Widgets
 *Packages for interactive visualizations.*
 
-* [d3heatmap](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3.
+* [heatmaply](https://github.com/talgalili/heatmaply) - Interactive heatmaps with D3.
+* [d3heatmap](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3 (no longer maintained).
 * [DataTables](http://rstudio.github.io/DT/) - Displays R matrices or data frames as interactive HTML tables.
 * [DiagrammeR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
 * [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
