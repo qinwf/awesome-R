@@ -182,6 +182,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 * [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 * [drake](https://github.com/ropensci/drake) - An [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
+* [R Suite](http://rsuite.io) - A package to design flexible and reproducible deployment workflows for R.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
