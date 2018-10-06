@@ -49,9 +49,11 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 ## 2018
 
-* [Readings in Applied Data Science](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
+* [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
+* [rstats-ed](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
 * [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming
 * [tinytex](https://yihui.name/tinytex/) - A lightweight and easy-to-maintain LaTeX distribution
+* [Readings in Applied Data Science](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
 
 
 ## 2017
@@ -141,6 +143,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
 * [waffle](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R
+* [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
 
 
 ## HTML Widgets
