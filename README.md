@@ -93,7 +93,6 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [rtichoke](https://github.com/randy3k/rtichoke) - A modern R console with syntax highlighting.
 * [RKWard](https://rkward.kde.org/) - An extensible IDE/GUI for R.
 
-
 ## Syntax
 *Packages change the way you use R.*
 
