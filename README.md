@@ -71,6 +71,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
 * [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R
 * [utf8](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
+* [Patchwork](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
 
 ## Integrated Development Environments
 *Integrated Development Environment*
@@ -144,6 +145,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
 * [waffle](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R
 * [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
+* [Patchwork](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
 
 
 ## HTML Widgets
