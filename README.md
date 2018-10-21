@@ -144,6 +144,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
 * [waffle](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R
 * [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
+* [Plotly ](https://plot.ly/r/) - R Interface to Plotly Visualizations
 
 
 ## HTML Widgets
@@ -368,6 +369,16 @@ Angle Regression
 * [tree](http://cran.r-project.org/web/packages/tree/index.html) - Classification and regression trees
 * [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - Variable selection using random forests
 * [xgboost <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/tqchen/xgboost/tree/master/R-package) - eXtreme Gradient Boosting Tree model, well known for its speed and performance.
+* [ClusterR](https://cran.r-project.org/web/packages/ClusterR/index.html) - Gaussian Mixture Models, K-Means, Mini-Batch-Kmeans and K-Medoids Clustering
+* [akmeans](https://cran.r-project.org/web/packages/akmeans/index.html) -   Adaptive Kmeans algorithm based on threshold
+* [predkmeans](https://cran.r-project.org/web/packages/predkmeans/index.html) - Covariate Adaptive Clustering
+* [skmeans](https://cran.r-project.org/web/packages/skmeans/index.html) - Spherical k-Means Clustering
+* [assignPOP](https://cran.r-project.org/web/packages/assignPOP/index.html) - Population Assignment using Genetic, Non-Genetic or Integrated Data in a Machine Learning Framework
+* [AzureML](https://cran.r-project.org/web/packages/AzureML/index.html) - Interface with Azure Machine Learning Datasets, Experiments and Web Services
+* [blkbox](https://cran.r-project.org/web/packages/blkbox/index.html) - Data Exploration with Multiple Machine Learning Algorithms
+* [chemmodlab](https://cran.r-project.org/web/packages/chemmodlab/index.html) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models
+* [cloudml](https://cran.r-project.org/web/packages/cloudml/index.html) - Interface to the Google Cloud Machine Learning Platform
+
 
 ## Natural Language Processing
 *Packages for Natural Language Processing.*
@@ -420,6 +431,8 @@ Angle Regression
 * [xts](http://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series.
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
+* [fExtremes](https://cran.r-project.org/web/packages/fExtremes/index.html) - Rmetrics - Modelling Extreme Events in Finance
+* [FinCal](https://cran.r-project.org/web/packages/FinCal/index.html) - Time Value of Money, Time Series Analysis and Computational Finance
 
 ## Bioinformatics and Biostatistics
 *Packages for processing biological datasets.*
