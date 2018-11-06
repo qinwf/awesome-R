@@ -494,6 +494,7 @@ Angle Regression
 * [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to [coveralls](https://coveralls.io/) or [codecov](https://codecov.io/).
 * [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforce code style.
 * [staticdocs](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
+* [covrpage](https://github.com/yonicd/covrpage) - Generate a detailed human readble coverage and testthat report that can serve as a README for your test folder.
 
 ## Logging
 *Packages for Logging*
