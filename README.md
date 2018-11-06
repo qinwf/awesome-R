@@ -11,6 +11,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 <img class="emoji" alt="star" src="https://awesome-r.com/star.png" height="20" align="absmiddle" width="20"></p>
 
 - [Awesome R](#awesome-)
+    - [2018](#2018)
     - [2017](#2017)
     - [Integrated Development Environments](#integrated-development-environments)
     - [Syntax](#syntax)
