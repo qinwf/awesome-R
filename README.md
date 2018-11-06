@@ -143,7 +143,8 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
 * [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
-* [waffle](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R
+* [waffle](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
+* [dendextend](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
 * [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
 
 
