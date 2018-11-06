@@ -49,9 +49,11 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 ## 2018
 
-* [Readings in Applied Data Science](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
+* [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
+* [rstats-ed](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
 * [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming
 * [tinytex](https://yihui.name/tinytex/) - A lightweight and easy-to-maintain LaTeX distribution
+* [Readings in Applied Data Science](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
 
 
 ## 2017
@@ -89,6 +91,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
 * [rtichoke](https://github.com/randy3k/rtichoke) - A modern R console with syntax highlighting.
+* [RKWard](https://rkward.kde.org/) - An extensible IDE/GUI for R.
 
 ## Syntax
 *Packages change the way you use R.*
@@ -142,6 +145,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
 * [waffle](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
 * [dendextend](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
+* [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
 
 
 ## HTML Widgets
@@ -206,7 +210,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [parallel](http://cran.r-project.org/web/views/HighPerformanceComputing.html) - R started with release 2.14.0 which includes a new package parallel incorporating (slightly revised) copies of packages [multicore](http://cran.r-project.org/web/packages/multicore/index.html) and [snow](http://cran.r-project.org/web/packages/snow/index.html).
 * [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html) - Rmpi provides an interface (wrapper) to MPI APIs. It also provides interactive R slave environment.
 * [foreach <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/foreach/index.html) - Executing the loop in parallel.
-* [future](https://cran.r-project.org/package=future) - A minimal, efficient, cross-platform unified Future API for parallel and distributed processing in R; designed for beginners as well as advanced developers.
+* [future <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/package=future) - A minimal, efficient, cross-platform unified Future API for parallel and distributed processing in R; designed for beginners as well as advanced developers.
 * [SparkR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark.
 * [DistributedR](https://github.com/vertica/DistributedR) - A scalable high-performance platform from  HP Vertica Analytics Team.
 * [ddR](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
