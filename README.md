@@ -159,7 +159,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [DataTables](http://rstudio.github.io/DT/) - Displays R matrices or data frames as interactive HTML tables.
 * [DiagrammeR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
 * [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
-* [formattable](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
+* [formattable <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
 * [ggvis <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
 * [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
 * [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - Enables easy creation of D3 scatterplots, line charts, and histograms.
