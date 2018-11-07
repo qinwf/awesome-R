@@ -159,7 +159,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [DataTables](http://rstudio.github.io/DT/) - Displays R matrices or data frames as interactive HTML tables.
 * [DiagrammeR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rich-iannone/DiagrammeR) - Create JS graph diagrams and flowcharts in R.
 * [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
-* [formattable](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
+* [formattable <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
 * [ggvis <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
 * [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
 * [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - Enables easy creation of D3 scatterplots, line charts, and histograms.
@@ -199,6 +199,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [shiny <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny](https://github.com/grabear/awesome-rshiny)
 * [shinyjs](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
+* [curl](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
 * [httr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 * [XML <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
@@ -345,6 +346,7 @@ in GLMs and in the Cox model
 * [quantregForest](http://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest: Quantile Regression Forests
 * [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
 * [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
+* [ranger](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
 * [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R.
 * [rda](http://cran.r-project.org/web/packages/rda/index.html) - Shrunken Centroids Regularized Discriminant Analysis
 * [rdetools](http://cran.r-project.org/web/packages/rdetools/index.html) - Relevant Dimension Estimation (RDE) in Feature Spaces
@@ -494,6 +496,7 @@ Angle Regression
 * [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to [coveralls](https://coveralls.io/) or [codecov](https://codecov.io/).
 * [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforce code style.
 * [staticdocs](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
+* [sinew](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
 * [covrpage](https://github.com/yonicd/covrpage) - Generate a detailed human readble coverage and testthat report that can serve as a README for your test folder.
 
 ## Logging
