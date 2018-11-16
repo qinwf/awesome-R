@@ -464,6 +464,7 @@ Angle Regression
 * [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
 * [ggmap](https://github.com/dkahle/ggmap) -  Plotting maps in R with ggplot2.
 * [REmap](https://github.com/Lchiffon/REmap) - R interface to the JavaScript library ECharts for interactive map data visualization.
+* [sf](https://cran.r-project.org/web/packages/sf/index.html) - Improved Classes and Methods for Spatial Data.
 * [sp](https://edzer.github.io/sp/) - Classes and Methods for Spatial Data.
 * [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library
