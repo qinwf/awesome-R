@@ -234,6 +234,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 * [rJava](http://cran.r-project.org/web/packages/rJava/) - Low-level R to Java interface.
 * [jvmr](https://github.com/cran/jvmr) - Integration of R, Java, and Scala.
+* [renjin](http://www.renjin.org/) - JVM-based interpreter for the R
 * [rJython](http://cran.r-project.org/web/packages/rJython/index.html) - R interface to Python via Jython.
 * [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - Package allowing R to call Python.
 * [runr](https://github.com/yihui/runr) - Run Julia and Bash from R.
