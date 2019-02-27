@@ -271,6 +271,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## Machine Learning
 *Packages for making R cleverer.*
 
+* [anomalize](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
 * [AnomalyDetection <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/twitter/AnomalyDetection) - AnomalyDetection R package from Twitter.
 * [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression.
 * [arules](http://cran.r-project.org/web/packages/arules/index.html) - Mining Association Rules and Frequent Itemsets
