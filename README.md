@@ -263,7 +263,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - Provides access to databases through the JDBC interface.
 * [rmongodb](https://github.com/mongosoup/rmongodb) - R driver for MongoDB.
 * [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
-* [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
+* [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassandra.
 * [RHive](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
 * [RNeo4j](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
 * [rpostgis](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
@@ -512,7 +512,7 @@ Angle Regression
 *Handy Data Packages*
 
 * [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
-* [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries throught the past 50 years).
+* [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
 
 ## Other Tools
 *Handy Tools for R*
@@ -554,7 +554,7 @@ Where to discover new R-esources.
 * [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
 * [R Cookbook](http://www.cookbook-r.com/) - A problem-oriented website that supports the [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
 * [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
-* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives with RDocumentation.
+* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, GitHub packages and their archives with RDocumentation.
 
 ## Books
 
@@ -570,7 +570,7 @@ Where to discover new R-esources.
 * [R Packages](http://r-pkgs.had.co.nz/) - A book (in paper and website formats) on writing R packages.
 * [R in Action](http://www.manning.com/kabacoff2/) - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
 * [Use R!](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as Bayesian networks, ggplot2 and Rcpp.
-* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - An excelllent resource for users already familiar with SAS or SPSS.
+* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - An excellent resource for users already familiar with SAS or SPSS.
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - A very good introductory text on R, also covers some advanced topics.
 * [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/) - A simplified and "operational" version of *The Elements of Statistical Learning*. Free softcopy provided by its authors.
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns gives insight into R's ins and outs along with its quirks!
