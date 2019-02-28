@@ -501,7 +501,8 @@ Angle Regression
 * [staticdocs](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
 * [sinew](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
 
-## Logging
+## L* [covrpage](https://github.com/yonicd/covrpage) - Generate a detailed human readble coverage and testthat report that can serve as a README for your test folder.
+ogging
 *Packages for Logging*
 
 * [futile.logger](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
