@@ -187,7 +187,8 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
 * [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
 * [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr.
-* [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
+* [officer](https://davidgohel.github.io/officer/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
+* [flextable](https://davidgohel.github.io/flextable/index.html) - An R package to embed complex tables (merged cells, multi-level headers and footers, conditional formatting) in Microsoft Word, Microsoft PowerPoint and HTML reports. It cooperates with the [officer] package and integrates with [rmarkdown] reports.
 * [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 * [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 * [drake](https://github.com/ropensci/drake) - An [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
@@ -203,8 +204,9 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [httr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 * [XML <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
+* [xml2 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/xml2/index.html) - Optimized tools for parsing and generating XML within R.
 * [rvest <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/rvest) - Simple web scraping for R, using CSSSelect or XPath syntax.
-* [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - HTTP API for R.
+* [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - HTTP API for R handling concurrent calls, based on the Apache2 web server, to expose R code as REST web services and create full-sized, multi-page web applications.
 * [Rfacebook](https://github.com/pablobarbera/Rfacebook) - Access to Facebook API via R.
 * [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - R client library for the Adobe Analytics.
 * [plumber](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
@@ -328,6 +330,8 @@ covariates
 * [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - L1 constrained estimation aka ‘lasso’
 * [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - Linear Predictive Models Based On The Liblinear C/C++ Library
 * [lme4 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/lme4/lme4) - Mixed-effects models
+* [nlme <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/nlme/index.html) - Mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials
+* [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - Generalized mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials
 * [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - Logic Regression
 * [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - Mapping, pruning, and graphing tree models
 * [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - Model-Based Boosting
