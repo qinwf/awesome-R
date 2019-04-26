@@ -478,6 +478,7 @@ Angle Regression
 * [spatstat](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 * [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models
 * [tigris](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
+* [geospark](https://github.com/harryprince/geospark) - Bring sf to spark in production
 
 ## R Development
 *Packages for packages.*
