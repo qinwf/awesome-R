@@ -625,6 +625,11 @@ Where to discover new R-esources.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [lists](https://github.com/jnv/lists)
 * [awesome-rshiny](https://github.com/grabear/awesome-rshiny)
+* [awesome-spark-in-R](https://github.com/harryprince/awesome-sparklyr)
+* [awesome-leaflet-in-R](https://github.com/harryprince/awesome-leaflet)
+* [awesome-keras-in-R](https://github.com/harryprince/awesome-keras)
+* [awesome-rmarkdown-in-R](https://github.com/harryprince/awesome-rmarkdown)
+
 
 # Contributing
 Your contributions are always welcome!
