@@ -149,7 +149,8 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [dendextend](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
 * [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
 * [Patchwork](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
-
+* [plot3D](http://www.rforscience.com/rpackages/visualisation/plot3d/) - Plotting Multi-Dimensional Data
+* [plot3Drgl](https://cran.r-project.org/web/packages/plot3Drgl/index.html) - Plotting Multi-Dimensional Data - Using 'rgl'
 
 ## HTML Widgets
 *Packages for interactive visualizations.*
