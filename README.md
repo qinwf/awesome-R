@@ -437,6 +437,8 @@ Angle Regression
 * [xts](http://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series.
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
+* [scorecard](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
+* [pedquant](http://pedquant.com/) - Public Economic Data and Quantitative Analysis
 
 ## Bioinformatics and Biostatistics
 *Packages for processing biological datasets.*
