@@ -126,7 +126,9 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [bigmemory](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf](https://github.com/aloysius-lim/bigrf)).
 * [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
 * [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
+* [snakecase](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
 * [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
+
 
 ## Graphic Displays
 *Packages for showing data.*
