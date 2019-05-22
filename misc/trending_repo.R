@@ -2,7 +2,7 @@ library(httr)
 library(lubridate)
 library(dplyr)
 library(tibble)
-library(purrr)
+library(purrrlyr)
 
 all_time_language = content(GET('https://api.github.com/search/repositories?q=language:r&sort=stars&order=desc'))
 all_time_topic = content(GET('https://api.github.com/search/repositories?q=topic:r&sort=stars&order=desc'))
