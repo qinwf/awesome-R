@@ -644,6 +644,15 @@ Where to discover new R-esources.
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 * [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
+## R Ecosystems
+
+R communities and package collections (in alphabetical order):
+
+ * [rOpenGov](http://ropengov.github.io/) Open government data, computational social science, digital humanities
+ * [rOpenHealth](https://github.com/rOpenHealth) Public health data
+ * [rOpenSci](https://ropensci.org) Open science
+
+
 # Other Awesome Lists
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
