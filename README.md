@@ -575,7 +575,11 @@ Where to discover new R-esources.
 * [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
 * [R Cookbook](http://www.cookbook-r.com/) - A problem-oriented website that supports the [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
 * [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
-* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, GitHub packages and their archives with RDocumentation.
+* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives with RDocumentation.
+* [rdrr.io](https://rdrr.io/) - Find R package documentation. Try R packages in your browser.
+* [rnotebook.io](https://rnotebook.io/) - Create online R Jupyter Notebooks for free.
+
+
 
 ## Books
 
