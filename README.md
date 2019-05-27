@@ -187,6 +187,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 *Packages for literate programming and reproducible workflows.*
 
 * [knitr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/yihui/knitr) - Easy dynamic report generation in R.
+* [redoc](https://github.com/noamross/redoc) - Reversible Reproducible Documents
 * [tinytex](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html) - Export tables to LaTeX or HTML.
 * [rapport](http://rapport-package.info/#intro) - An R templating system.
@@ -440,6 +441,7 @@ Angle Regression
 *Packages for dealing with money.*
 
 * [quantmod <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.quantmod.com/) - Quantitative Financial Modelling & Trading Framework for R.
+* [pedquant](http://pedquant.com/) - Public Economic Data and Quantitative Analysis
 * [TTR](http://cran.r-project.org/web/packages/TTR/index.html) - Functions and data to construct technical trading rules with R.
 * [PerformanceAnalytics](http://cran.r-project.org/web/packages/PerformanceAnalytics/index.html) - Econometric tools for performance and risk analysis.
 * [zoo <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/zoo/index.html) - S3 Infrastructure for Regular and Irregular Time Series.
@@ -447,7 +449,6 @@ Angle Regression
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
 * [scorecard](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
-* [pedquant](http://pedquant.com/) - Public Economic Data and Quantitative Analysis
 
 ## Bioinformatics and Biostatistics
 *Packages for processing biological datasets.*
