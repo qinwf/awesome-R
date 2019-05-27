@@ -539,6 +539,7 @@ Angle Regression
 *Handy Tools for R*
 
 * [git2r](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+* [Conda](https://anaconda.org/r/repo) - Most R packages are available through the Conda polyglot cross-platform dependency manager.
 
 ## Other Interpreters
 *Alternative R engines.*
@@ -575,7 +576,11 @@ Where to discover new R-esources.
 * [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
 * [R Cookbook](http://www.cookbook-r.com/) - A problem-oriented website that supports the [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
 * [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
-* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, GitHub packages and their archives with RDocumentation.
+* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives with RDocumentation.
+* [rdrr.io](https://rdrr.io/) - Find R package documentation. Try R packages in your browser.
+* [rnotebook.io](https://rnotebook.io/) - Create online R Jupyter Notebooks for free.
+
+
 
 ## Books
 
@@ -639,6 +644,15 @@ Where to discover new R-esources.
 * [RStudio Addins](https://github.com/daattali/addinslist) - List of RStudio addins.
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 * [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+
+## R Ecosystems
+
+R communities and package collections (in alphabetical order):
+
+ * [rOpenGov](http://ropengov.github.io/) Open government data, computational social science, digital humanities
+ * [rOpenHealth](https://github.com/rOpenHealth) Public health data
+ * [rOpenSci](https://ropensci.org) Open science
+
 
 # Other Awesome Lists
 
