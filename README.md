@@ -235,6 +235,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [ddR](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
 * [sparklyr](http://spark.rstudio.com/) - R interface for Apache Spark from RStudio.
 * [batchtools](https://cran.r-project.org/package=batchtools) - High performance computing with LSF, TORQUE, Slurm, OpenLava, SGE and Docker Swarm.
+* [rminions](https://github.com/PieceMaker/rminions) - `rminions` is a package that provides functions to assist in setting up an environment for quickly running jobs across any number of servers.
 
 ## High Performance
 *Packages for making R faster.*
