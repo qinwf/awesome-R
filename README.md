@@ -156,6 +156,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
 * [waffle](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
 * [dendextend](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
+* [idendro](https://github.com/tsieger/idendro) -  interactive exploration of dendrograms (trees of hierarchical clustering).
 * [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
 * [Patchwork](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
 * [plot3D](http://www.rforscience.com/rpackages/visualisation/plot3d/) - Plotting Multi-Dimensional Data
