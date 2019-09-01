@@ -195,7 +195,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [rmarkdown <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://rmarkdown.rstudio.com/) - Dynamic documents for R.
 * [slidify <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
-* [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
+* [texreg](https://github.com/leifeld/texreg) - Formatting statistical models in LaTex and HTML.
 * [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
 * [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr.
 * [officer](https://davidgohel.github.io/officer/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
