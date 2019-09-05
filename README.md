@@ -98,6 +98,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
 * [radian](https://github.com/randy3k/radian) (formerly rtichoke) - A modern R console with syntax highlighting.
 * [RKWard](https://rkward.kde.org/) - An extensible IDE/GUI for R.
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. The [R-flavor](https://github.com/ml-tooling/ml-workspace#r-flavor) combines Jupyter, RStudio, VS Code, and many other tools/libraries into one Docker image.
 
 ## Syntax
 *Packages change the way you use R.*
