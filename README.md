@@ -479,6 +479,7 @@ Angle Regression
 * [tnet](https://cran.r-project.org/web/packages/tnet/index.html) - Network measures for weighted, two-mode and longitudinal networks.
 * [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like [Gephi](https://gephi.org/) or [Sigma](http://sigmajs.org/).
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
+* [tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
 
 ## Spatial
 *Packages to explore the earth.*
