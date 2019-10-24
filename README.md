@@ -653,6 +653,11 @@ R communities and package collections (in alphabetical order):
  * [rOpenGov](http://ropengov.github.io/) Open government data, computational social science, digital humanities
  * [rOpenHealth](https://github.com/rOpenHealth) Public health data
  * [rOpenSci](https://ropensci.org) Open science
+ 
+ ## R Download
+ 
+ You can download R from here to run it live on your device and learn it the better way.
+  * [Download R](https://rstudio.com/products/rstudio/download/)
 
 
 # Other Awesome Lists
