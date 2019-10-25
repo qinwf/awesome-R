@@ -11,6 +11,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 <img class="emoji" alt="star" src="https://awesome-r.com/star.png" height="20" align="absmiddle" width="20"></p>
 
 - [Awesome R](#awesome-)
+    - [2019](#2019)
     - [2018](#2018)
     - [2017](#2017)
     - [Integrated Development Environments](#integrated-development-environments)
@@ -50,10 +51,13 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 
 ## 2019
 
+* [ggforce](https://github.com/thomasp85/ggforce) - ggplot2 extension framework ![ggforce](https://cranlogs.r-pkg.org/badges/ggforce)
+* [rayshader](https://github.com/tylermorganwall/rayshader) - 2D and 3D data visualizations via rgl ![rayshader](https://cranlogs.r-pkg.org/badges/rayshader)
 * [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files  ![vroom](https://cranlogs.r-pkg.org/badges/vroom)
 
 ## 2018
 
+* [fable](https://github.com/tidyverts/fable) - univariate and multivariate time series forecasting models ![fable](https://cranlogs.r-pkg.org/badges/fable)
 * [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations ![r2d3](https://cranlogs.r-pkg.org/badges/r2d3)
 * [rstats-ed](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
 * [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming ![promises](https://cranlogs.r-pkg.org/badges/promises)
