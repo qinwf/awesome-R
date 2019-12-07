@@ -660,6 +660,7 @@ R communities and package collections (in alphabetical order):
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [lists](https://github.com/jnv/lists)
 * [awesome-rshiny](https://github.com/grabear/awesome-rshiny)
+* [awesome-r-dataviz](https://github.com/krzjoa/awesome-r-dataviz)
 
 # Contributing
 Your contributions are always welcome!
