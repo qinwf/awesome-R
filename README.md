@@ -98,6 +98,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
 * [radian](https://github.com/randy3k/radian) (formerly rtichoke) - A modern R console with syntax highlighting.
 * [RKWard](https://rkward.kde.org/) - An extensible IDE/GUI for R.
+* [VSCode](https://code.visualstudio.com/) + [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) + [languageserver](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) - VSCode R Langauage Support
 
 ## Syntax
 *Packages change the way you use R.*
