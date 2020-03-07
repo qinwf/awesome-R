@@ -574,43 +574,57 @@ Where to discover new R-esources.
 
 ## Websites
 
+### Manuals
+
 * [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
-* [R Weekly](https://rweekly.org) - Weekly updates about R and Data Science. R Weekly is openly developed on GitHub.
-* [R Bloggers](http://www.r-bloggers.com/) - There are people scattered across the Web who blog about R. This is simply an aggregator of many of those feeds.
-* [Quick-R](http://www.statmethods.net/) - An excellent quick reference.
-* [Advanced R <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://adv-r.had.co.nz/) - An online version of the Advanced R book.
-* [Efficient R Programming](https://csgillespie.github.io/efficientR/) - An online home of the O’Reilly book: Efficient R Programming.
-* [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
-* [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - A collaborative handbook for R.
-* [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
-* [R Cookbook](http://www.cookbook-r.com/) - A problem-oriented website that supports the [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
+* [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - A very good introductory text on R, also covers some advanced topic. See also the `Manuals` section on [CRAN](https://cran.r-project.org/manuals.html)
+* [CRAN Contributed Docs](https://cran.r-project.org/other-docs.html) - CRAN Contributed Documentation in many languages.
+* [Quick-R](http://www.statmethods.net/) - An excellent quick reference
 * [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
+
+### Tools and References
+
 * [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives with RDocumentation.
 * [rdrr.io](https://rdrr.io/) - Find R package documentation. Try R packages in your browser.
+* [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
 * [rnotebook.io](https://rnotebook.io/) - Create online R Jupyter Notebooks for free.
 
+### News and Info
 
+* [R Weekly](https://rweekly.org) - Weekly updates about R and Data Science. R Weekly is openly developed on GitHub.
+* [R Bloggers](http://www.r-bloggers.com/) - There are people scattered across the Web who blog about R. This is simply an aggregator of many of those feeds.
+* [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
 
 ## Books
 
-* [Readings in Applied Data Science](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
-* [R Books List](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
-* [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) - It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
-* [Free Books](https://cran.r-project.org/other-docs.html) - CRAN Contributed Documentation in many languages.
-* [R Cookbook](http://shop.oreilly.com/product/9780596809164.do) - A quick and simple introduction to conducting many common statistical tasks with R.
+### Free and Online
+
+* [_R for Data Science_ by Garrett Grolemund & Hadley Wickham](http://r4ds.had.co.nz/) - Free book from RStudio developers with emphasis on data science workflow.
+* [_R Cookbook_ by Winston Chang](http://www.cookbook-r.com/) - A problem-oriented online book that supports his [R Graphics Cookbook, 2nd ed. (2018)](http://shop.oreilly.com/product/0636920063704.do).
+* [_Advanced R_, 2nd ed. by Hadley Wickham (2019) <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://adv-r.hadley.nz/) - An online version of the Advanced R book.
+* [_R Packages_, 2nd ed. by Hadley Wickham & Jennifer Bryan](https://r-pkgs.org/) - A book (in paper and website formats) on writing R packages.
 * Books written as part of the Johns Hopkins Data Science Specialization:
-  * [Exploratory Data Analysis with R](https://leanpub.com/exdata) - Basic analytical skills for all sorts of data in R.
-  * [R Programming for Data Science](https://leanpub.com/rprogramming) - More advanced data analysis that relies on R programming.
-  * [Report Writing for Data Science in R](https://leanpub.com/reportwriting) - R-based methods for reproducible research and report generation.
-* [R Packages](http://r-pkgs.had.co.nz/) - A book (in paper and website formats) on writing R packages.
+  * [_Exploratory Data Analysis with R_ by Roger D. Peng (2016)](https://leanpub.com/exdata) - Basic analytical skills for all sorts of data in R.
+  * [_R Programming for Data Science_ by Roger D. Peng (2019)](https://leanpub.com/rprogramming) - More advanced data analysis that relies on R programming.
+  * [_Report Writing for Data Science in R_ by Roger D. Peng (2019)](https://leanpub.com/reportwriting) - R-based methods for reproducible research and report generation.
+* [_R for SAS and SPSS users_ by Bob Muenchen (2012)](http://r4stats.com/books/free-version/) - An excellent resource for users already familiar with SAS or SPSS.
+* [_Introduction to Statistical Learning with Application in R_ by Gareth James et al. (2017)](http://faculty.marshall.usc.edu/gareth-james/ISL/) - A simplified and "operational" version of *The Elements of Statistical Learning*. Free softcopy provided by its authors.
+* [_The R Inferno_ by Patrick Burns (2011)](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns gives insight into R's ins and outs along with its quirks!
+* [_Efficient R Programming_ by Colin Gillespie & Robin Lovelace (2017)](https://csgillespie.github.io/efficientR/) - An online version of the O’Reilly book: Efficient R Programming.
+* [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - A collaborative handbook for R.
+
+### Paid
+
+* [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) - It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
+* [_R Cookbook_, 2nd ed. by JD Long & Paul Teetor (2019)](http://shop.oreilly.com/product/0636920174851.do) - A quick and simple introduction to conducting many common statistical tasks with R.
 * [R in Action](http://www.manning.com/kabacoff2/) - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
-* [Use R!](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as Bayesian networks, ggplot2 and Rcpp.
-* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - An excellent resource for users already familiar with SAS or SPSS.
-* [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - A very good introductory text on R, also covers some advanced topics.
-* [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/) - A simplified and "operational" version of *The Elements of Statistical Learning*. Free softcopy provided by its authors.
-* [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns gives insight into R's ins and outs along with its quirks!
-* [R for Data Science](http://r4ds.had.co.nz/) - Free book from RStudio developers with emphasis on data science workflow.
+* [_Use R!_ Series by Springer](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as Bayesian networks, ggplot2 and Rcpp.
 * [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) - Learning R as a programming language from basics to advanced topics.
+
+### Book/monograph Lists and Reviews
+
+* [R Books List](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
+* [Readings in Applied Data Science](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
 
 ## Podcasts
 
