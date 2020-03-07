@@ -546,7 +546,9 @@ Angle Regression
 
 * [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
 * [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries through the past 50 years).
+* [wbstats](https://cran.r-project.org/web/packages/wbstats/index.html) - Tools for searching and downloading data and statistics from the World Bank Data API and the World Bank Data Catalog API.
 * [ICON](https://github.com/rrrlw/ICON) - complex systems & networks datasets from the Index of COmplex Networks (ICON) database [webpage](http://icon.colorado.edu).
+
 
 ## Other Tools
 *Handy Tools for R*
