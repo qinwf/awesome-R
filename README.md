@@ -184,6 +184,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud2.js.
 * [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
+* [echarts4r](https://github.com/JohnCoene/echarts4r) - R wrapper to Echarts version 4
 
 ## Reproducible Research
 *Packages for literate programming and reproducible workflows.*
