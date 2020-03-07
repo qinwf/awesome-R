@@ -9,6 +9,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 <img class="emoji" alt="star" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/star.png" height="20" align="absmiddle" width="20"></p>
 
 - [Awesome R](#awesome-)
+    - [2020](#2020)
     - [2019](#2019)
     - [2018](#2018)
     - [2017](#2017)
@@ -47,11 +48,15 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
-## 2019
 
-* [ggforce](https://github.com/thomasp85/ggforce) - ggplot2 extension framework ![ggforce](https://cranlogs.r-pkg.org/badges/ggforce)
-* [rayshader](https://github.com/tylermorganwall/rayshader) - 2D and 3D data visualizations via rgl ![rayshader](https://cranlogs.r-pkg.org/badges/rayshader)
-* [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files  ![vroom](https://cranlogs.r-pkg.org/badges/vroom)
+## 2020
+
+* [fst](https://github.com/fstpackage/fst) - Lightning Fast Serialization of Data Frames for R  ![fst](https://cranlogs.r-pkg.org/badges/fst)
+* [fsttable](https://github.com/traversc/qs) - An interface to fast on-disk data tables stored with the fst format  
+* [qs](https://github.com/fstpackage/fsttable) - Quick serialization of R objects ![qs](https://cranlogs.r-pkg.org/badges/qs)
+* [yonder](https://nteetor.github.io/yonder/) - A reactive web framework built on shiny  ![yonder](https://cranlogs.r-pkg.org/badges/yonder)
+* [blogdown](https://bookdown.org/yihui/blogdown/) - Creating Websites with R Markdown ![blogdown](https://cranlogs.r-pkg.org/badges/blgodown)
+* [distill](https://rstudio.github.io/distill/) - Scientific and technical writing, native to the web ![distill](https://cranlogs.r-pkg.org/badges/distill)
 
 ## Integrated Development Environments
 *Integrated Development Environment*
@@ -104,6 +109,9 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
 * [snakecase](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
 * [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
+* [fst](https://github.com/fstpackage/fst) - Lightning Fast Serialization of Data Frames for R 
+* [fsttable](https://github.com/traversc/qs) - An interface to fast on-disk data tables stored with the fst format  
+* [qs](https://github.com/fstpackage/fsttable) - Quick serialization of R objects 
 * [DataExplorer](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
 
 
@@ -190,6 +198,9 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [Web Technologies List](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 * [shiny <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny](https://github.com/grabear/awesome-rshiny)
 * [shinyjs](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
+* [yonder](https://nteetor.github.io/yonder/) - A reactive web framework built on shiny
+* [blogdown](https://bookdown.org/yihui/blogdown/) - Creating Websites with R Markdown
+* [distill](https://rstudio.github.io/distill/) - Scientific and technical writing, native to the web 
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
 * [curl](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
 * [httr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
@@ -654,6 +665,13 @@ R communities and package collections (in alphabetical order):
  * [rOpenGov](http://ropengov.github.io/) Open government data, computational social science, digital humanities
  * [rOpenHealth](https://github.com/rOpenHealth) Public health data
  * [rOpenSci](https://ropensci.org) Open science
+
+
+## 2019
+
+* [ggforce](https://github.com/thomasp85/ggforce) - ggplot2 extension framework ![ggforce](https://cranlogs.r-pkg.org/badges/ggforce)
+* [rayshader](https://github.com/tylermorganwall/rayshader) - 2D and 3D data visualizations via rgl ![rayshader](https://cranlogs.r-pkg.org/badges/rayshader)
+* [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files  ![vroom](https://cranlogs.r-pkg.org/badges/vroom)
 
 ## 2018
 
