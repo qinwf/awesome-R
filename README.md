@@ -510,6 +510,8 @@ Angle Regression
 * [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models
 * [tigris](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
 * [GWmodel](https://cran.r-project.org/web/packages/GWmodel/) - Geographically-Weighted Models
+* [tmap](https://github.com/mtennekes/tmap) - R package for thematic maps
+
 
 ## R Development
 *Packages for packages.*
