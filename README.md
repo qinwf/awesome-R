@@ -53,33 +53,6 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [rayshader](https://github.com/tylermorganwall/rayshader) - 2D and 3D data visualizations via rgl ![rayshader](https://cranlogs.r-pkg.org/badges/rayshader)
 * [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files  ![vroom](https://cranlogs.r-pkg.org/badges/vroom)
 
-## 2018
-
-* [fable](https://github.com/tidyverts/fable) - univariate and multivariate time series forecasting models ![fable](https://cranlogs.r-pkg.org/badges/fable)
-* [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations ![r2d3](https://cranlogs.r-pkg.org/badges/r2d3)
-* [rstats-ed](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
-* [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming ![promises](https://cranlogs.r-pkg.org/badges/promises)
-* [tinytex](https://yihui.name/tinytex/) - A lightweight and easy-to-maintain LaTeX distribution ![tinytex](https://cranlogs.r-pkg.org/badges/tinytex)
-* [Readings in Applied Data Science](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
-
-
-## 2017
-
-* [prophet](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-* [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
-* [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
-* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components
-* [xaringan](https://github.com/yihui/xaringan) - Create HTML5 slides with R Markdown and the JavaScript library
-* [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
-* [glue](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals.
-* [covr](https://github.com/jimhester/covr) - Test coverage reports for R
-* [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
-* [reprex](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
-* [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
-* [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R
-* [utf8](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
-* [Patchwork](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
-
 ## Integrated Development Environments
 *Integrated Development Environment*
 
@@ -682,6 +655,32 @@ R communities and package collections (in alphabetical order):
  * [rOpenHealth](https://github.com/rOpenHealth) Public health data
  * [rOpenSci](https://ropensci.org) Open science
 
+## 2018
+
+* [fable](https://github.com/tidyverts/fable) - univariate and multivariate time series forecasting models ![fable](https://cranlogs.r-pkg.org/badges/fable)
+* [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations ![r2d3](https://cranlogs.r-pkg.org/badges/r2d3)
+* [rstats-ed](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
+* [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming ![promises](https://cranlogs.r-pkg.org/badges/promises)
+* [tinytex](https://yihui.name/tinytex/) - A lightweight and easy-to-maintain LaTeX distribution ![tinytex](https://cranlogs.r-pkg.org/badges/tinytex)
+* [Readings in Applied Data Science](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
+
+
+## 2017
+
+* [prophet](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+* [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
+* [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components
+* [xaringan](https://github.com/yihui/xaringan) - Create HTML5 slides with R Markdown and the JavaScript library
+* [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
+* [glue](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals.
+* [covr](https://github.com/jimhester/covr) - Test coverage reports for R
+* [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
+* [reprex](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
+* [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
+* [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R
+* [utf8](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
+* [Patchwork](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
 
 # Other Awesome Lists
 
