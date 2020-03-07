@@ -211,6 +211,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 * [drake](https://github.com/ropensci/drake) - An [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
 * [R Suite](http://rsuite.io) - A package to design flexible and reproducible deployment workflows for R.
+* [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) - Build fancy HTML or 'LaTeX' tables using 'kable()' from 'knitr'.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
@@ -398,6 +399,8 @@ Angle Regression
 * [sda](http://cran.r-project.org/web/packages/sda/index.html) - Shrinkage Discriminant Analysis and CAT Score Variable Selection
 * [SDDA](http://cran.r-project.org/web/packages/SDDA/index.html) - Stepwise Diagonal Discriminant Analysis
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
+* [survminer](https://github.com/kassambara/survminer) - Survival Analysis & Visualization
+* [survival](https://cran.r-project.org/web/packages/survival/index.html) - Survival Analysis
 * [svmpath](http://cran.r-project.org/web/packages/svmpath/index.html) - svmpath: the SVM Path algorithm
 * [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - Bayesian treed Gaussian process models
 * [tree](http://cran.r-project.org/web/packages/tree/index.html) - Classification and regression trees
