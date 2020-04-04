@@ -256,7 +256,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) - SQLite interface for R
 * [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - Provides access to databases through the JDBC interface.
 * [rmongodb](https://github.com/mongosoup/rmongodb) - R driver for MongoDB.
-* [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
+* [redux](https://github.com/richfitz/redux) - Redis client for R.
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassandra.
 * [RHive](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
 * [RNeo4j](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
