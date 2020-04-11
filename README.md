@@ -47,6 +47,11 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
+## 2020
+
+* [VSCode <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://code.visualstudio.com/) + [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) + [languageserver](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) - VSCode R Langauage Support
+* [gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
+
 ## 2019
 
 * [ggforce](https://github.com/thomasp85/ggforce) - ggplot2 extension framework ![ggforce](https://cranlogs.r-pkg.org/badges/ggforce)
