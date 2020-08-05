@@ -15,7 +15,7 @@
   </a>
 </p>
 
-[R](https://www.r-project.org/) is a language and environment for statistical computing and graphics.
+A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 <div style="text-align: center"><table><tr>
   
@@ -55,11 +55,12 @@
   
 </tr></table></div>
 
-A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 <p><img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">
 for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/top_downloads_2016/top_packages">Top 50</a> CRAN downloaded packages or repos with 400+
 <img class="emoji" alt="star" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/star.png" height="20" align="absmiddle" width="20"></p>
+
+# Index
 
 - [Awesome R](#awesome-)
     - [2020](#2020)
