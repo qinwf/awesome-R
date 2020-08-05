@@ -15,6 +15,8 @@
   </a>
 </p>
 
+[R](https://www.r-project.org/) is a language and environment for statistical computing and graphics.
+
 <div style="text-align: center"><table><tr>
   
   <td style="text-align: center">
