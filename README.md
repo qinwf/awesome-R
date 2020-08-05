@@ -15,6 +15,44 @@
   </a>
 </p>
 
+<div style="text-align: center"><table><tr>
+  
+  <td style="text-align: center">
+  <a href="https://github.com/dkahle/ggmap">
+    <img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="400"/></a>
+  </td>
+  
+  <td style="text-align: center">
+   <a href="https://github.com/tylermorganwall/rayshader">
+    <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/smallhobart.gif" width="400"/></a>
+  </td>
+
+  <td style="text-align: center">
+  <a href="https://github.com/tylermorganwall/rayshader">
+    <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/README_ggplots_5-1.png" width="400"/></a>
+  </td>
+  
+</tr></table></div>
+
+<div style="text-align: center"><table><tr>
+  
+  <td style="text-align: center">
+  <a href="https://github.com/djnavarro/brownianbridge">
+    <img src="https://raw.githubusercontent.com/djnavarro/brownianbridge/master/bridge5_shadowwake/shadow_wake_files/figure-markdown_github/wake8-1.gif" width="400"/></a>
+  </td>
+  
+  <td style="text-align: center">
+   <a href="https://github.com/amrrs/animated_bar_charts_in_R">
+    <img src="https://raw.githubusercontent.com/amrrs/animated_bar_charts_in_R/master/gganim.gif" width="400"/></a>
+  </td>
+
+  <td style="text-align: center">
+  <a href="https://github.com/YinLiLin/R-CMplot">
+    <img src="https://raw.githubusercontent.com/YinLiLin/R-CMplot/master/Figure/9.jpg" width="400"/></a>
+  </td>
+  
+</tr></table></div>
+
 A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 <p><img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">
