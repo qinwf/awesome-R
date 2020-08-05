@@ -1,5 +1,22 @@
 # Awesome R
 
+[<img src="https://raw.githubusercontent.com/grayknight2/Awesome-R-packages/master/Awesome_R_packages_banner.png" align="center" width="850">](https://www.r-project.org/)
+
+<p align="center">
+  <a href="https://stackoverflow.com/questions/tagged/R?sort=votes">
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-16,410-orange.svg" />
+  </a>
+  <a href="https://github.com/search?q=language%3AR&type=Repositories">
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-71173-brightgreen.svg" />
+  </a>
+  <img alt="Entries" src="https://img.shields.io/badge/Items-325-lightgrey.svg" />
+  <a href="https://github.com/sindresorhus/awesome">
+    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+  </a>
+</p>
+
+[R](https://www.r-project.org/) is a language and environment for statistical computing and graphics.
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
@@ -122,6 +139,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
 * [ggtree](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
 * [ggtech](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
+* [ggally](https://cran.r-project.org/web/packages/GGally/). Extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [lattice](https://github.com/deepayan/lattice) - A powerful and elegant high-level data visualization system.
 * [corrplot](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
@@ -436,6 +454,10 @@ Angle Regression
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
 * [scorecard](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
+* [blotter](https://github.com/braverock/blotter). Provides transaction infrastructure for defining transactions, portfolios and accounts for trading systems and simulation with portfolio support for multi-asset class and multi-currency portfolios.
+* [EliteQuant_R](https://github.com/EliteQuant/EliteQuant_R). R based multi-threading, concurrent high-frequency trading platform that provides consistent backtest and live trading solutions.
+* [quanstrat](https://github.com/braverock/quantstrat). Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
+* [portfolio](https://cran.r-project.org/web/packages/portfolio/index.html). Classes for analysing and implementing equity portfolios.
 
 ## Bioinformatics and Biostatistics
 *Packages for processing biological datasets.*
@@ -498,7 +520,7 @@ Angle Regression
 * [testthat <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/testthat) - An R package to make testing fun.
 * [R6 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
 * [pryr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/pryr) - Make it easier to understand what's going on in R.
-* [roxygen <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
+* [roxygen2 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/r-lib/roxygen2) - Describe your functions in comments next to their definitions.
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
 * [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
@@ -565,6 +587,7 @@ Where to discover new R-esources.
 * [CRAN Contributed Docs](https://cran.r-project.org/other-docs.html) - CRAN Contributed Documentation in many languages.
 * [Quick-R](http://www.statmethods.net/) - An excellent quick reference
 * [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
+* [R Coder](https://r-coder.com/) - A web site with detailed tutorials and a free R course for beginners
 
 ### Tools and References
 
