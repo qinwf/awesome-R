@@ -176,7 +176,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
 * [ggtree](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
 * [ggtech](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
-* [ggally](https://cran.r-project.org/web/packages/GGally/). Extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
+* [GGally](https://cran.r-project.org/web/packages/GGally/). Extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [lattice](https://github.com/deepayan/lattice) - A powerful and elegant high-level data visualization system.
 * [corrplot](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
