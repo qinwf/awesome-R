@@ -693,6 +693,7 @@ R communities and package collections (in alphabetical order):
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [lists](https://github.com/jnv/lists)
 * [awesome-rshiny](https://github.com/grabear/awesome-rshiny)
+* [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources)
 
 # Contributing
 Your contributions are always welcome!
