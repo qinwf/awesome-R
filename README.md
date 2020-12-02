@@ -657,6 +657,7 @@ Where to discover new R-esources.
 
 R communities and package collections (in alphabetical order):
 
+ * [R Discord Server](https://discord.gg/6fcReuUHgg) Dedicated R Discord server with the following topic-based channels: R-Main, R-Share, General R Help for asking questions and sharing learning resources, and Topical Help/Discussion for issues dealing with statistics, dbi, tidymodels, shiny, package-dev, natural-science, social-science, bayesians, gis, and finance.
  * [rOpenGov](http://ropengov.github.io/) Open government data, computational social science, digital humanities
  * [rOpenHealth](https://github.com/rOpenHealth) Public health data
  * [rOpenSci](https://ropensci.org) Open science
