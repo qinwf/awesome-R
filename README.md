@@ -403,6 +403,7 @@ Angle Regression
 * [MonkeyLearn](https://github.com/masalmon/monkeylearn) - 🐒 R package for text analysis with Monkeylearn 🐒.
 * [tidytext](http://tidytextmining.com/index.html) - Implementing tidy principles of Hadley Wickham to text mining.
 * [utf8](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
+* [corporaexplorer](https://kgjerde.github.io/corporaexplorer/) - Dynamic exploration of text collections
 
 ## Bayesian
 *Packages for Bayesian Inference.*
