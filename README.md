@@ -158,6 +158,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [Patchwork](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
 * [plot3D](http://www.rforscience.com/rpackages/visualisation/plot3d/) - Plotting Multi-Dimensional Data
 * [plot3Drgl](https://cran.r-project.org/web/packages/plot3Drgl/index.html) - Plotting Multi-Dimensional Data - Using 'rgl'
+* [httpgd](https://github.com/nx10/httpgd) - Asynchronous http server graphics device for R.
 
 ## HTML Widgets
 *Packages for interactive visualizations.*
