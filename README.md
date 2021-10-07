@@ -628,6 +628,7 @@ Where to discover new R-esources.
 * [R in Action](http://www.manning.com/kabacoff2/) - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
 * [_Use R!_ Series by Springer](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as Bayesian networks, ggplot2 and Rcpp.
 * [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) - Learning R as a programming language from basics to advanced topics.
+* [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) - This book is designed for readers who need to solve practical data analysis problems using the R language and tools
 
 ### Book/monograph Lists and Reviews
 
