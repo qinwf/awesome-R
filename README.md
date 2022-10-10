@@ -596,7 +596,7 @@ Where to discover new R-esources.
 * [rdrr.io](https://rdrr.io/) - Find R package documentation. Try R packages in your browser.
 * [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
 * [rnotebook.io](https://rnotebook.io/) - Create online R Jupyter Notebooks for free.
-
+* [Explore R](https://kandi.openweaver.com/explore/r) - Discover & find a curated list of popular & new R libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 ### News and Info
 
 * [R Weekly](https://rweekly.org) - Weekly updates about R and Data Science. R Weekly is openly developed on GitHub.
