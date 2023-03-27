@@ -108,6 +108,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
 * [snakecase](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
 * [DataExplorer](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
+* [messydates](https://github.com/globalgov/messydates) - Implements ISO's Extended Date/Time Format annotations to offer methods for constructing, coercing, and working with ‘messy’ dates.
 
 ## Data Formats
 *Packages for reading and writing data of different formats.*
@@ -490,6 +491,7 @@ Angle Regression
 * [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like [Gephi](https://gephi.org/) or [Sigma](http://sigmajs.org/).
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 * [tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
+* [migraph](https://github.com/snlab-ch/migraph) - Tools for multimodal and multilevel network analysis.
 
 ## Spatial
 *Packages to explore the earth.*
