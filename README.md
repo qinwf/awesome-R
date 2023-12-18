@@ -207,7 +207,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [flextable](https://davidgohel.github.io/flextable/index.html) - An R package to embed complex tables (merged cells, multi-level headers and footers, conditional formatting) in Microsoft Word, Microsoft PowerPoint and HTML reports. It cooperates with the [officer] package and integrates with [rmarkdown] reports.
 * [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 * [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
-* [drake](https://github.com/ropensci/drake) - An [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
+* [targets](https://docs.ropensci.org/targets/) - Make-like pipeline tool for organizing and running data science workflows, automatically skipping steps that have already been done. Supported by [rOpenSci](https://ropensci.org/).
 * [R Suite](http://rsuite.io) - A package to design flexible and reproducible deployment workflows for R.
 * [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) - Build fancy HTML or 'LaTeX' tables using 'kable()' from 'knitr'.
 
