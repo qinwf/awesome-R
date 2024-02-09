@@ -625,6 +625,7 @@ Where to discover new R-esources.
 * [_The R Inferno_ by Patrick Burns (2011)](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns gives insight into R's ins and outs along with its quirks!
 * [_Efficient R Programming_ by Colin Gillespie & Robin Lovelace (2017)](https://csgillespie.github.io/efficientR/) - An online version of the O’Reilly book: Efficient R Programming.
 * [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) - A collaborative handbook for R.
+* [Applied Machine Learning Using mlr3 in R](https://mlr3book.mlr-org.com/) - A practical machine learning guide for R.
 
 ### Paid
 
