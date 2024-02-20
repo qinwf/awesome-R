@@ -9,6 +9,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 <img class="emoji" alt="star" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/star.png" height="20" align="absmiddle" width="20"></p>
 
 - [Awesome R](#awesome-)
+    - [2023](#2023)
     - [2020](#2020)
     - [2019](#2019)
     - [2018](#2018)
@@ -46,6 +47,10 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
     - [Lists](#lists)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## 2023
+
+* [Cookbook Polars for R](https://ddotta.github.io/cookbook-rpolars/)
 
 ## 2020
 
@@ -202,7 +207,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [flextable](https://davidgohel.github.io/flextable/index.html) - An R package to embed complex tables (merged cells, multi-level headers and footers, conditional formatting) in Microsoft Word, Microsoft PowerPoint and HTML reports. It cooperates with the [officer] package and integrates with [rmarkdown] reports.
 * [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 * [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
-* [drake](https://github.com/ropensci/drake) - An [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
+* [targets](https://docs.ropensci.org/targets/) - Make-like pipeline tool for organizing and running data science workflows, automatically skipping steps that have already been done. Supported by [rOpenSci](https://ropensci.org/).
 * [R Suite](http://rsuite.io) - A package to design flexible and reproducible deployment workflows for R.
 * [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) - Build fancy HTML or 'LaTeX' tables using 'kable()' from 'knitr'.
 
