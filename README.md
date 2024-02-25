@@ -545,6 +545,8 @@ Angle Regression
 * [futile.logger](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
 * [log4r](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
 * [logging](https://cran.r-project.org/web/packages/logging/index.html) - A logging package emulating the python logging package.
+* [logger](https://github.com/daroczig/logger) - A lightweight, modern and flexible, log4j and futile.logger inspired logging utility for R.
+* [logrx](https://github.com/atorus-research/logrx/) - Tools to facilitate logging in a clinical environment with the goal of making code easily traceable and reproducible.
 
 ## Data Packages
 *Handy Data Packages*
