@@ -667,6 +667,7 @@ Where to discover new R-esources.
 *Great resources for learning domain knowledge.*
 
 * [Books](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
+* [Free R Books and Other Resources](https://github.com/javedali99/r-resources-for-data-science) - A Biggest Collection of Free Books and Other Resources for R Programming
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
 * [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:">](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 * [Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
