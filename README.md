@@ -610,7 +610,7 @@ Where to discover new R-esources.
 
 ### Free and Online
 
-* [_R for Data Science_ by Garrett Grolemund & Hadley Wickham](http://r4ds.had.co.nz/) - Free book from RStudio developers with emphasis on data science workflow.
+* [_R for Data Science_, 2nd ed. by Garrett Grolemund & Hadley Wickham](https://r4ds.hadley.nz/) - Free book from RStudio developers with emphasis on data science workflow.
 * [_R Cookbook_ by Winston Chang](http://www.cookbook-r.com/) - A problem-oriented online book that supports his [R Graphics Cookbook, 2nd ed. (2018)](http://shop.oreilly.com/product/0636920063704.do).
 * [_Advanced R_, 2nd ed. by Hadley Wickham (2019) <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://adv-r.hadley.nz/) - An online version of the Advanced R book.
 * [_R Packages_, 2nd ed. by Hadley Wickham & Jennifer Bryan](https://r-pkgs.org/) - A book (in paper and website formats) on writing R packages.
@@ -619,6 +619,8 @@ Where to discover new R-esources.
   * [_R Programming for Data Science_ by Roger D. Peng (2019)](https://leanpub.com/rprogramming) - More advanced data analysis that relies on R programming.
   * [_Report Writing for Data Science in R_ by Roger D. Peng (2019)](https://leanpub.com/reportwriting) - R-based methods for reproducible research and report generation.
 * [_R for SAS and SPSS users_ by Bob Muenchen (2012)](http://r4stats.com/books/free-version/) - An excellent resource for users already familiar with SAS or SPSS.
+* [_R Cookbook_, 2nd ed. by JD Long & Paul Teetor (2019)](https://rc2e.com/) - A quick and simple introduction to conducting many common statistical tasks with R.
+* [_Introduction to Data Science_ by Rafael Irizarry (2022)](http://rafalab.dfci.harvard.edu/dsbook/) - A very good introduction to R and the tidyverse.
 * [_Introduction to Statistical Learning with Application in R_ by Gareth James et al. (2017)](http://faculty.marshall.usc.edu/gareth-james/ISL/) - A simplified and "operational" version of *The Elements of Statistical Learning*. Free softcopy provided by its authors.
 * [_The R Inferno_ by Patrick Burns (2011)](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns gives insight into R's ins and outs along with its quirks!
 * [_Efficient R Programming_ by Colin Gillespie & Robin Lovelace (2017)](https://csgillespie.github.io/efficientR/) - An online version of the O’Reilly book: Efficient R Programming.
@@ -627,7 +629,6 @@ Where to discover new R-esources.
 ### Paid
 
 * [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) - It's a good resource for systematically learning fundamentals such as types of objects, control statements, variable scope, classes and debugging in R.
-* [_R Cookbook_, 2nd ed. by JD Long & Paul Teetor (2019)](http://shop.oreilly.com/product/0636920174851.do) - A quick and simple introduction to conducting many common statistical tasks with R.
 * [R in Action](http://www.manning.com/kabacoff2/) - This book aims at all levels of users, with sections for beginning, intermediate and advanced R ranging from "Exploring R data structures" to running regressions and conducting factor analyses.
 * [_Use R!_ Series by Springer](http://www.springer.com/series/6991?detailsPage=titles) - This series of inexpensive and focused books from Springer publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area, such as Bayesian networks, ggplot2 and Rcpp.
 * [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) - Learning R as a programming language from basics to advanced topics.

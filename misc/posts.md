@@ -12,7 +12,7 @@
 ## 3/2016
 
 1. [Rbitrary Standards](https://ironholds.org/projects/rbitrary/)<br/>@ Oliver Keyes **#R #FAQ** <br/> This is an alternate FAQ for R. <br/> &nbsp;
-1. [Submitting packages to CRAN](http://f.briatte.org/r/submitting-packages-to-cran) <br/>@ François Briatte **#CRAN #package** <br/> This note lists a few of the mistakes that one can make before submitting a package to CRAN. <br/> &nbsp;
+1. [Submitting packages to CRAN](https://f.briatte.org/r/submitting-packages-to-cran) <br/>@ François Briatte **#CRAN #package** <br/> This note lists a few of the mistakes that one can make before submitting a package to CRAN. <br/> &nbsp;
 1. [EigenCoder: Programming Stereotypes](http://trestletech.com/2016/03/09/eigencoder/) <br/>@ Jeff Allen **#fun #visual**  <br/> There are a lot of stereotypes in the programming community. Well it turns out that some of these might be true. <br/> &nbsp;
 1. [BallR: Interactive NBA Shot Charts with R and Shiny](http://toddwschneider.com/posts/ballr-interactive-nba-shot-charts-with-r-and-shiny/)  <br/>@ Todd W. Schneider **#shiny #NBA** <br/> Make your own shot charts for any NBA player dating back to 1996. <br/> &nbsp;
 1. [It’s not the p-values’ fault – reflections on the recent ASA statement (+relevant R resources)](http://www.r-statistics.com/2016/03/its-not-the-p-values-fault-reflections-on-the-recent-asa-statement/)  <br/>@ Tal Galili & Yoav Benjamini **#p-value #theory**   <br/> This post highlights points raised by Yoav Benjamini in his official response to the ASA statement, as well as offers a list of relevant R resources. <br/> &nbsp;
@@ -20,11 +20,11 @@
 
 ## 2/2016
 
-1. [Sustainable code for social scientists](http://f.local/r/sustainable-code-for-social-scientists) <br/>@ François Briatte **#reproducible #code**  <br/> &nbsp;
+1. [Sustainable code for social scientists](https://f.briatte.org/r/sustainable-code-for-social-scientists) <br/>@ François Briatte **#reproducible #code**  <br/> &nbsp;
 
 ## 1/2016
 
-1. [String manipulations on full names](http://f.local/r/string-manipulation-on-full-names)  <br/>@ François Briatte **#string #preprocess** <br/> This note shows how to use the stringr package to clean a list of full names. <br/> &nbsp;
+1. [String manipulations on full names](https://f.briatte.org/r/string-manipulation-on-full-names)  <br/>@ François Briatte **#string #preprocess** <br/> This note shows how to use the stringr package to clean a list of full names. <br/> &nbsp;
 
 ## 1/2015
 
