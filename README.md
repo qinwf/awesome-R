@@ -678,6 +678,7 @@ Where to discover new R-esources.
 * [RStudio Addins](https://github.com/daattali/addinslist) - List of RStudio addins.
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 * [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+* [R notebooks](https://www.nbshare.io/notebooks/R/) - Learn R through notebooks
 
 ## R Ecosystems
 
