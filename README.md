@@ -433,6 +433,7 @@ Angle Regression
 ## Bayesian
 *Packages for Bayesian Inference.*
 
+* [brms](https://cran.r-project.org/web/packages/brms/index.html) - High-level interface for Bayesian regression models using Stan.
 * [coda](http://cran.r-project.org/web/packages/coda/index.html) - Output analysis and diagnostics for MCMC.
 * [mcmc](http://cran.r-project.org/web/packages/mcmc/index.html) - Markov Chain Monte Carlo.
 * [MCMCpack](http://mcmcpack.berkeley.edu/) - Markov chain Monte Carlo (MCMC) Package.
