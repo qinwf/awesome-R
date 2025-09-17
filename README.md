@@ -481,9 +481,12 @@ Angle Regression
 *Packages to construct, analyze and visualize network data.*
 
 * [Network Analysis List](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
+* [CRAN Task View NetworkAnalysis](https://cran.r-project.org/web/views/NetworkAnalysis.html) - CRAN Task View on network analysis resources
 * [igraph <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://igraph.org/r/) - A collection of network analysis tools.
 * [network](https://cran.r-project.org/web/packages/network/index.html) - Basic tools to manipulate relational data in R.
 * [sna](https://cran.r-project.org/web/packages/sna/index.html) - Basic network measures and visualization tools.
+* [manynet](https://cran.r-project.org/web/packages/manynet/index.html) - Tools for making and modifying many different types of networks.
+* [autograph](https://cran.r-project.org/web/packages/autograph/index.html) - Automagic plotting of network graphs and models.
 * [netdiffuseR](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
 * [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
 * [ndtv](https://cran.r-project.org/web/packages/ndtv/) - Tools to construct animated visualizations of dynamic network data in various formats.
@@ -725,3 +728,4 @@ R communities and package collections (in alphabetical order):
 Your contributions are always welcome!
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
