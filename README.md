@@ -9,6 +9,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 <img class="emoji" alt="star" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/star.png" height="20" align="absmiddle" width="20"></p>
 
 - [Awesome R](#awesome-)
+    - [2025](#2025)
     - [2023](#2023)
     - [2020](#2020)
     - [2019](#2019)
@@ -47,6 +48,10 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
     - [Lists](#lists)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## 2025 
+
+* [`RS` - Fast classes for R, written in Rust](https://github.com/avhz/RS)
 
 ## 2023
 
@@ -523,6 +528,7 @@ Angle Regression
 ## R Development
 *Packages for packages.*
 
+* [`RS` - Fast classes for R, written in Rust](https://github.com/avhz/RS)
 * [Package Development List](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 * [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming
 * [devtools <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
