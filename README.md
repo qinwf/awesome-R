@@ -227,6 +227,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - R client library for the Adobe Analytics.
 * [plumber](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
 * [golem](https://thinkr-open.github.io/golem/) - A framework for building production-grade Shiny apps.
+* [WebForms Core Technology](https://github.com/elanatframework/Web_forms_classes/tree/elanat_framework/r) - A web technology for manipulating HTML DOMs via the server.
 
 ## Parallel Computing
 *Packages for parallel computing.*
