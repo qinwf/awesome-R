@@ -472,6 +472,7 @@ Angle Regression
 * [genetics](http://cran.r-project.org/web/packages/genetics/index.html) - Classes and methods for handling genetic data.
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
+* [Athlytics](https://github.com/HzaCode/Athlytics) - Academic R package for sports physiology analysis, providing standardized functions to calculate and visualize key physiological indicators including ACWR, Efficiency Factor, and training load metrics.
 * [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
 * [lme4](https://github.com/lme4/lme4) - Generalized mixed-effects models.
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - Mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
