@@ -464,6 +464,7 @@ Angle Regression
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
 * [scorecard](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
+* [talib](https://github.com/serkor1/ta-lib-R) - A Technical Analysis and Candlestick Pattern Library in R.
 
 ## Bioinformatics and Biostatistics
 *Packages for processing biological datasets.*
