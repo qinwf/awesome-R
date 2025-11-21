@@ -603,6 +603,7 @@ Where to discover new R-esources.
 * [rdrr.io](https://rdrr.io/) - Find R package documentation. Try R packages in your browser.
 * [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
 * [rnotebook.io](https://rnotebook.io/) - Create online R Jupyter Notebooks for free.
+* [CompileBytes R REPL](https://www.compilebytes.com/tools/rscript) – Online R interpreter and interactive code execution environment.
 
 ### News and Info
 
@@ -728,4 +729,5 @@ R communities and package collections (in alphabetical order):
 Your contributions are always welcome!
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
 
