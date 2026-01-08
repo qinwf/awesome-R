@@ -564,6 +564,7 @@ Angle Regression
 
 * [git2r](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 * [Conda](https://anaconda.org/r/repo) - Most R packages are available through the Conda polyglot cross-platform dependency manager.
+* [R-ports](https://github.com/macos-powerpc/R-ports) - R packages for MacPorts: currently maintained overlay repo.
 
 ## Other Interpreters
 *Alternative R engines.*
