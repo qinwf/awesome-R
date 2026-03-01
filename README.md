@@ -472,6 +472,9 @@ Angle Regression
 * [genetics](http://cran.r-project.org/web/packages/genetics/index.html) - Classes and methods for handling genetic data.
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
+* [vegan](https://cran.r-project.org/web/packages/vegan/index.html) - Community ecology: ordination, diversity analysis, and ecological null models.
+* [taxize](https://github.com/ropensci/taxize) - Search taxonomic data from ITIS, EOL, GBIF, NCBI, and 15+ other sources.
+* [rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility (GBIF) API; access occurrence records for 2.4B+ specimens.
 * [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
 * [lme4](https://github.com/lme4/lme4) - Generalized mixed-effects models.
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - Mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
