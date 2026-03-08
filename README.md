@@ -217,6 +217,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [shinyjs](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
 * [curl](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
+* [ePubLangMerger](https://github.com/GeiserX/ePubLangMerger) - R Shiny app that merges bilingual ePub ebooks paragraph-by-paragraph for parallel reading.
 * [httr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 * [XML <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
