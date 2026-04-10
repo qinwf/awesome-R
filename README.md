@@ -565,6 +565,7 @@ Angle Regression
 * [git2r](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 * [Conda](https://anaconda.org/r/repo) - Most R packages are available through the Conda polyglot cross-platform dependency manager.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=qinwf_awesome-R) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Other Interpreters
 *Alternative R engines.*
 
