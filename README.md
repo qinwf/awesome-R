@@ -16,6 +16,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
     - [Integrated Development Environments](#integrated-development-environments)
     - [Syntax](#syntax)
     - [Data Manipulation](#data-manipulation)
+- [dbplyr](https://github.com/tidyverse/dbplyr) - A dplyr backend for databases.
     - [Graphic Displays](#graphic-displays)
     - [Html Widgets](#html-widgets)
     - [Reproducible Research](#reproducible-research)
