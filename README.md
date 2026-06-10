@@ -464,6 +464,7 @@ Angle Regression
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
 * [scorecard](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
+* [wickra](https://github.com/wickra-lib/wickra) - Streaming-first technical-analysis library with 514 O(1)-per-tick indicators; Rust core with R bindings on r-universe.
 
 ## Bioinformatics and Biostatistics
 *Packages for processing biological datasets.*
