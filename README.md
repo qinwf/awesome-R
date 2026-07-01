@@ -212,6 +212,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## Web Technologies and Services
 *Packages to surf the web.*
 
+* [html-to-markdown](https://github.com/xberg-io/html-to-markdown) - Fast, CommonMark-compliant HTML to Markdown converter (R binding over a Rust core).
 * [Web Technologies List](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 * [shiny <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny](https://github.com/grabear/awesome-rshiny)
 * [shinyjs](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
@@ -416,7 +417,6 @@ Angle Regression
 * [tm](http://cran.r-project.org/web/packages/tm/index.html) - A comprehensive text mining framework for R.
 * [openNLP](http://cran.r-project.org/web/packages/openNLP/index.html) - Apache OpenNLP Tools Interface.
 * [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) - An R Package for Text Analysis.
-* [xberg](https://github.com/xberg-io/xberg) - Document intelligence package (R binding over a Rust core) that extracts text, tables, and metadata from PDFs, Office documents, images, and 97+ formats, with optional OCR.
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - Statistical models for word frequency distributions.
 * [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
 * [LDAvis](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
