@@ -558,6 +558,7 @@ Angle Regression
 * [wbstats](https://cran.r-project.org/web/packages/wbstats/index.html) - Tools for searching and downloading data and statistics from the World Bank Data API and the World Bank Data Catalog API.
 * [ICON](https://github.com/rrrlw/ICON) - complex systems & networks datasets from the Index of COmplex Networks (ICON) database [webpage](http://icon.colorado.edu).
 * [RCOBOLDI](https://github.com/thospfuller/rcoboldi) - Import COBOL CopyBook data files directly into R as properly structured data frames. Package builds are available via [Drat](https://github.com/thospfuller/drat) and [DockerHub](https://hub.docker.com/r/thospfuller/rcoboldi-rocker-rstudio).
+* [californiaalw](https://github.com/asafichaki/californiaalw) - Access California Assisted Living Waiver facility records and county aggregates prepared from the California Department of Health Care Services provider list ([data explorer](https://californiacarecompass.com/data/california-alw-county-tracker-2026)).
 
 ## Other Tools
 *Handy Tools for R*
