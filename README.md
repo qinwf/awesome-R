@@ -14,6 +14,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
     - [2019](#2019)
     - [2018](#2018)
     - [Integrated Development Environments](#integrated-development-environments)
+    - [Language Servers, Formatters, and Linters](#language-servers-formatters-and-linters)
     - [Syntax](#syntax)
     - [Data Manipulation](#data-manipulation)
     - [Graphic Displays](#graphic-displays)
@@ -84,6 +85,16 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
 * [radian <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/randy3k/radian) (formerly rtichoke) - A modern R console with syntax highlighting.
 * [RKWard](https://rkward.kde.org/) - An extensible IDE/GUI for R.
+
+## Language Servers, Formatters, and Linters
+*Tools for editing, formatting, and linting R code.*
+
+* [air](https://github.com/posit-dev/air) - An extremely fast R formatter, written in Rust.
+* [arity](https://github.com/jolars/arity) - A language server, formatter, and linter for R, written in Rust.
+* [jarl](https://github.com/etiennebacher/jarl) - Just Another R Linter, a fast linter for R code, written in Rust.
+* [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R.
+* [lintr](https://github.com/r-lib/lintr) - Static code analysis for R to enforce code style.
+* [styler](https://github.com/r-lib/styler) - Non-invasive pretty-printing of R code, following the tidyverse style guide.
 
 ## Syntax
 *Packages change the way you use R.*
@@ -539,7 +550,6 @@ Angle Regression
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 * [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
 * [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to [coveralls](https://coveralls.io/) or [codecov](https://codecov.io/).
-* [lintr](https://github.com/jimhester/lintr) - Static code analysis for R to enforce code style.
 * [staticdocs](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
 * [sinew](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
 
