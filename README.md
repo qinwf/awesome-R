@@ -208,6 +208,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [targets](https://docs.ropensci.org/targets/) - Make-like pipeline tool for organizing and running data science workflows, automatically skipping steps that have already been done. Supported by [rOpenSci](https://ropensci.org/).
 * [R Suite](http://rsuite.io) - A package to design flexible and reproducible deployment workflows for R.
 * [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) - Build fancy HTML or 'LaTeX' tables using 'kable()' from 'knitr'.
+* [sleepcleanr](https://github.com/cyracaid/sleepdiary-cleaner) - Reproducible cleaning pipeline for sleep EMA diary data with human-in-the-loop review.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
