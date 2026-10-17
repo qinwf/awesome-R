@@ -60,7 +60,7 @@ this_month_markdown = by_row(trending_data, gen_markdown,.collate = "rows")$.out
 write_markdown = function(path,all,this){
     f = file(path,open = 'w')
     writeLines("# Top-Starred R GitHub Repos to Follow\n", f)
-    writeLines("Generated biweekly from [R code](https://github.com/qinwf/awesome-R/blob/master/trending_repo.R).\n", f)
+    writeLines("Generated biweekly from [R code](https://github.com/qinwf/awesome-R/blob/master/misc/trending_repo.R).\n", f)
     writeLines("## Trending\n", f)
     writeLines(sprintf("**Trending from %s to %s**\n", get_last_month, get_now), f)
     writeLines(this, f)
