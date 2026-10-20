@@ -595,7 +595,7 @@ Where to discover new R-esources.
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - A very good introductory text on R, also covers some advanced topic. See also the `Manuals` section on [CRAN](https://cran.r-project.org/manuals.html)
 * [CRAN Contributed Docs](https://cran.r-project.org/other-docs.html) - CRAN Contributed Documentation in many languages.
 * [Quick-R](http://www.statmethods.net/) - An excellent quick reference
-* [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
+* [Coddy R course](https://coddy.tech/landing/r) - Interactive lessons for getting started with R, in the browser.
 
 ### Tools and References
 
